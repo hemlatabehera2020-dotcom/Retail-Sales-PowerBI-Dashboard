@@ -1,0 +1,1501 @@
+OrderID,OrderDate,ShipDate,CustomerName,Segment,Region,State,Category,SubCategory,ProductName,Sales,Quantity,Discount,Profit
+ORD-10000,17-08-2022,18-08-2022,Customer_17,Consumer,East,Kolkata,Furniture,Chairs,Chairs Model 6,73778.89,9,0,14580.42
+ORD-10001,24-03-2023,26-03-2023,Customer_302,Corporate,North,Chandigarh,Furniture,Bookcases,Bookcases Model 1,65163.5,9,0.15,-2925.18
+ORD-10002,23-11-2022,27-11-2022,Customer_50,Corporate,East,Patna,Furniture,Chairs,Chairs Model 23,95742.7,6,0,7007.07
+ORD-10003,26-06-2023,27-06-2023,Customer_186,Home Office,West,Ahmedabad,Furniture,Tables,Tables Model 13,8340.62,5,0.2,595.21
+ORD-10004,23-05-2022,24-05-2022,Customer_187,Consumer,South,Chennai,Furniture,Chairs,Chairs Model 24,86715.12,7,0.1,5493.63
+ORD-10005,29-12-2023,31-12-2023,Customer_84,Corporate,East,Bhubaneswar,Office Supplies,Paper,Paper Model 25,7604.55,3,0.2,245.49
+ORD-10006,07-07-2023,12-07-2023,Customer_34,Consumer,South,Hyderabad,Technology,Phones,Phones Model 37,23290.28,1,0.1,1171.3
+ORD-10007,07-10-2023,09-10-2023,Customer_276,Corporate,West,Pune,Office Supplies,Storage,Storage Model 48,14715.72,3,0.05,2740.76
+ORD-10008,27-05-2024,01-06-2024,Customer_79,Home Office,West,Pune,Furniture,Chairs,Chairs Model 11,51197.87,2,0,13581.55
+ORD-10009,14-05-2024,19-05-2024,Customer_6,Home Office,North,Lucknow,Technology,Accessories,Accessories Model 47,99614.08,9,0.1,19202.57
+ORD-10010,23-08-2022,28-08-2022,Customer_370,Home Office,East,Bhubaneswar,Technology,Phones,Phones Model 17,29703.26,3,0.15,-2946.23
+ORD-10011,22-10-2024,24-10-2024,Customer_83,Home Office,North,Chandigarh,Technology,Accessories,Accessories Model 50,51012.46,4,0.05,4768.57
+ORD-10012,22-12-2024,23-12-2024,Customer_291,Consumer,East,Patna,Furniture,Chairs,Chairs Model 6,92945.31,5,0.05,1345.97
+ORD-10013,22-09-2024,23-09-2024,Customer_311,Corporate,South,Bangalore,Office Supplies,Storage,Storage Model 14,94711.44,3,0.1,7758.61
+ORD-10014,16-02-2023,19-02-2023,Customer_116,Consumer,West,Ahmedabad,Office Supplies,Storage,Storage Model 22,44090.96,9,0.15,-3075.3
+ORD-10015,13-02-2022,18-02-2022,Customer_17,Corporate,South,Hyderabad,Furniture,Chairs,Chairs Model 5,7563.81,1,0.05,127.45
+ORD-10016,18-11-2024,20-11-2024,Customer_243,Corporate,East,Bhubaneswar,Technology,Phones,Phones Model 13,54153.78,10,0.2,-1723.84
+ORD-10017,13-07-2022,14-07-2022,Customer_373,Corporate,West,Pune,Technology,Laptops,Laptops Model 7,46968.95,1,0,3060.18
+ORD-10018,25-05-2023,27-05-2023,Customer_39,Corporate,South,Hyderabad,Technology,Phones,Phones Model 36,42477.22,5,0.15,-1594.95
+ORD-10019,20-07-2022,21-07-2022,Customer_31,Consumer,North,Delhi,Furniture,Chairs,Chairs Model 25,40938.2,8,0.05,8849.31
+ORD-10020,05-01-2022,09-01-2022,Customer_152,Consumer,East,Patna,Technology,Laptops,Laptops Model 4,69810.85,9,0.15,-4279.46
+ORD-10021,05-05-2022,08-05-2022,Customer_261,Consumer,North,Delhi,Office Supplies,Storage,Storage Model 12,50533.61,9,0.05,718.58
+ORD-10022,21-05-2022,26-05-2022,Customer_21,Home Office,North,Chandigarh,Furniture,Tables,Tables Model 6,12428.72,10,0.05,1798.81
+ORD-10023,08-05-2024,13-05-2024,Customer_344,Home Office,East,Patna,Furniture,Bookcases,Bookcases Model 20,71761.08,4,0.1,3512.45
+ORD-10024,25-07-2024,28-07-2024,Customer_260,Corporate,North,Delhi,Technology,Accessories,Accessories Model 9,99846.22,2,0,18412.5
+ORD-10025,16-12-2023,17-12-2023,Customer_335,Home Office,South,Chennai,Technology,Phones,Phones Model 1,44099.37,9,0.1,4538.68
+ORD-10026,06-09-2023,07-09-2023,Customer_108,Home Office,South,Chennai,Furniture,Chairs,Chairs Model 22,74370.46,3,0.1,1520.06
+ORD-10027,21-02-2023,24-02-2023,Customer_395,Consumer,West,Pune,Furniture,Chairs,Chairs Model 41,63611.3,5,0,3236.95
+ORD-10028,21-06-2023,23-06-2023,Customer_354,Consumer,West,Ahmedabad,Office Supplies,Storage,Storage Model 35,56310.23,2,0,16119.52
+ORD-10029,15-03-2022,18-03-2022,Customer_128,Home Office,South,Chennai,Furniture,Chairs,Chairs Model 7,31171.71,1,0.1,78.53
+ORD-10030,26-12-2023,31-12-2023,Customer_91,Corporate,West,Ahmedabad,Office Supplies,Binders,Binders Model 2,92613.5,4,0.05,22602.46
+ORD-10031,03-01-2023,06-01-2023,Customer_241,Consumer,West,Ahmedabad,Office Supplies,Binders,Binders Model 13,27047.17,2,0.15,3192.69
+ORD-10032,31-07-2024,03-08-2024,Customer_36,Corporate,East,Kolkata,Furniture,Chairs,Chairs Model 23,66173.3,7,0.1,1300.36
+ORD-10033,09-11-2024,13-11-2024,Customer_223,Corporate,East,Kolkata,Furniture,Tables,Tables Model 47,18267.5,5,0,1408.44
+ORD-10034,05-10-2023,09-10-2023,Customer_276,Home Office,North,Lucknow,Office Supplies,Binders,Binders Model 47,25844.89,7,0,4651.57
+ORD-10035,08-02-2023,11-02-2023,Customer_342,Corporate,West,Mumbai,Office Supplies,Storage,Storage Model 21,62503.96,2,0.1,4799.09
+ORD-10036,04-04-2024,07-04-2024,Customer_208,Home Office,South,Bangalore,Technology,Accessories,Accessories Model 1,94066.19,3,0.2,-726.54
+ORD-10037,15-09-2023,18-09-2023,Customer_110,Home Office,South,Chennai,Office Supplies,Paper,Paper Model 31,65643.21,8,0.15,691.88
+ORD-10038,14-12-2022,15-12-2022,Customer_116,Consumer,East,Bhubaneswar,Office Supplies,Paper,Paper Model 10,62116.45,2,0.05,10447.92
+ORD-10039,20-02-2022,21-02-2022,Customer_197,Corporate,South,Chennai,Office Supplies,Binders,Binders Model 26,45813.91,10,0.05,8227.56
+ORD-10040,15-05-2023,17-05-2023,Customer_128,Consumer,North,Delhi,Technology,Phones,Phones Model 30,18000.72,9,0.15,-1574.08
+ORD-10041,01-10-2022,05-10-2022,Customer_82,Home Office,East,Patna,Office Supplies,Paper,Paper Model 31,89256.02,7,0.2,-3438.28
+ORD-10042,10-07-2024,13-07-2024,Customer_366,Corporate,South,Hyderabad,Technology,Accessories,Accessories Model 16,48717.4,4,0.1,2921.49
+ORD-10043,11-07-2023,14-07-2023,Customer_33,Corporate,East,Bhubaneswar,Furniture,Chairs,Chairs Model 27,15507.65,7,0.05,2738.73
+ORD-10044,09-11-2023,14-11-2023,Customer_11,Home Office,West,Pune,Furniture,Chairs,Chairs Model 25,83372.67,7,0.2,7213.03
+ORD-10045,03-09-2024,04-09-2024,Customer_250,Consumer,East,Patna,Technology,Laptops,Laptops Model 18,54052.95,9,0.2,4024.4
+ORD-10046,11-06-2024,15-06-2024,Customer_66,Home Office,North,Lucknow,Technology,Accessories,Accessories Model 35,68074.62,7,0.05,14304.28
+ORD-10047,25-02-2022,01-03-2022,Customer_195,Corporate,North,Delhi,Office Supplies,Storage,Storage Model 14,14002.1,8,0.05,176.02
+ORD-10048,20-07-2024,23-07-2024,Customer_277,Consumer,East,Patna,Technology,Laptops,Laptops Model 23,25601.02,2,0.15,-2436.04
+ORD-10049,05-04-2023,06-04-2023,Customer_243,Home Office,North,Delhi,Furniture,Chairs,Chairs Model 8,84003.27,10,0.05,5009.64
+ORD-10050,23-03-2023,27-03-2023,Customer_56,Home Office,East,Patna,Furniture,Bookcases,Bookcases Model 2,60921.13,2,0.05,14692.97
+ORD-10051,01-10-2023,06-10-2023,Customer_155,Home Office,West,Pune,Office Supplies,Binders,Binders Model 39,8061.65,4,0,1808.21
+ORD-10052,05-09-2022,10-09-2022,Customer_7,Corporate,North,Lucknow,Office Supplies,Storage,Storage Model 32,66321.37,2,0.2,788.28
+ORD-10053,05-08-2022,09-08-2022,Customer_139,Home Office,East,Bhubaneswar,Technology,Accessories,Accessories Model 35,15722.62,3,0.2,1436.55
+ORD-10054,17-09-2024,21-09-2024,Customer_231,Consumer,West,Ahmedabad,Office Supplies,Storage,Storage Model 49,32569.31,4,0,3899.59
+ORD-10055,09-08-2024,14-08-2024,Customer_133,Corporate,West,Pune,Furniture,Tables,Tables Model 18,85169.81,3,0.15,-4000.43
+ORD-10056,20-07-2023,25-07-2023,Customer_124,Home Office,North,Chandigarh,Furniture,Chairs,Chairs Model 31,24514.93,7,0.15,951.03
+ORD-10057,02-10-2024,06-10-2024,Customer_189,Corporate,North,Delhi,Technology,Phones,Phones Model 36,40737.91,4,0.1,4725.19
+ORD-10058,23-12-2024,26-12-2024,Customer_119,Consumer,West,Ahmedabad,Office Supplies,Storage,Storage Model 47,35505.15,8,0.1,946.42
+ORD-10059,30-01-2023,02-02-2023,Customer_302,Home Office,North,Chandigarh,Office Supplies,Paper,Paper Model 39,18922.41,4,0.15,-584.23
+ORD-10060,03-08-2023,04-08-2023,Customer_24,Consumer,South,Chennai,Furniture,Tables,Tables Model 36,18354.43,1,0.2,-2172.32
+ORD-10061,22-08-2023,24-08-2023,Customer_27,Corporate,West,Mumbai,Furniture,Bookcases,Bookcases Model 31,28791.76,8,0.15,-426.8
+ORD-10062,22-08-2022,23-08-2022,Customer_289,Corporate,West,Pune,Furniture,Bookcases,Bookcases Model 6,63129.85,1,0.05,2354.71
+ORD-10063,24-05-2023,25-05-2023,Customer_227,Corporate,West,Ahmedabad,Office Supplies,Paper,Paper Model 38,22955.87,9,0.15,289.9
+ORD-10064,28-05-2024,31-05-2024,Customer_42,Consumer,North,Chandigarh,Office Supplies,Binders,Binders Model 16,94785.22,4,0.05,6271.14
+ORD-10065,22-12-2022,27-12-2022,Customer_119,Corporate,North,Delhi,Furniture,Tables,Tables Model 46,45325.12,10,0.15,-1232.17
+ORD-10066,03-08-2023,07-08-2023,Customer_279,Consumer,North,Chandigarh,Furniture,Tables,Tables Model 42,78888.89,10,0.05,8384.69
+ORD-10067,02-11-2022,05-11-2022,Customer_225,Consumer,South,Bangalore,Furniture,Chairs,Chairs Model 30,79366.54,10,0.2,6372.98
+ORD-10068,15-09-2023,19-09-2023,Customer_377,Corporate,East,Bhubaneswar,Office Supplies,Storage,Storage Model 39,44057.01,10,0,11999.18
+ORD-10069,28-05-2023,29-05-2023,Customer_391,Consumer,North,Delhi,Office Supplies,Paper,Paper Model 31,58918.73,1,0.1,5542
+ORD-10070,28-11-2024,02-12-2024,Customer_210,Corporate,East,Kolkata,Office Supplies,Storage,Storage Model 21,63661.08,8,0,10663.4
+ORD-10071,03-08-2022,05-08-2022,Customer_46,Corporate,East,Patna,Office Supplies,Storage,Storage Model 17,29177.67,7,0.2,-4108.97
+ORD-10072,25-10-2023,26-10-2023,Customer_266,Corporate,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 40,87002.06,8,0.15,-7521.24
+ORD-10073,17-10-2024,21-10-2024,Customer_249,Consumer,North,Delhi,Technology,Accessories,Accessories Model 2,13535.82,5,0.15,1627.16
+ORD-10074,06-05-2023,08-05-2023,Customer_61,Home Office,East,Bhubaneswar,Furniture,Bookcases,Bookcases Model 10,41095.07,4,0,6795.56
+ORD-10075,17-10-2024,20-10-2024,Customer_307,Home Office,East,Patna,Technology,Laptops,Laptops Model 48,24751.23,9,0.05,2373.56
+ORD-10076,07-10-2022,08-10-2022,Customer_301,Home Office,East,Patna,Technology,Accessories,Accessories Model 43,27083.68,1,0.1,3561.85
+ORD-10077,29-09-2024,01-10-2024,Customer_165,Consumer,West,Ahmedabad,Technology,Laptops,Laptops Model 45,33577.78,9,0.15,464.59
+ORD-10078,05-05-2023,10-05-2023,Customer_340,Home Office,West,Mumbai,Technology,Phones,Phones Model 10,32158.54,8,0.15,-111.92
+ORD-10079,11-10-2024,12-10-2024,Customer_234,Consumer,South,Hyderabad,Office Supplies,Storage,Storage Model 47,87035.18,8,0,15795.82
+ORD-10080,23-10-2022,27-10-2022,Customer_346,Home Office,South,Bangalore,Technology,Laptops,Laptops Model 25,34186.84,7,0,8989.13
+ORD-10081,11-10-2023,15-10-2023,Customer_223,Consumer,North,Chandigarh,Furniture,Chairs,Chairs Model 49,63300.52,5,0.05,11817.67
+ORD-10082,25-07-2022,29-07-2022,Customer_221,Consumer,South,Hyderabad,Technology,Phones,Phones Model 16,5076.1,1,0.1,201.09
+ORD-10083,23-12-2024,27-12-2024,Customer_255,Home Office,South,Bangalore,Furniture,Chairs,Chairs Model 10,61144.43,7,0.2,1270.8
+ORD-10084,21-04-2023,25-04-2023,Customer_81,Consumer,East,Patna,Technology,Accessories,Accessories Model 29,1435.04,8,0.1,171.35
+ORD-10085,09-12-2023,14-12-2023,Customer_248,Consumer,East,Bhubaneswar,Technology,Accessories,Accessories Model 16,25384.77,5,0.05,6342.22
+ORD-10086,21-02-2024,26-02-2024,Customer_352,Home Office,East,Bhubaneswar,Technology,Accessories,Accessories Model 4,29875.46,7,0.1,-1433.29
+ORD-10087,14-10-2024,17-10-2024,Customer_370,Home Office,South,Hyderabad,Technology,Phones,Phones Model 44,63843.48,10,0.1,7625.54
+ORD-10088,08-10-2022,09-10-2022,Customer_168,Home Office,North,Lucknow,Technology,Phones,Phones Model 27,58167.59,3,0,16136.09
+ORD-10089,26-12-2022,28-12-2022,Customer_247,Corporate,South,Hyderabad,Technology,Accessories,Accessories Model 48,50428.58,5,0.05,3239.66
+ORD-10090,25-11-2023,26-11-2023,Customer_203,Consumer,West,Mumbai,Furniture,Chairs,Chairs Model 17,86083.99,7,0.2,-5040.75
+ORD-10091,11-09-2022,15-09-2022,Customer_120,Corporate,East,Bhubaneswar,Office Supplies,Paper,Paper Model 2,26585.06,7,0.1,-609.16
+ORD-10092,03-11-2023,08-11-2023,Customer_24,Consumer,South,Hyderabad,Furniture,Bookcases,Bookcases Model 20,82473.61,5,0.15,-5841.69
+ORD-10093,05-10-2024,06-10-2024,Customer_381,Home Office,North,Delhi,Office Supplies,Binders,Binders Model 10,39170.26,6,0.2,-1771.21
+ORD-10094,29-04-2024,30-04-2024,Customer_121,Corporate,West,Ahmedabad,Technology,Laptops,Laptops Model 7,3755.27,6,0.05,416.26
+ORD-10095,23-01-2024,28-01-2024,Customer_109,Home Office,East,Kolkata,Technology,Laptops,Laptops Model 41,19385.95,2,0.15,-1494.3
+ORD-10096,13-02-2022,14-02-2022,Customer_120,Corporate,East,Kolkata,Furniture,Bookcases,Bookcases Model 50,20917.95,9,0.05,3066.48
+ORD-10097,30-10-2022,04-11-2022,Customer_14,Consumer,North,Lucknow,Furniture,Chairs,Chairs Model 1,54251.44,3,0,11678.4
+ORD-10098,04-01-2024,06-01-2024,Customer_33,Corporate,East,Kolkata,Furniture,Tables,Tables Model 29,5713.7,7,0.2,-694.72
+ORD-10099,12-01-2024,17-01-2024,Customer_330,Consumer,North,Lucknow,Office Supplies,Binders,Binders Model 4,94568.86,1,0.2,-7054.12
+ORD-10100,07-09-2024,11-09-2024,Customer_165,Home Office,West,Ahmedabad,Furniture,Tables,Tables Model 10,71383.93,8,0,19617.5
+ORD-10101,15-05-2022,17-05-2022,Customer_272,Corporate,East,Bhubaneswar,Office Supplies,Paper,Paper Model 30,55061.47,6,0.15,8185.27
+ORD-10102,01-11-2024,06-11-2024,Customer_117,Corporate,West,Mumbai,Office Supplies,Binders,Binders Model 22,85352.88,9,0.05,9176.93
+ORD-10103,17-07-2024,21-07-2024,Customer_352,Corporate,West,Ahmedabad,Furniture,Tables,Tables Model 5,42963.02,5,0.1,8094.15
+ORD-10104,06-07-2022,07-07-2022,Customer_288,Home Office,North,Lucknow,Furniture,Bookcases,Bookcases Model 22,74010.2,3,0.2,-9991.73
+ORD-10105,08-09-2022,12-09-2022,Customer_54,Home Office,East,Bhubaneswar,Technology,Accessories,Accessories Model 33,5618.88,5,0.2,-403.93
+ORD-10106,12-03-2023,14-03-2023,Customer_294,Consumer,West,Mumbai,Furniture,Tables,Tables Model 28,84614.66,6,0,20362.64
+ORD-10107,23-02-2022,28-02-2022,Customer_93,Consumer,East,Kolkata,Furniture,Tables,Tables Model 37,70418.53,5,0.1,2658.71
+ORD-10108,31-03-2024,01-04-2024,Customer_233,Corporate,South,Hyderabad,Office Supplies,Binders,Binders Model 11,9629.89,9,0.05,905.68
+ORD-10109,28-01-2024,31-01-2024,Customer_26,Home Office,East,Bhubaneswar,Office Supplies,Binders,Binders Model 6,88392.55,3,0.05,16671.63
+ORD-10110,12-07-2023,16-07-2023,Customer_221,Consumer,West,Pune,Office Supplies,Storage,Storage Model 19,41711.28,4,0.2,-5069.82
+ORD-10111,23-09-2024,28-09-2024,Customer_109,Consumer,East,Kolkata,Furniture,Tables,Tables Model 49,98452.34,1,0,9954.1
+ORD-10112,08-06-2023,11-06-2023,Customer_361,Consumer,East,Kolkata,Furniture,Tables,Tables Model 33,74827.91,3,0.05,7112.53
+ORD-10113,27-12-2023,28-12-2023,Customer_294,Corporate,West,Ahmedabad,Furniture,Tables,Tables Model 46,2364.78,2,0.1,222.15
+ORD-10114,05-05-2024,08-05-2024,Customer_186,Consumer,North,Lucknow,Furniture,Tables,Tables Model 28,17601.38,10,0.15,1901.06
+ORD-10115,05-08-2022,07-08-2022,Customer_399,Consumer,West,Ahmedabad,Technology,Accessories,Accessories Model 5,8325.39,5,0.1,44.9
+ORD-10116,11-11-2024,12-11-2024,Customer_132,Consumer,South,Chennai,Technology,Accessories,Accessories Model 12,95843.22,3,0.05,2463.28
+ORD-10117,10-11-2022,11-11-2022,Customer_290,Home Office,South,Hyderabad,Technology,Laptops,Laptops Model 41,75567.36,10,0.15,5311.13
+ORD-10118,24-10-2023,27-10-2023,Customer_181,Home Office,South,Chennai,Furniture,Tables,Tables Model 5,44499.7,5,0.1,4354.52
+ORD-10119,28-09-2023,02-10-2023,Customer_260,Corporate,West,Mumbai,Furniture,Tables,Tables Model 30,83253.81,2,0,16963.14
+ORD-10120,26-03-2022,30-03-2022,Customer_176,Home Office,South,Chennai,Office Supplies,Storage,Storage Model 6,50386.05,1,0.15,-3734.84
+ORD-10121,30-10-2024,01-11-2024,Customer_187,Corporate,North,Delhi,Office Supplies,Storage,Storage Model 19,99103.11,9,0.2,242.94
+ORD-10122,04-03-2024,08-03-2024,Customer_286,Home Office,East,Bhubaneswar,Office Supplies,Binders,Binders Model 25,79028.08,6,0,10465.11
+ORD-10123,05-08-2023,08-08-2023,Customer_358,Home Office,South,Chennai,Furniture,Bookcases,Bookcases Model 26,66529.4,6,0.1,12768.6
+ORD-10124,22-09-2022,27-09-2022,Customer_379,Home Office,North,Lucknow,Office Supplies,Storage,Storage Model 34,64527.58,6,0.05,10810.25
+ORD-10125,11-07-2022,15-07-2022,Customer_249,Consumer,East,Kolkata,Technology,Laptops,Laptops Model 15,18436.16,4,0.1,3446.03
+ORD-10126,09-10-2022,11-10-2022,Customer_393,Home Office,North,Lucknow,Furniture,Bookcases,Bookcases Model 9,77202.03,9,0,16635.67
+ORD-10127,11-02-2024,13-02-2024,Customer_187,Home Office,South,Bangalore,Office Supplies,Paper,Paper Model 47,80999.85,3,0.15,-7215.21
+ORD-10128,02-05-2023,06-05-2023,Customer_100,Corporate,East,Bhubaneswar,Technology,Phones,Phones Model 44,53634.11,5,0.15,6757.55
+ORD-10129,21-06-2024,25-06-2024,Customer_71,Corporate,East,Patna,Office Supplies,Paper,Paper Model 4,42156.75,3,0.05,8444.62
+ORD-10130,11-09-2024,14-09-2024,Customer_263,Consumer,North,Chandigarh,Office Supplies,Binders,Binders Model 28,28863.77,3,0.1,1799.07
+ORD-10131,07-07-2022,09-07-2022,Customer_42,Corporate,West,Pune,Furniture,Tables,Tables Model 15,5799.06,9,0.1,51.87
+ORD-10132,27-02-2022,02-03-2022,Customer_242,Home Office,North,Chandigarh,Office Supplies,Storage,Storage Model 9,79242.37,3,0,9645.37
+ORD-10133,18-08-2024,22-08-2024,Customer_312,Home Office,North,Delhi,Furniture,Tables,Tables Model 28,21957.65,3,0.2,1867.64
+ORD-10134,16-08-2022,19-08-2022,Customer_256,Home Office,South,Chennai,Furniture,Chairs,Chairs Model 35,24224.73,10,0.15,-2042.1
+ORD-10135,03-02-2022,08-02-2022,Customer_214,Consumer,South,Hyderabad,Furniture,Tables,Tables Model 43,43209.27,10,0.1,438.19
+ORD-10136,25-06-2022,30-06-2022,Customer_241,Consumer,East,Kolkata,Office Supplies,Paper,Paper Model 41,50979.11,9,0.2,-7387.71
+ORD-10137,03-03-2024,06-03-2024,Customer_322,Consumer,East,Bhubaneswar,Furniture,Tables,Tables Model 50,78957.74,6,0.05,14467.84
+ORD-10138,12-11-2023,14-11-2023,Customer_246,Home Office,North,Lucknow,Office Supplies,Storage,Storage Model 12,81444.13,3,0.15,11826.08
+ORD-10139,04-10-2022,05-10-2022,Customer_159,Home Office,West,Mumbai,Technology,Phones,Phones Model 26,4858.72,4,0,626.28
+ORD-10140,27-08-2024,30-08-2024,Customer_189,Corporate,North,Chandigarh,Furniture,Tables,Tables Model 26,36018.93,1,0.1,659.3
+ORD-10141,19-06-2024,23-06-2024,Customer_373,Corporate,East,Kolkata,Technology,Accessories,Accessories Model 6,50003.58,9,0.1,7514.89
+ORD-10142,31-05-2024,05-06-2024,Customer_309,Home Office,South,Hyderabad,Technology,Laptops,Laptops Model 28,10708.49,6,0.1,285.1
+ORD-10143,08-12-2022,12-12-2022,Customer_141,Home Office,East,Patna,Furniture,Bookcases,Bookcases Model 4,87068.7,6,0.2,8666.61
+ORD-10144,03-06-2022,07-06-2022,Customer_348,Corporate,East,Bhubaneswar,Office Supplies,Paper,Paper Model 3,16418.68,1,0.05,3483.51
+ORD-10145,16-09-2022,17-09-2022,Customer_348,Corporate,South,Hyderabad,Technology,Laptops,Laptops Model 24,38594.01,10,0,7767.96
+ORD-10146,01-02-2024,05-02-2024,Customer_59,Consumer,North,Chandigarh,Furniture,Bookcases,Bookcases Model 48,37011.52,6,0.1,459.05
+ORD-10147,17-01-2023,21-01-2023,Customer_147,Home Office,West,Ahmedabad,Furniture,Tables,Tables Model 32,77608.97,8,0.05,19331.72
+ORD-10148,14-02-2023,15-02-2023,Customer_164,Home Office,South,Bangalore,Technology,Phones,Phones Model 23,89918.56,8,0,22715.97
+ORD-10149,13-05-2022,18-05-2022,Customer_63,Consumer,East,Patna,Furniture,Bookcases,Bookcases Model 9,71101.6,3,0.1,5488.26
+ORD-10150,30-04-2023,04-05-2023,Customer_45,Consumer,North,Lucknow,Office Supplies,Paper,Paper Model 20,37206.66,9,0.05,5692.14
+ORD-10151,26-03-2024,30-03-2024,Customer_349,Home Office,West,Pune,Office Supplies,Binders,Binders Model 23,12970.01,6,0,2107.54
+ORD-10152,20-09-2022,25-09-2022,Customer_156,Consumer,South,Bangalore,Technology,Accessories,Accessories Model 11,91115.87,1,0,16357.63
+ORD-10153,23-10-2023,25-10-2023,Customer_156,Home Office,East,Bhubaneswar,Technology,Phones,Phones Model 35,25435.23,9,0.1,-475.83
+ORD-10154,11-07-2022,16-07-2022,Customer_289,Consumer,South,Hyderabad,Office Supplies,Binders,Binders Model 2,17534.46,10,0.2,-1150.17
+ORD-10155,16-06-2022,17-06-2022,Customer_280,Corporate,East,Bhubaneswar,Furniture,Bookcases,Bookcases Model 42,41950.38,1,0.15,5128.4
+ORD-10156,11-09-2023,15-09-2023,Customer_248,Corporate,South,Hyderabad,Technology,Laptops,Laptops Model 14,45627.64,1,0.05,5014.54
+ORD-10157,28-11-2023,03-12-2023,Customer_190,Home Office,South,Chennai,Office Supplies,Storage,Storage Model 36,73552.88,6,0.15,-4950.73
+ORD-10158,06-08-2022,09-08-2022,Customer_197,Home Office,South,Chennai,Furniture,Tables,Tables Model 27,45234.8,3,0,2834.02
+ORD-10159,24-05-2023,26-05-2023,Customer_240,Corporate,East,Bhubaneswar,Office Supplies,Storage,Storage Model 20,19388.49,3,0.15,2888.74
+ORD-10160,15-10-2024,16-10-2024,Customer_26,Corporate,North,Lucknow,Office Supplies,Storage,Storage Model 32,96685.32,4,0.2,-5972.85
+ORD-10161,21-08-2024,24-08-2024,Customer_206,Consumer,North,Delhi,Technology,Phones,Phones Model 37,88304.35,6,0.15,-751.97
+ORD-10162,03-02-2023,06-02-2023,Customer_320,Home Office,East,Kolkata,Technology,Accessories,Accessories Model 40,45310.26,9,0.1,7083.25
+ORD-10163,01-09-2022,03-09-2022,Customer_261,Corporate,North,Lucknow,Technology,Laptops,Laptops Model 33,56004.27,6,0.05,2787.02
+ORD-10164,24-03-2022,25-03-2022,Customer_264,Consumer,North,Delhi,Office Supplies,Storage,Storage Model 21,80494.6,9,0.15,-5052.23
+ORD-10165,15-10-2023,17-10-2023,Customer_363,Home Office,West,Ahmedabad,Office Supplies,Storage,Storage Model 20,59575.6,9,0.2,-1007.72
+ORD-10166,30-08-2024,31-08-2024,Customer_372,Home Office,East,Patna,Office Supplies,Binders,Binders Model 41,97999.85,10,0.1,14620.47
+ORD-10167,24-02-2022,01-03-2022,Customer_269,Home Office,West,Pune,Office Supplies,Paper,Paper Model 47,57974.62,1,0.2,-1732.73
+ORD-10168,18-02-2024,20-02-2024,Customer_78,Corporate,South,Bangalore,Office Supplies,Paper,Paper Model 45,11434.6,1,0.15,-246.72
+ORD-10169,22-02-2023,26-02-2023,Customer_340,Corporate,West,Ahmedabad,Office Supplies,Binders,Binders Model 34,70724.64,9,0.05,9917.13
+ORD-10170,11-02-2024,14-02-2024,Customer_127,Corporate,South,Chennai,Office Supplies,Storage,Storage Model 36,54854.19,5,0.2,-1588.3
+ORD-10171,04-09-2023,06-09-2023,Customer_287,Home Office,East,Patna,Office Supplies,Binders,Binders Model 18,69178.87,8,0.1,4839.12
+ORD-10172,13-08-2023,14-08-2023,Customer_227,Home Office,West,Pune,Technology,Phones,Phones Model 17,29400.04,5,0,4015.78
+ORD-10173,08-09-2024,10-09-2024,Customer_301,Consumer,South,Hyderabad,Technology,Accessories,Accessories Model 16,69769.04,3,0,14227.25
+ORD-10174,14-04-2022,19-04-2022,Customer_395,Consumer,South,Hyderabad,Furniture,Chairs,Chairs Model 1,10469.7,6,0.15,-783.8
+ORD-10175,20-11-2022,24-11-2022,Customer_31,Consumer,West,Pune,Office Supplies,Binders,Binders Model 42,75713.15,5,0.1,1616.77
+ORD-10176,21-04-2023,26-04-2023,Customer_96,Home Office,North,Delhi,Technology,Phones,Phones Model 19,93425.3,1,0.15,9061.33
+ORD-10177,18-03-2022,19-03-2022,Customer_329,Home Office,East,Bhubaneswar,Office Supplies,Binders,Binders Model 34,92881.26,6,0.1,5906.07
+ORD-10178,08-10-2024,10-10-2024,Customer_8,Home Office,West,Pune,Furniture,Chairs,Chairs Model 22,33403.07,8,0.1,4330.69
+ORD-10179,28-08-2023,02-09-2023,Customer_206,Home Office,South,Bangalore,Office Supplies,Paper,Paper Model 7,89755.75,7,0.2,-6105.04
+ORD-10180,14-01-2023,16-01-2023,Customer_169,Corporate,West,Pune,Furniture,Chairs,Chairs Model 38,26448.14,4,0.15,2339.05
+ORD-10181,24-01-2022,27-01-2022,Customer_352,Home Office,East,Bhubaneswar,Furniture,Chairs,Chairs Model 46,66944.72,8,0.1,-674.19
+ORD-10182,29-09-2023,30-09-2023,Customer_383,Home Office,East,Patna,Office Supplies,Binders,Binders Model 24,22303.3,3,0.15,-1376.19
+ORD-10183,01-05-2024,06-05-2024,Customer_271,Home Office,West,Ahmedabad,Office Supplies,Binders,Binders Model 24,76305.03,10,0,13839.95
+ORD-10184,09-06-2022,14-06-2022,Customer_267,Corporate,North,Delhi,Office Supplies,Paper,Paper Model 8,20614.6,9,0.05,847.97
+ORD-10185,25-02-2023,02-03-2023,Customer_234,Home Office,West,Mumbai,Office Supplies,Storage,Storage Model 4,80964.86,8,0.05,10388.76
+ORD-10186,04-08-2024,07-08-2024,Customer_177,Home Office,North,Lucknow,Technology,Phones,Phones Model 5,74707.55,10,0,4581.25
+ORD-10187,04-05-2022,05-05-2022,Customer_196,Corporate,West,Mumbai,Technology,Laptops,Laptops Model 25,18408.14,3,0.15,-117.53
+ORD-10188,09-02-2024,10-02-2024,Customer_373,Consumer,South,Hyderabad,Technology,Phones,Phones Model 1,18258.13,9,0.15,588.11
+ORD-10189,16-02-2022,19-02-2022,Customer_178,Consumer,West,Ahmedabad,Office Supplies,Paper,Paper Model 18,42700.74,7,0.05,2642.24
+ORD-10190,22-01-2023,23-01-2023,Customer_52,Home Office,North,Chandigarh,Technology,Accessories,Accessories Model 3,76722.32,1,0.05,3952.77
+ORD-10191,03-07-2024,08-07-2024,Customer_398,Consumer,North,Delhi,Office Supplies,Binders,Binders Model 9,40525.4,4,0.2,-3877.58
+ORD-10192,28-10-2024,31-10-2024,Customer_74,Home Office,South,Hyderabad,Office Supplies,Storage,Storage Model 34,57958.74,6,0.05,4372.47
+ORD-10193,29-03-2023,02-04-2023,Customer_25,Corporate,East,Patna,Furniture,Bookcases,Bookcases Model 42,94877.77,3,0.15,3696.69
+ORD-10194,20-02-2024,25-02-2024,Customer_243,Consumer,East,Bhubaneswar,Technology,Laptops,Laptops Model 15,15347.15,7,0.05,2894.53
+ORD-10195,08-09-2023,10-09-2023,Customer_125,Corporate,West,Mumbai,Office Supplies,Storage,Storage Model 14,96794.73,9,0.2,-11274.34
+ORD-10196,08-11-2023,09-11-2023,Customer_345,Home Office,West,Pune,Furniture,Bookcases,Bookcases Model 39,72596.18,4,0,8502.13
+ORD-10197,22-03-2022,23-03-2022,Customer_171,Corporate,South,Hyderabad,Office Supplies,Paper,Paper Model 1,56105.62,8,0.05,12195.59
+ORD-10198,10-03-2023,12-03-2023,Customer_283,Corporate,North,Chandigarh,Technology,Phones,Phones Model 50,69714.82,4,0.15,8977.99
+ORD-10199,03-08-2023,07-08-2023,Customer_239,Consumer,West,Ahmedabad,Office Supplies,Storage,Storage Model 47,31188.02,6,0.2,2205.09
+ORD-10200,19-08-2024,22-08-2024,Customer_284,Home Office,South,Chennai,Technology,Laptops,Laptops Model 38,5048.69,4,0.05,20.47
+ORD-10201,05-05-2024,08-05-2024,Customer_351,Corporate,South,Bangalore,Technology,Phones,Phones Model 17,38294.06,4,0.15,1442.18
+ORD-10202,27-09-2024,01-10-2024,Customer_278,Home Office,West,Mumbai,Office Supplies,Storage,Storage Model 4,17341.94,9,0.15,-936.26
+ORD-10203,09-12-2024,10-12-2024,Customer_5,Consumer,North,Chandigarh,Furniture,Chairs,Chairs Model 33,41533.03,4,0,9419.38
+ORD-10204,22-07-2024,25-07-2024,Customer_273,Home Office,North,Chandigarh,Office Supplies,Paper,Paper Model 27,93423.42,8,0.15,-8974.91
+ORD-10205,25-01-2022,26-01-2022,Customer_50,Home Office,East,Bhubaneswar,Technology,Phones,Phones Model 10,50470.5,7,0.05,1350.29
+ORD-10206,09-05-2023,11-05-2023,Customer_357,Consumer,East,Patna,Technology,Laptops,Laptops Model 20,8362.41,7,0.15,344.95
+ORD-10207,15-06-2022,16-06-2022,Customer_43,Corporate,North,Lucknow,Technology,Laptops,Laptops Model 28,55493.79,1,0,12525.57
+ORD-10208,10-11-2023,15-11-2023,Customer_39,Home Office,North,Chandigarh,Furniture,Chairs,Chairs Model 18,21536,10,0.15,-694.02
+ORD-10209,09-03-2022,11-03-2022,Customer_289,Consumer,East,Kolkata,Furniture,Bookcases,Bookcases Model 37,14847.06,7,0,1853.2
+ORD-10210,07-03-2024,12-03-2024,Customer_178,Consumer,East,Patna,Office Supplies,Binders,Binders Model 7,79154.56,2,0.2,2878.39
+ORD-10211,14-06-2024,16-06-2024,Customer_140,Corporate,North,Lucknow,Office Supplies,Paper,Paper Model 32,95508.41,7,0.1,-4068.05
+ORD-10212,13-04-2023,16-04-2023,Customer_152,Consumer,West,Pune,Furniture,Bookcases,Bookcases Model 46,58794.57,7,0,14289.54
+ORD-10213,31-05-2022,01-06-2022,Customer_55,Consumer,East,Kolkata,Technology,Accessories,Accessories Model 1,78497.08,3,0.15,-1635.13
+ORD-10214,24-09-2023,28-09-2023,Customer_263,Corporate,East,Patna,Furniture,Chairs,Chairs Model 7,9186.07,7,0.15,360.52
+ORD-10215,23-02-2022,24-02-2022,Customer_212,Corporate,East,Bhubaneswar,Furniture,Bookcases,Bookcases Model 50,60005.36,6,0.15,-5815.41
+ORD-10216,23-06-2022,28-06-2022,Customer_138,Corporate,South,Hyderabad,Office Supplies,Binders,Binders Model 10,68688.94,3,0.05,4617.94
+ORD-10217,10-05-2022,12-05-2022,Customer_127,Home Office,West,Pune,Technology,Laptops,Laptops Model 41,48681.02,2,0.1,629.2
+ORD-10218,12-10-2024,17-10-2024,Customer_195,Corporate,South,Chennai,Furniture,Chairs,Chairs Model 29,30813.47,7,0.1,4942.58
+ORD-10219,17-11-2023,21-11-2023,Customer_204,Corporate,South,Chennai,Technology,Accessories,Accessories Model 19,94754.25,4,0.15,-2032.87
+ORD-10220,02-10-2024,07-10-2024,Customer_289,Consumer,South,Chennai,Technology,Laptops,Laptops Model 38,81741.2,7,0.1,-1759.73
+ORD-10221,04-01-2023,09-01-2023,Customer_210,Home Office,North,Chandigarh,Technology,Accessories,Accessories Model 32,21360.02,5,0,5441.28
+ORD-10222,13-10-2022,16-10-2022,Customer_307,Corporate,South,Chennai,Office Supplies,Binders,Binders Model 38,71666.02,7,0,11629.01
+ORD-10223,31-03-2024,05-04-2024,Customer_44,Consumer,West,Ahmedabad,Furniture,Tables,Tables Model 50,70312.61,9,0.2,671.14
+ORD-10224,24-05-2023,27-05-2023,Customer_221,Consumer,South,Hyderabad,Office Supplies,Binders,Binders Model 1,56540.42,7,0.1,10823.49
+ORD-10225,21-07-2022,24-07-2022,Customer_201,Corporate,South,Hyderabad,Office Supplies,Paper,Paper Model 50,56020.34,10,0.05,6243.17
+ORD-10226,21-10-2024,23-10-2024,Customer_374,Consumer,East,Kolkata,Technology,Phones,Phones Model 23,29895.51,2,0,7707.94
+ORD-10227,01-10-2023,04-10-2023,Customer_232,Corporate,West,Mumbai,Office Supplies,Storage,Storage Model 5,35155.88,2,0.15,2830
+ORD-10228,07-09-2023,08-09-2023,Customer_283,Consumer,North,Delhi,Technology,Accessories,Accessories Model 22,11381.59,3,0.05,1468.21
+ORD-10229,23-05-2024,27-05-2024,Customer_315,Consumer,South,Chennai,Office Supplies,Binders,Binders Model 29,19045.5,7,0.15,-1765.55
+ORD-10230,29-05-2024,02-06-2024,Customer_275,Consumer,North,Chandigarh,Furniture,Chairs,Chairs Model 24,28195.31,2,0.2,-3512.06
+ORD-10231,30-10-2023,01-11-2023,Customer_313,Corporate,West,Mumbai,Technology,Accessories,Accessories Model 38,86332.34,9,0.1,8567.86
+ORD-10232,22-08-2022,25-08-2022,Customer_345,Consumer,East,Patna,Office Supplies,Binders,Binders Model 21,81466.96,5,0.2,-200.24
+ORD-10233,30-08-2022,01-09-2022,Customer_71,Home Office,East,Kolkata,Furniture,Tables,Tables Model 25,69496.94,9,0.15,316.89
+ORD-10234,16-05-2024,18-05-2024,Customer_148,Consumer,West,Ahmedabad,Office Supplies,Paper,Paper Model 12,91956.52,3,0.2,-9957.38
+ORD-10235,07-10-2023,11-10-2023,Customer_254,Corporate,North,Lucknow,Furniture,Tables,Tables Model 44,14085.2,7,0.2,-332.98
+ORD-10236,04-10-2024,08-10-2024,Customer_116,Home Office,West,Pune,Furniture,Chairs,Chairs Model 19,56757.08,4,0.1,-2373.93
+ORD-10237,11-12-2022,15-12-2022,Customer_188,Home Office,West,Ahmedabad,Office Supplies,Binders,Binders Model 49,57485.05,5,0.2,3208.86
+ORD-10238,27-03-2022,31-03-2022,Customer_17,Corporate,South,Chennai,Furniture,Bookcases,Bookcases Model 17,83092.04,4,0.1,14017.83
+ORD-10239,15-12-2023,16-12-2023,Customer_313,Home Office,West,Mumbai,Furniture,Chairs,Chairs Model 28,81164.92,10,0.1,13413.49
+ORD-10240,06-12-2022,11-12-2022,Customer_87,Corporate,South,Bangalore,Furniture,Chairs,Chairs Model 46,57222.4,9,0.1,5677.29
+ORD-10241,23-08-2023,26-08-2023,Customer_336,Consumer,East,Bhubaneswar,Office Supplies,Binders,Binders Model 45,13991.1,7,0,4171.05
+ORD-10242,29-09-2022,01-10-2022,Customer_324,Corporate,South,Hyderabad,Technology,Phones,Phones Model 41,76266.62,7,0.15,-4915.92
+ORD-10243,28-04-2024,02-05-2024,Customer_250,Corporate,West,Mumbai,Office Supplies,Binders,Binders Model 38,40583.65,5,0.1,2584.12
+ORD-10244,06-01-2022,07-01-2022,Customer_220,Consumer,West,Ahmedabad,Office Supplies,Paper,Paper Model 32,36143.16,2,0.2,-1827.8
+ORD-10245,04-07-2023,07-07-2023,Customer_391,Consumer,East,Patna,Office Supplies,Paper,Paper Model 3,13494.13,8,0.1,2341.75
+ORD-10246,23-07-2022,27-07-2022,Customer_68,Home Office,North,Delhi,Furniture,Tables,Tables Model 20,45923.55,7,0.05,11431.45
+ORD-10247,22-11-2022,25-11-2022,Customer_157,Home Office,North,Chandigarh,Technology,Laptops,Laptops Model 45,8700.84,3,0,1297.17
+ORD-10248,25-04-2023,29-04-2023,Customer_266,Home Office,North,Chandigarh,Furniture,Chairs,Chairs Model 29,21735.41,2,0.05,3225.97
+ORD-10249,20-01-2022,21-01-2022,Customer_375,Consumer,East,Kolkata,Technology,Accessories,Accessories Model 7,13651.43,2,0.05,1307.36
+ORD-10250,04-10-2023,07-10-2023,Customer_5,Home Office,East,Kolkata,Technology,Phones,Phones Model 42,64336.83,3,0,11749.65
+ORD-10251,03-12-2022,07-12-2022,Customer_112,Consumer,East,Bhubaneswar,Furniture,Bookcases,Bookcases Model 7,74952.75,7,0.2,1622.09
+ORD-10252,14-10-2022,15-10-2022,Customer_128,Home Office,West,Pune,Technology,Laptops,Laptops Model 39,79212.13,4,0.1,8804.84
+ORD-10253,07-08-2023,08-08-2023,Customer_123,Corporate,East,Kolkata,Office Supplies,Paper,Paper Model 25,51197.5,7,0.1,5710.69
+ORD-10254,19-08-2022,21-08-2022,Customer_68,Corporate,West,Ahmedabad,Office Supplies,Binders,Binders Model 37,53064.51,1,0.1,9736.33
+ORD-10255,11-05-2024,14-05-2024,Customer_31,Corporate,South,Chennai,Furniture,Chairs,Chairs Model 33,58942.67,1,0.1,231.98
+ORD-10256,10-08-2023,15-08-2023,Customer_143,Consumer,West,Pune,Office Supplies,Storage,Storage Model 20,8701.57,9,0.2,34.91
+ORD-10257,11-06-2022,16-06-2022,Customer_374,Consumer,South,Bangalore,Office Supplies,Storage,Storage Model 4,39377.78,2,0.1,4909.19
+ORD-10258,16-05-2023,17-05-2023,Customer_363,Consumer,West,Mumbai,Technology,Accessories,Accessories Model 45,61078.82,5,0.05,1823.86
+ORD-10259,24-01-2022,26-01-2022,Customer_384,Corporate,West,Pune,Office Supplies,Paper,Paper Model 47,78407.22,5,0.05,7289.31
+ORD-10260,30-08-2022,31-08-2022,Customer_262,Corporate,East,Patna,Technology,Accessories,Accessories Model 4,6855.26,10,0,1193.07
+ORD-10261,20-10-2024,25-10-2024,Customer_261,Consumer,South,Chennai,Furniture,Tables,Tables Model 3,77446.23,10,0,8294.58
+ORD-10262,26-01-2022,28-01-2022,Customer_366,Home Office,North,Lucknow,Technology,Laptops,Laptops Model 42,92062.54,3,0,17327.66
+ORD-10263,08-05-2024,10-05-2024,Customer_258,Home Office,East,Kolkata,Technology,Accessories,Accessories Model 4,32333.55,2,0.2,-1836.48
+ORD-10264,03-01-2023,05-01-2023,Customer_234,Consumer,North,Lucknow,Furniture,Tables,Tables Model 24,86670.21,5,0.1,-2461.75
+ORD-10265,15-02-2023,18-02-2023,Customer_398,Consumer,East,Bhubaneswar,Office Supplies,Binders,Binders Model 47,46660.71,10,0.15,6973.29
+ORD-10266,18-05-2023,20-05-2023,Customer_337,Corporate,North,Lucknow,Furniture,Chairs,Chairs Model 48,54383.75,1,0.1,-2699.31
+ORD-10267,22-09-2023,23-09-2023,Customer_48,Consumer,South,Hyderabad,Furniture,Tables,Tables Model 15,49456.87,1,0.05,8799.03
+ORD-10268,30-11-2024,04-12-2024,Customer_202,Consumer,East,Patna,Office Supplies,Binders,Binders Model 38,58286.68,9,0.05,9285.3
+ORD-10269,08-05-2022,12-05-2022,Customer_140,Consumer,South,Bangalore,Technology,Laptops,Laptops Model 5,85165.91,7,0.1,2513.62
+ORD-10270,20-02-2023,22-02-2023,Customer_184,Consumer,North,Delhi,Furniture,Chairs,Chairs Model 29,45231.89,6,0.15,-3157.9
+ORD-10271,24-09-2023,28-09-2023,Customer_168,Consumer,East,Kolkata,Furniture,Chairs,Chairs Model 6,80855.89,5,0.2,-11313.16
+ORD-10272,24-05-2023,27-05-2023,Customer_232,Home Office,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 48,30234.65,3,0,8708.31
+ORD-10273,27-05-2023,28-05-2023,Customer_206,Corporate,West,Mumbai,Furniture,Chairs,Chairs Model 44,1689.71,4,0.05,83.7
+ORD-10274,22-06-2022,27-06-2022,Customer_170,Consumer,East,Kolkata,Furniture,Chairs,Chairs Model 3,20176.16,8,0.05,463.94
+ORD-10275,02-08-2024,03-08-2024,Customer_89,Corporate,South,Hyderabad,Technology,Accessories,Accessories Model 14,39802.37,1,0.15,2818.14
+ORD-10276,19-01-2023,22-01-2023,Customer_256,Corporate,East,Patna,Furniture,Chairs,Chairs Model 36,61603.6,10,0.05,9968.67
+ORD-10277,08-09-2024,09-09-2024,Customer_279,Consumer,North,Lucknow,Technology,Phones,Phones Model 25,42213.86,9,0.05,6656.64
+ORD-10278,06-01-2024,10-01-2024,Customer_306,Consumer,West,Pune,Office Supplies,Paper,Paper Model 2,32499.64,5,0.05,211.76
+ORD-10279,30-07-2023,31-07-2023,Customer_124,Corporate,West,Ahmedabad,Technology,Accessories,Accessories Model 35,99960.77,3,0,11192.03
+ORD-10280,25-04-2022,27-04-2022,Customer_15,Home Office,West,Pune,Furniture,Chairs,Chairs Model 45,24036.84,6,0.1,4290.46
+ORD-10281,22-12-2023,27-12-2023,Customer_29,Consumer,South,Hyderabad,Furniture,Tables,Tables Model 39,54441.4,3,0.15,-4927.44
+ORD-10282,25-03-2023,26-03-2023,Customer_166,Consumer,West,Mumbai,Technology,Accessories,Accessories Model 2,20545.71,3,0.1,2655.21
+ORD-10283,30-10-2022,04-11-2022,Customer_173,Corporate,South,Bangalore,Office Supplies,Storage,Storage Model 21,96075.6,6,0.15,4467.92
+ORD-10284,07-10-2022,09-10-2022,Customer_115,Home Office,West,Ahmedabad,Technology,Accessories,Accessories Model 38,32069.7,9,0.2,1499.19
+ORD-10285,26-12-2022,30-12-2022,Customer_395,Home Office,East,Bhubaneswar,Office Supplies,Storage,Storage Model 3,13171.16,1,0.2,-686.21
+ORD-10286,08-01-2023,13-01-2023,Customer_40,Consumer,East,Bhubaneswar,Furniture,Bookcases,Bookcases Model 23,56772.25,8,0.05,4700.29
+ORD-10287,17-10-2023,19-10-2023,Customer_108,Consumer,North,Chandigarh,Office Supplies,Paper,Paper Model 45,73063.95,6,0.15,-7098.24
+ORD-10288,19-05-2022,22-05-2022,Customer_212,Corporate,East,Kolkata,Office Supplies,Binders,Binders Model 25,5290.67,8,0.15,752.73
+ORD-10289,21-12-2023,26-12-2023,Customer_18,Corporate,West,Mumbai,Technology,Accessories,Accessories Model 2,65271.47,4,0.05,7364.05
+ORD-10290,15-10-2023,18-10-2023,Customer_48,Corporate,North,Delhi,Technology,Phones,Phones Model 39,88849.16,3,0,16593.61
+ORD-10291,15-09-2024,16-09-2024,Customer_106,Consumer,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 27,89030.45,3,0,6705.28
+ORD-10292,28-06-2023,01-07-2023,Customer_185,Consumer,East,Kolkata,Furniture,Chairs,Chairs Model 28,39593.77,9,0.15,-2439.08
+ORD-10293,29-06-2022,02-07-2022,Customer_60,Corporate,West,Mumbai,Furniture,Chairs,Chairs Model 26,21091.82,5,0,3551.71
+ORD-10294,22-08-2024,26-08-2024,Customer_229,Consumer,East,Kolkata,Office Supplies,Paper,Paper Model 17,39058.95,6,0.15,-298.78
+ORD-10295,19-06-2024,23-06-2024,Customer_278,Corporate,East,Kolkata,Technology,Accessories,Accessories Model 49,6633.12,2,0,1439.62
+ORD-10296,11-04-2023,16-04-2023,Customer_244,Corporate,North,Lucknow,Office Supplies,Storage,Storage Model 6,96579.96,8,0.2,6800.53
+ORD-10297,19-03-2024,20-03-2024,Customer_65,Consumer,South,Bangalore,Technology,Phones,Phones Model 28,94931.62,3,0.05,19187.12
+ORD-10298,10-06-2022,14-06-2022,Customer_204,Home Office,South,Hyderabad,Furniture,Bookcases,Bookcases Model 21,26159.69,2,0,3846.12
+ORD-10299,20-07-2023,25-07-2023,Customer_76,Home Office,West,Mumbai,Office Supplies,Paper,Paper Model 38,58963.82,7,0,9057.47
+ORD-10300,25-07-2022,26-07-2022,Customer_293,Home Office,North,Lucknow,Office Supplies,Storage,Storage Model 31,87850.41,5,0.15,5595.8
+ORD-10301,18-03-2022,20-03-2022,Customer_170,Home Office,East,Patna,Furniture,Bookcases,Bookcases Model 16,61061.2,7,0,9094.95
+ORD-10302,11-04-2022,15-04-2022,Customer_252,Home Office,East,Patna,Furniture,Tables,Tables Model 44,81829.9,5,0.1,1643.69
+ORD-10303,21-07-2022,23-07-2022,Customer_310,Home Office,South,Chennai,Office Supplies,Storage,Storage Model 6,77516.07,6,0.1,10247.61
+ORD-10304,20-01-2023,24-01-2023,Customer_82,Consumer,South,Chennai,Office Supplies,Storage,Storage Model 20,76069.58,6,0,13602.57
+ORD-10305,03-11-2024,07-11-2024,Customer_234,Consumer,South,Hyderabad,Office Supplies,Binders,Binders Model 24,17786.87,4,0,1998.76
+ORD-10306,12-02-2023,15-02-2023,Customer_251,Home Office,East,Patna,Office Supplies,Storage,Storage Model 29,63723.28,2,0,7040.44
+ORD-10307,30-12-2022,03-01-2023,Customer_26,Consumer,East,Patna,Furniture,Tables,Tables Model 37,75021.63,2,0.1,-3236.24
+ORD-10308,15-03-2023,17-03-2023,Customer_393,Home Office,South,Hyderabad,Furniture,Tables,Tables Model 1,65332.94,9,0,17388.85
+ORD-10309,28-08-2024,30-08-2024,Customer_193,Corporate,South,Hyderabad,Furniture,Chairs,Chairs Model 30,25612.85,5,0.1,1433.08
+ORD-10310,01-06-2023,03-06-2023,Customer_262,Home Office,West,Pune,Office Supplies,Paper,Paper Model 24,82518.93,7,0.2,-10267.17
+ORD-10311,02-08-2023,05-08-2023,Customer_365,Home Office,North,Lucknow,Furniture,Tables,Tables Model 20,98841.92,6,0.1,1510.97
+ORD-10312,21-01-2023,23-01-2023,Customer_152,Corporate,South,Bangalore,Office Supplies,Storage,Storage Model 27,66222.77,3,0,14161.75
+ORD-10313,08-04-2024,12-04-2024,Customer_327,Corporate,North,Chandigarh,Office Supplies,Paper,Paper Model 43,81693.46,6,0.05,14016.93
+ORD-10314,05-01-2024,10-01-2024,Customer_133,Home Office,East,Kolkata,Office Supplies,Paper,Paper Model 36,18523.02,2,0.15,-1259.82
+ORD-10315,10-01-2023,13-01-2023,Customer_170,Corporate,North,Delhi,Technology,Phones,Phones Model 17,74548.89,5,0.15,7232.93
+ORD-10316,26-08-2023,30-08-2023,Customer_100,Home Office,North,Lucknow,Furniture,Bookcases,Bookcases Model 8,58565.67,10,0,9842.25
+ORD-10317,21-02-2024,26-02-2024,Customer_292,Corporate,East,Patna,Furniture,Chairs,Chairs Model 10,14167.84,4,0.1,740.95
+ORD-10318,10-10-2023,12-10-2023,Customer_141,Consumer,North,Lucknow,Technology,Accessories,Accessories Model 49,98670.72,6,0,5049.81
+ORD-10319,12-12-2022,17-12-2022,Customer_245,Corporate,South,Chennai,Furniture,Chairs,Chairs Model 1,61640.73,7,0.15,447.29
+ORD-10320,19-03-2022,24-03-2022,Customer_3,Home Office,South,Hyderabad,Technology,Phones,Phones Model 47,89254.64,9,0.05,399.77
+ORD-10321,25-05-2023,27-05-2023,Customer_24,Corporate,East,Patna,Furniture,Chairs,Chairs Model 19,38663.27,10,0.1,-318.78
+ORD-10322,22-07-2024,27-07-2024,Customer_85,Corporate,East,Patna,Office Supplies,Binders,Binders Model 2,34601.92,8,0.1,4758.76
+ORD-10323,13-04-2023,15-04-2023,Customer_334,Consumer,South,Bangalore,Office Supplies,Binders,Binders Model 25,59174.44,3,0,8381.93
+ORD-10324,08-06-2023,13-06-2023,Customer_214,Corporate,North,Chandigarh,Furniture,Bookcases,Bookcases Model 25,11257.29,1,0,2504.04
+ORD-10325,11-09-2022,16-09-2022,Customer_52,Home Office,East,Patna,Office Supplies,Binders,Binders Model 34,20946.74,1,0.1,1156.63
+ORD-10326,07-07-2023,12-07-2023,Customer_55,Corporate,South,Chennai,Furniture,Bookcases,Bookcases Model 13,72017.24,2,0.1,-1548.14
+ORD-10327,14-02-2023,17-02-2023,Customer_107,Home Office,South,Chennai,Office Supplies,Storage,Storage Model 31,29887.44,1,0.2,-774.42
+ORD-10328,09-11-2023,11-11-2023,Customer_47,Home Office,North,Delhi,Office Supplies,Binders,Binders Model 5,90734.56,10,0.15,-5690.32
+ORD-10329,27-07-2022,30-07-2022,Customer_149,Corporate,South,Chennai,Technology,Laptops,Laptops Model 44,46695.6,2,0.05,10204.63
+ORD-10330,03-10-2023,07-10-2023,Customer_225,Home Office,North,Delhi,Furniture,Chairs,Chairs Model 18,85273.87,3,0.1,3358.24
+ORD-10331,10-07-2022,13-07-2022,Customer_354,Corporate,East,Kolkata,Furniture,Tables,Tables Model 27,40324.9,8,0.1,6408.72
+ORD-10332,08-12-2022,09-12-2022,Customer_303,Corporate,South,Hyderabad,Office Supplies,Binders,Binders Model 37,98166.13,3,0,15118.26
+ORD-10333,16-06-2024,18-06-2024,Customer_58,Corporate,West,Pune,Office Supplies,Binders,Binders Model 29,86326.29,3,0.15,11231.01
+ORD-10334,05-04-2022,06-04-2022,Customer_115,Home Office,East,Bhubaneswar,Technology,Phones,Phones Model 22,70604.53,9,0.2,2184.74
+ORD-10335,29-11-2024,04-12-2024,Customer_286,Home Office,North,Lucknow,Office Supplies,Paper,Paper Model 4,25233.41,6,0.15,-1585.58
+ORD-10336,24-01-2022,26-01-2022,Customer_143,Consumer,West,Pune,Furniture,Chairs,Chairs Model 33,75267.29,6,0.05,6226.39
+ORD-10337,02-04-2023,07-04-2023,Customer_256,Corporate,West,Pune,Furniture,Chairs,Chairs Model 21,46179.91,10,0.15,-3601.8
+ORD-10338,01-09-2022,05-09-2022,Customer_310,Home Office,North,Delhi,Technology,Laptops,Laptops Model 41,4065.28,9,0,1042.65
+ORD-10339,16-09-2023,21-09-2023,Customer_233,Corporate,South,Hyderabad,Office Supplies,Storage,Storage Model 36,95060.34,6,0,24159.32
+ORD-10340,26-08-2024,29-08-2024,Customer_150,Home Office,West,Mumbai,Furniture,Bookcases,Bookcases Model 34,22563.84,6,0.1,3553.15
+ORD-10341,05-02-2024,06-02-2024,Customer_101,Consumer,North,Delhi,Technology,Phones,Phones Model 8,82272.95,7,0,9343.93
+ORD-10342,15-03-2024,17-03-2024,Customer_345,Home Office,West,Mumbai,Office Supplies,Storage,Storage Model 8,11222.69,7,0,3160.95
+ORD-10343,11-07-2024,15-07-2024,Customer_248,Home Office,South,Chennai,Furniture,Bookcases,Bookcases Model 50,73753.29,9,0.15,8091.03
+ORD-10344,29-12-2022,03-01-2023,Customer_259,Corporate,South,Hyderabad,Furniture,Chairs,Chairs Model 27,39046.86,10,0.2,2759.6
+ORD-10345,24-05-2023,27-05-2023,Customer_384,Home Office,West,Pune,Technology,Laptops,Laptops Model 20,80577.28,3,0.15,4079.72
+ORD-10346,05-10-2023,10-10-2023,Customer_333,Consumer,South,Bangalore,Furniture,Bookcases,Bookcases Model 33,71581.26,6,0.05,17561.31
+ORD-10347,23-10-2023,24-10-2023,Customer_217,Consumer,East,Bhubaneswar,Technology,Accessories,Accessories Model 34,57278.5,7,0.2,-4497.39
+ORD-10348,07-08-2022,08-08-2022,Customer_350,Corporate,West,Mumbai,Furniture,Bookcases,Bookcases Model 10,6132.18,5,0.05,1507.8
+ORD-10349,08-05-2022,11-05-2022,Customer_379,Home Office,South,Hyderabad,Furniture,Tables,Tables Model 15,81495.61,2,0.2,5460.93
+ORD-10350,07-03-2024,09-03-2024,Customer_351,Corporate,East,Bhubaneswar,Office Supplies,Binders,Binders Model 36,92685.24,7,0.15,12899.51
+ORD-10351,21-04-2022,22-04-2022,Customer_309,Consumer,East,Kolkata,Office Supplies,Storage,Storage Model 50,83083.36,6,0.2,-1108.85
+ORD-10352,01-02-2023,04-02-2023,Customer_21,Corporate,West,Mumbai,Office Supplies,Binders,Binders Model 18,19104.17,3,0.2,-2295.59
+ORD-10353,26-06-2023,28-06-2023,Customer_166,Home Office,South,Hyderabad,Technology,Phones,Phones Model 4,33391,3,0,2952.63
+ORD-10354,09-09-2023,13-09-2023,Customer_259,Consumer,East,Kolkata,Office Supplies,Storage,Storage Model 27,52776.81,3,0.2,-7016.99
+ORD-10355,06-04-2024,07-04-2024,Customer_386,Home Office,East,Kolkata,Furniture,Bookcases,Bookcases Model 34,33522.41,6,0.1,154.58
+ORD-10356,30-08-2024,04-09-2024,Customer_21,Home Office,North,Delhi,Office Supplies,Storage,Storage Model 21,44843.89,10,0.2,-3993.04
+ORD-10357,21-02-2024,22-02-2024,Customer_261,Corporate,West,Pune,Office Supplies,Paper,Paper Model 32,28641.48,9,0.1,2250.57
+ORD-10358,31-03-2022,03-04-2022,Customer_321,Consumer,South,Chennai,Office Supplies,Binders,Binders Model 14,94847.08,3,0.2,-1583.81
+ORD-10359,13-03-2023,17-03-2023,Customer_79,Consumer,North,Delhi,Office Supplies,Paper,Paper Model 30,87924.4,7,0,20813.7
+ORD-10360,11-11-2023,12-11-2023,Customer_117,Corporate,North,Delhi,Furniture,Chairs,Chairs Model 27,79524.37,9,0,15407.1
+ORD-10361,05-03-2024,09-03-2024,Customer_369,Home Office,West,Pune,Technology,Phones,Phones Model 5,39255.44,2,0.2,-5830.42
+ORD-10362,04-04-2022,05-04-2022,Customer_392,Corporate,East,Bhubaneswar,Furniture,Tables,Tables Model 25,78795.74,5,0.2,-10115.3
+ORD-10363,20-03-2024,21-03-2024,Customer_325,Consumer,West,Mumbai,Office Supplies,Binders,Binders Model 20,14069.96,7,0.2,-1072.91
+ORD-10364,04-02-2024,05-02-2024,Customer_44,Corporate,South,Bangalore,Furniture,Chairs,Chairs Model 14,57485.5,7,0.2,-754.13
+ORD-10365,06-12-2023,08-12-2023,Customer_100,Consumer,West,Ahmedabad,Office Supplies,Binders,Binders Model 12,16514.96,4,0.2,969.21
+ORD-10366,22-04-2022,27-04-2022,Customer_372,Home Office,West,Ahmedabad,Office Supplies,Binders,Binders Model 32,29419.94,2,0.1,-748.72
+ORD-10367,09-11-2023,12-11-2023,Customer_163,Corporate,South,Hyderabad,Office Supplies,Binders,Binders Model 29,10454.48,10,0,2875.29
+ORD-10368,04-11-2023,09-11-2023,Customer_87,Consumer,East,Bhubaneswar,Office Supplies,Binders,Binders Model 21,56772.42,6,0.1,10767.73
+ORD-10369,20-05-2023,22-05-2023,Customer_184,Corporate,West,Pune,Technology,Phones,Phones Model 32,68118.23,6,0.15,1070.28
+ORD-10370,11-08-2022,13-08-2022,Customer_260,Home Office,North,Lucknow,Furniture,Bookcases,Bookcases Model 2,20044.98,2,0,5472.81
+ORD-10371,09-04-2024,14-04-2024,Customer_77,Corporate,South,Bangalore,Office Supplies,Storage,Storage Model 26,54575.2,9,0.15,3464.27
+ORD-10372,03-04-2023,08-04-2023,Customer_340,Consumer,East,Kolkata,Technology,Accessories,Accessories Model 40,51285.99,7,0.1,3874.24
+ORD-10373,06-12-2022,11-12-2022,Customer_248,Corporate,South,Chennai,Furniture,Chairs,Chairs Model 3,56852.55,10,0.05,10459.73
+ORD-10374,25-03-2023,29-03-2023,Customer_185,Corporate,South,Bangalore,Technology,Laptops,Laptops Model 31,23784.86,4,0.2,1829.81
+ORD-10375,20-07-2024,21-07-2024,Customer_135,Home Office,North,Chandigarh,Technology,Phones,Phones Model 35,70521.76,9,0.1,11193.08
+ORD-10376,23-12-2022,27-12-2022,Customer_115,Home Office,West,Pune,Office Supplies,Paper,Paper Model 26,89873.55,2,0.2,-7828.29
+ORD-10377,24-12-2023,27-12-2023,Customer_40,Home Office,West,Pune,Office Supplies,Binders,Binders Model 42,50432.78,3,0.15,-2955.29
+ORD-10378,30-07-2023,01-08-2023,Customer_170,Home Office,South,Bangalore,Furniture,Tables,Tables Model 8,60401.02,2,0.05,6260.77
+ORD-10379,13-09-2024,17-09-2024,Customer_66,Home Office,West,Mumbai,Office Supplies,Binders,Binders Model 38,64902.29,7,0,7198.8
+ORD-10380,26-11-2022,28-11-2022,Customer_307,Home Office,North,Chandigarh,Furniture,Chairs,Chairs Model 41,17050.97,3,0.2,1527.08
+ORD-10381,08-02-2022,11-02-2022,Customer_211,Home Office,North,Delhi,Technology,Accessories,Accessories Model 10,99281.19,8,0.05,5444.68
+ORD-10382,08-01-2023,13-01-2023,Customer_118,Corporate,East,Kolkata,Office Supplies,Paper,Paper Model 25,34595.79,8,0.2,-81.33
+ORD-10383,28-09-2022,29-09-2022,Customer_244,Home Office,North,Delhi,Office Supplies,Paper,Paper Model 39,68594.6,3,0.2,-8637.8
+ORD-10384,21-03-2022,26-03-2022,Customer_397,Home Office,North,Delhi,Technology,Accessories,Accessories Model 42,13467.72,10,0.2,766.05
+ORD-10385,02-06-2024,07-06-2024,Customer_196,Corporate,West,Pune,Furniture,Bookcases,Bookcases Model 38,53216.74,4,0.15,5182.72
+ORD-10386,20-07-2022,24-07-2022,Customer_279,Corporate,South,Chennai,Technology,Phones,Phones Model 17,91053.49,2,0.1,9066.48
+ORD-10387,23-01-2023,24-01-2023,Customer_162,Corporate,North,Chandigarh,Office Supplies,Binders,Binders Model 24,52216.3,7,0.05,8978.16
+ORD-10388,07-08-2022,09-08-2022,Customer_314,Corporate,West,Ahmedabad,Office Supplies,Storage,Storage Model 44,26499.64,9,0.15,1090.93
+ORD-10389,24-03-2024,26-03-2024,Customer_158,Home Office,West,Ahmedabad,Office Supplies,Storage,Storage Model 23,18282.6,9,0.2,-531.29
+ORD-10390,26-03-2024,28-03-2024,Customer_206,Corporate,North,Chandigarh,Furniture,Tables,Tables Model 36,78419.37,3,0,8125.39
+ORD-10391,17-04-2022,19-04-2022,Customer_33,Corporate,West,Ahmedabad,Furniture,Chairs,Chairs Model 15,82413.92,8,0.2,-3391.8
+ORD-10392,30-01-2024,31-01-2024,Customer_306,Consumer,North,Chandigarh,Technology,Laptops,Laptops Model 50,61589.58,9,0.1,7877.4
+ORD-10393,25-12-2022,29-12-2022,Customer_307,Home Office,West,Mumbai,Furniture,Bookcases,Bookcases Model 34,93110.47,9,0.1,-122.29
+ORD-10394,20-04-2023,25-04-2023,Customer_142,Corporate,South,Hyderabad,Furniture,Tables,Tables Model 23,24306.03,1,0.05,527.7
+ORD-10395,20-03-2024,24-03-2024,Customer_287,Home Office,South,Hyderabad,Furniture,Bookcases,Bookcases Model 23,70510.38,2,0.2,-5561.62
+ORD-10396,13-12-2023,16-12-2023,Customer_209,Home Office,South,Hyderabad,Furniture,Tables,Tables Model 7,93006.53,10,0,10721.5
+ORD-10397,29-05-2022,03-06-2022,Customer_227,Corporate,East,Patna,Furniture,Bookcases,Bookcases Model 37,95692.58,9,0.2,-8369.72
+ORD-10398,17-09-2024,19-09-2024,Customer_35,Corporate,East,Patna,Office Supplies,Storage,Storage Model 41,89704.12,1,0.15,-6362.98
+ORD-10399,28-03-2023,30-03-2023,Customer_205,Home Office,East,Patna,Technology,Accessories,Accessories Model 48,53797.36,5,0.05,3863.86
+ORD-10400,02-12-2023,03-12-2023,Customer_383,Home Office,South,Chennai,Technology,Laptops,Laptops Model 13,22247.33,10,0.1,-95.75
+ORD-10401,18-10-2024,20-10-2024,Customer_183,Consumer,South,Hyderabad,Furniture,Tables,Tables Model 50,21074.47,4,0.05,4406.33
+ORD-10402,07-08-2022,08-08-2022,Customer_191,Home Office,North,Chandigarh,Office Supplies,Storage,Storage Model 21,61575.78,9,0,16133.02
+ORD-10403,05-10-2024,10-10-2024,Customer_270,Corporate,East,Patna,Furniture,Bookcases,Bookcases Model 31,28386.53,4,0.2,-3347.87
+ORD-10404,08-03-2022,13-03-2022,Customer_353,Consumer,East,Patna,Office Supplies,Binders,Binders Model 1,45991.01,2,0.2,-1608.87
+ORD-10405,08-03-2023,12-03-2023,Customer_138,Corporate,North,Lucknow,Technology,Accessories,Accessories Model 40,86253.28,3,0.2,-7270.09
+ORD-10406,04-12-2023,07-12-2023,Customer_144,Corporate,South,Chennai,Technology,Phones,Phones Model 12,42199.75,6,0.1,6903.1
+ORD-10407,26-09-2022,01-10-2022,Customer_101,Consumer,South,Bangalore,Office Supplies,Storage,Storage Model 48,80506.71,9,0.15,9183.98
+ORD-10408,03-11-2022,07-11-2022,Customer_250,Corporate,North,Delhi,Technology,Laptops,Laptops Model 17,13879.93,9,0.2,418.34
+ORD-10409,08-04-2022,12-04-2022,Customer_50,Corporate,North,Chandigarh,Furniture,Chairs,Chairs Model 48,21939,5,0.15,2407.65
+ORD-10410,17-11-2023,20-11-2023,Customer_63,Corporate,East,Patna,Office Supplies,Paper,Paper Model 44,93218.54,5,0.1,-4198.67
+ORD-10411,12-02-2023,17-02-2023,Customer_196,Home Office,South,Chennai,Technology,Laptops,Laptops Model 19,67482.69,8,0.15,8260.43
+ORD-10412,07-08-2024,09-08-2024,Customer_37,Consumer,South,Hyderabad,Technology,Laptops,Laptops Model 11,63311.7,10,0.15,7105.17
+ORD-10413,05-12-2023,07-12-2023,Customer_228,Corporate,East,Patna,Office Supplies,Storage,Storage Model 48,71188.13,10,0.15,-2291.4
+ORD-10414,02-12-2024,06-12-2024,Customer_359,Home Office,West,Mumbai,Furniture,Chairs,Chairs Model 6,12941.47,4,0.1,2395.59
+ORD-10415,08-03-2023,10-03-2023,Customer_395,Corporate,West,Mumbai,Furniture,Chairs,Chairs Model 34,93710.97,8,0.2,-12795.64
+ORD-10416,20-06-2022,21-06-2022,Customer_378,Corporate,East,Bhubaneswar,Furniture,Chairs,Chairs Model 29,65655.85,7,0.1,481.85
+ORD-10417,16-09-2022,18-09-2022,Customer_277,Corporate,South,Bangalore,Furniture,Bookcases,Bookcases Model 36,36005.7,6,0.15,604.84
+ORD-10418,30-06-2024,02-07-2024,Customer_328,Home Office,South,Hyderabad,Office Supplies,Storage,Storage Model 20,63289.23,10,0.15,1953.42
+ORD-10419,13-12-2023,17-12-2023,Customer_1,Home Office,South,Bangalore,Technology,Laptops,Laptops Model 49,36895.44,5,0.05,2800.11
+ORD-10420,07-10-2022,10-10-2022,Customer_393,Corporate,East,Patna,Office Supplies,Binders,Binders Model 19,68933.11,8,0.15,-1730.04
+ORD-10421,19-04-2023,20-04-2023,Customer_331,Corporate,East,Kolkata,Technology,Accessories,Accessories Model 25,43992.08,4,0.05,7862.9
+ORD-10422,28-03-2023,31-03-2023,Customer_381,Home Office,North,Lucknow,Office Supplies,Binders,Binders Model 18,51902.7,10,0.1,1098.74
+ORD-10423,25-04-2024,27-04-2024,Customer_359,Home Office,North,Delhi,Furniture,Tables,Tables Model 32,11480.46,8,0.2,-422.57
+ORD-10424,20-01-2023,23-01-2023,Customer_367,Corporate,North,Delhi,Furniture,Bookcases,Bookcases Model 47,2702.02,2,0.1,46.74
+ORD-10425,17-01-2022,19-01-2022,Customer_256,Corporate,North,Delhi,Furniture,Tables,Tables Model 30,22110.21,7,0.1,3237.63
+ORD-10426,06-03-2022,09-03-2022,Customer_99,Corporate,North,Delhi,Furniture,Tables,Tables Model 25,77677.46,2,0.2,-2521.67
+ORD-10427,26-01-2022,27-01-2022,Customer_395,Consumer,South,Chennai,Technology,Phones,Phones Model 34,73893.09,1,0.05,8513.12
+ORD-10428,03-03-2023,07-03-2023,Customer_130,Corporate,West,Ahmedabad,Technology,Laptops,Laptops Model 41,16281.84,1,0.2,-321.87
+ORD-10429,04-09-2023,06-09-2023,Customer_86,Corporate,East,Kolkata,Office Supplies,Binders,Binders Model 38,97340.77,4,0.15,-1836.98
+ORD-10430,03-09-2022,07-09-2022,Customer_395,Consumer,South,Bangalore,Furniture,Bookcases,Bookcases Model 16,78455.79,8,0.2,-8728.36
+ORD-10431,19-11-2022,23-11-2022,Customer_79,Home Office,North,Chandigarh,Office Supplies,Storage,Storage Model 35,93119.45,1,0,12932.38
+ORD-10432,08-08-2022,10-08-2022,Customer_11,Home Office,West,Mumbai,Technology,Accessories,Accessories Model 25,78961.9,6,0.15,6577.31
+ORD-10433,04-01-2024,06-01-2024,Customer_98,Home Office,East,Kolkata,Technology,Accessories,Accessories Model 12,44031.25,5,0.2,1068.17
+ORD-10434,14-12-2023,17-12-2023,Customer_135,Home Office,West,Pune,Office Supplies,Paper,Paper Model 24,16454.17,9,0.05,1848.56
+ORD-10435,18-07-2024,19-07-2024,Customer_370,Consumer,West,Ahmedabad,Furniture,Chairs,Chairs Model 43,62163.59,6,0.2,-5613.58
+ORD-10436,04-03-2024,06-03-2024,Customer_268,Home Office,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 5,28671.34,7,0.1,-641.78
+ORD-10437,31-03-2022,02-04-2022,Customer_199,Home Office,South,Bangalore,Furniture,Chairs,Chairs Model 32,48794.34,2,0,9405.26
+ORD-10438,12-12-2024,17-12-2024,Customer_107,Home Office,East,Kolkata,Technology,Phones,Phones Model 32,60792.39,2,0,17177.06
+ORD-10439,13-06-2022,17-06-2022,Customer_30,Home Office,North,Lucknow,Office Supplies,Paper,Paper Model 18,93855.26,7,0.1,13943.36
+ORD-10440,19-12-2024,20-12-2024,Customer_273,Corporate,North,Lucknow,Furniture,Chairs,Chairs Model 13,96078.38,2,0,22222.26
+ORD-10441,31-01-2023,05-02-2023,Customer_393,Home Office,South,Hyderabad,Office Supplies,Binders,Binders Model 37,56063.14,9,0.15,4850.98
+ORD-10442,04-01-2024,08-01-2024,Customer_274,Home Office,West,Mumbai,Furniture,Chairs,Chairs Model 29,55221.56,9,0.1,6316.41
+ORD-10443,23-12-2023,26-12-2023,Customer_280,Consumer,East,Patna,Technology,Accessories,Accessories Model 25,43343.51,6,0.2,-3893.09
+ORD-10444,05-06-2023,08-06-2023,Customer_70,Corporate,West,Pune,Technology,Phones,Phones Model 1,72768.17,5,0.2,-10618.65
+ORD-10445,08-09-2023,10-09-2023,Customer_293,Consumer,South,Chennai,Furniture,Bookcases,Bookcases Model 7,82322.58,9,0.2,-898.9
+ORD-10446,19-03-2022,23-03-2022,Customer_154,Consumer,East,Kolkata,Furniture,Tables,Tables Model 37,37024.75,10,0.05,2156.64
+ORD-10447,29-03-2024,03-04-2024,Customer_354,Home Office,South,Hyderabad,Furniture,Bookcases,Bookcases Model 37,32806.86,8,0.05,4004.7
+ORD-10448,15-07-2022,20-07-2022,Customer_223,Corporate,East,Kolkata,Office Supplies,Paper,Paper Model 8,38463.84,1,0.1,1422.49
+ORD-10449,10-04-2023,15-04-2023,Customer_290,Consumer,North,Chandigarh,Office Supplies,Storage,Storage Model 21,5885.73,9,0,764.14
+ORD-10450,25-10-2024,27-10-2024,Customer_47,Consumer,South,Bangalore,Office Supplies,Paper,Paper Model 28,99738.05,8,0.2,-617.01
+ORD-10451,17-08-2023,21-08-2023,Customer_44,Corporate,South,Bangalore,Technology,Phones,Phones Model 33,47847.54,1,0.2,-2402.05
+ORD-10452,08-06-2024,10-06-2024,Customer_377,Home Office,South,Chennai,Office Supplies,Binders,Binders Model 16,49042.18,10,0.05,6880.22
+ORD-10453,12-05-2023,13-05-2023,Customer_217,Corporate,East,Patna,Technology,Accessories,Accessories Model 23,92451.74,2,0,20148.64
+ORD-10454,26-01-2023,29-01-2023,Customer_227,Home Office,East,Bhubaneswar,Office Supplies,Binders,Binders Model 10,77083.29,3,0.1,8020.92
+ORD-10455,21-06-2024,22-06-2024,Customer_125,Home Office,South,Bangalore,Office Supplies,Storage,Storage Model 10,16021.13,2,0,3763.29
+ORD-10456,13-08-2023,14-08-2023,Customer_276,Consumer,East,Bhubaneswar,Furniture,Tables,Tables Model 14,45281.13,1,0.1,101.99
+ORD-10457,07-12-2024,10-12-2024,Customer_340,Home Office,West,Ahmedabad,Office Supplies,Binders,Binders Model 3,69659.58,1,0.15,3187.01
+ORD-10458,08-06-2023,10-06-2023,Customer_5,Consumer,North,Lucknow,Furniture,Bookcases,Bookcases Model 25,61987.5,1,0.15,3947.95
+ORD-10459,10-07-2023,13-07-2023,Customer_51,Corporate,North,Delhi,Technology,Accessories,Accessories Model 32,38959.06,7,0.2,3668.11
+ORD-10460,24-12-2024,25-12-2024,Customer_272,Corporate,South,Bangalore,Office Supplies,Storage,Storage Model 22,56288.41,1,0,6295.75
+ORD-10461,30-09-2024,04-10-2024,Customer_257,Corporate,South,Bangalore,Technology,Accessories,Accessories Model 4,35515.35,5,0.05,8843.27
+ORD-10462,12-06-2023,16-06-2023,Customer_196,Home Office,North,Chandigarh,Technology,Phones,Phones Model 44,15594.96,7,0.05,342.29
+ORD-10463,11-04-2023,15-04-2023,Customer_68,Consumer,South,Hyderabad,Furniture,Tables,Tables Model 42,97068.45,10,0.1,6046.62
+ORD-10464,11-10-2022,16-10-2022,Customer_395,Consumer,South,Bangalore,Technology,Accessories,Accessories Model 42,70661.07,9,0.05,7597.2
+ORD-10465,20-11-2022,23-11-2022,Customer_392,Corporate,North,Chandigarh,Office Supplies,Paper,Paper Model 27,12279.54,6,0.05,2232.05
+ORD-10466,22-04-2024,25-04-2024,Customer_14,Home Office,West,Ahmedabad,Office Supplies,Paper,Paper Model 40,27742.72,4,0,2299.5
+ORD-10467,01-07-2023,06-07-2023,Customer_245,Consumer,South,Hyderabad,Furniture,Chairs,Chairs Model 33,68894.1,6,0,15296.92
+ORD-10468,18-08-2024,21-08-2024,Customer_392,Consumer,South,Chennai,Technology,Laptops,Laptops Model 18,14182.52,4,0.05,114.27
+ORD-10469,25-04-2024,27-04-2024,Customer_167,Corporate,South,Bangalore,Furniture,Chairs,Chairs Model 16,92746.77,8,0.2,-2551.86
+ORD-10470,25-05-2024,29-05-2024,Customer_293,Home Office,North,Chandigarh,Office Supplies,Storage,Storage Model 35,72159.99,7,0.2,6118.07
+ORD-10471,11-12-2024,12-12-2024,Customer_377,Consumer,North,Lucknow,Technology,Phones,Phones Model 36,87839.1,4,0.2,-1364.38
+ORD-10472,04-03-2024,09-03-2024,Customer_217,Corporate,North,Delhi,Technology,Laptops,Laptops Model 40,40104.97,5,0.1,2620.33
+ORD-10473,22-04-2022,27-04-2022,Customer_300,Home Office,South,Chennai,Office Supplies,Storage,Storage Model 35,9498.86,9,0,901.85
+ORD-10474,05-10-2022,09-10-2022,Customer_47,Corporate,West,Pune,Technology,Phones,Phones Model 21,18298.42,10,0.05,4037.31
+ORD-10475,02-12-2022,03-12-2022,Customer_373,Home Office,North,Delhi,Office Supplies,Storage,Storage Model 40,63590.21,2,0.2,1705.48
+ORD-10476,24-11-2022,28-11-2022,Customer_92,Home Office,West,Mumbai,Furniture,Tables,Tables Model 4,56766.41,3,0.05,12329.93
+ORD-10477,09-05-2024,12-05-2024,Customer_2,Home Office,East,Bhubaneswar,Technology,Laptops,Laptops Model 49,62832.06,2,0.05,15086.51
+ORD-10478,03-06-2023,04-06-2023,Customer_302,Home Office,West,Pune,Technology,Accessories,Accessories Model 31,80841.73,10,0.15,-3276.55
+ORD-10479,18-07-2024,22-07-2024,Customer_286,Consumer,West,Mumbai,Office Supplies,Paper,Paper Model 4,1154.02,9,0.1,121.1
+ORD-10480,14-01-2023,16-01-2023,Customer_153,Corporate,North,Chandigarh,Technology,Phones,Phones Model 6,14964.75,1,0.2,890.46
+ORD-10481,11-04-2022,12-04-2022,Customer_91,Corporate,West,Mumbai,Furniture,Bookcases,Bookcases Model 48,28795.86,10,0.2,1348.42
+ORD-10482,08-01-2024,09-01-2024,Customer_34,Corporate,North,Lucknow,Technology,Laptops,Laptops Model 31,89804.21,2,0.15,9952.77
+ORD-10483,03-10-2022,04-10-2022,Customer_293,Home Office,East,Patna,Office Supplies,Storage,Storage Model 41,52702.3,4,0.2,-7138.73
+ORD-10484,19-12-2024,20-12-2024,Customer_163,Corporate,West,Ahmedabad,Office Supplies,Paper,Paper Model 34,93422.22,5,0.15,4877.68
+ORD-10485,26-12-2023,28-12-2023,Customer_149,Consumer,West,Ahmedabad,Office Supplies,Paper,Paper Model 1,50025.24,3,0.2,-4593.3
+ORD-10486,31-08-2022,01-09-2022,Customer_171,Corporate,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 36,84882.94,10,0.15,297.96
+ORD-10487,11-03-2023,12-03-2023,Customer_166,Consumer,South,Hyderabad,Technology,Laptops,Laptops Model 8,79124.45,5,0.1,6066.66
+ORD-10488,14-11-2023,17-11-2023,Customer_174,Home Office,West,Ahmedabad,Office Supplies,Paper,Paper Model 31,96031.23,3,0.05,7934.94
+ORD-10489,29-08-2024,30-08-2024,Customer_212,Home Office,South,Chennai,Furniture,Bookcases,Bookcases Model 4,46331.48,9,0.1,3040.16
+ORD-10490,03-12-2024,06-12-2024,Customer_77,Corporate,East,Bhubaneswar,Office Supplies,Binders,Binders Model 2,21222.12,6,0.1,-709.81
+ORD-10491,26-11-2023,30-11-2023,Customer_162,Home Office,South,Hyderabad,Office Supplies,Storage,Storage Model 3,19144.2,2,0.1,2418.23
+ORD-10492,11-07-2023,15-07-2023,Customer_90,Consumer,North,Lucknow,Furniture,Tables,Tables Model 24,45464.68,5,0.05,5968.38
+ORD-10493,18-03-2022,20-03-2022,Customer_248,Home Office,North,Lucknow,Office Supplies,Binders,Binders Model 34,80003.02,9,0.05,3804.38
+ORD-10494,28-09-2023,01-10-2023,Customer_366,Home Office,South,Bangalore,Office Supplies,Paper,Paper Model 8,99275.67,4,0,16364.81
+ORD-10495,09-01-2022,12-01-2022,Customer_338,Home Office,North,Chandigarh,Office Supplies,Binders,Binders Model 20,33662.33,1,0,6064.08
+ORD-10496,16-02-2022,21-02-2022,Customer_396,Corporate,East,Bhubaneswar,Furniture,Tables,Tables Model 43,20455.27,5,0.1,1699.2
+ORD-10497,29-08-2022,01-09-2022,Customer_106,Home Office,South,Bangalore,Technology,Phones,Phones Model 23,2018.04,10,0.2,-43.36
+ORD-10498,15-10-2023,18-10-2023,Customer_174,Home Office,South,Hyderabad,Technology,Accessories,Accessories Model 29,24860.09,2,0.1,2568.44
+ORD-10499,14-04-2022,16-04-2022,Customer_92,Home Office,North,Lucknow,Office Supplies,Binders,Binders Model 39,11039.73,1,0,1729
+ORD-10500,02-07-2024,07-07-2024,Customer_387,Corporate,East,Patna,Technology,Phones,Phones Model 37,71433.42,9,0,20960.03
+ORD-10501,27-09-2022,28-09-2022,Customer_115,Consumer,West,Mumbai,Technology,Laptops,Laptops Model 40,68605.56,8,0.15,-2886.68
+ORD-10502,13-06-2023,16-06-2023,Customer_34,Corporate,West,Mumbai,Office Supplies,Paper,Paper Model 8,33367.63,6,0.15,729.97
+ORD-10503,21-12-2023,25-12-2023,Customer_366,Consumer,West,Mumbai,Technology,Laptops,Laptops Model 21,60641.8,3,0.2,-7535.77
+ORD-10504,26-05-2022,29-05-2022,Customer_247,Corporate,West,Pune,Office Supplies,Storage,Storage Model 5,24238.24,4,0.2,-2672.14
+ORD-10505,29-11-2023,01-12-2023,Customer_40,Home Office,West,Pune,Office Supplies,Storage,Storage Model 46,54680.42,4,0.05,9057.98
+ORD-10506,23-09-2024,24-09-2024,Customer_36,Home Office,West,Pune,Office Supplies,Binders,Binders Model 7,82291.29,3,0.1,15550.66
+ORD-10507,16-02-2024,19-02-2024,Customer_326,Consumer,West,Ahmedabad,Office Supplies,Binders,Binders Model 49,9508.03,3,0.2,720.84
+ORD-10508,28-10-2022,30-10-2022,Customer_163,Corporate,West,Ahmedabad,Technology,Laptops,Laptops Model 37,61749.43,8,0.05,3174.87
+ORD-10509,16-09-2023,20-09-2023,Customer_151,Consumer,East,Kolkata,Office Supplies,Binders,Binders Model 24,61343.33,9,0.15,6864.88
+ORD-10510,19-04-2022,20-04-2022,Customer_365,Corporate,East,Kolkata,Technology,Phones,Phones Model 26,23906.5,10,0.15,1346.02
+ORD-10511,21-02-2024,25-02-2024,Customer_185,Corporate,South,Hyderabad,Furniture,Tables,Tables Model 10,14337.35,9,0.15,1589.04
+ORD-10512,14-08-2023,16-08-2023,Customer_70,Consumer,South,Bangalore,Furniture,Bookcases,Bookcases Model 9,2062.93,8,0.15,296.53
+ORD-10513,01-05-2024,05-05-2024,Customer_116,Consumer,West,Ahmedabad,Furniture,Tables,Tables Model 28,51186.78,9,0.15,-195.6
+ORD-10514,16-01-2022,21-01-2022,Customer_18,Consumer,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 37,50422.02,7,0.2,-298.09
+ORD-10515,16-09-2024,19-09-2024,Customer_41,Home Office,North,Chandigarh,Technology,Accessories,Accessories Model 40,8466.28,9,0.1,560.76
+ORD-10516,01-07-2022,03-07-2022,Customer_160,Home Office,West,Ahmedabad,Office Supplies,Paper,Paper Model 4,96060.9,2,0.2,4757.37
+ORD-10517,05-12-2023,10-12-2023,Customer_151,Corporate,North,Lucknow,Technology,Accessories,Accessories Model 11,90652.48,10,0.1,5008.91
+ORD-10518,14-03-2022,19-03-2022,Customer_27,Home Office,East,Bhubaneswar,Office Supplies,Storage,Storage Model 19,6611.07,8,0.2,-712.21
+ORD-10519,25-02-2022,28-02-2022,Customer_144,Corporate,West,Mumbai,Furniture,Bookcases,Bookcases Model 17,8147.79,5,0.1,-137.41
+ORD-10520,30-01-2022,31-01-2022,Customer_359,Consumer,South,Hyderabad,Office Supplies,Binders,Binders Model 32,66085.99,6,0.05,4316.28
+ORD-10521,06-01-2023,11-01-2023,Customer_212,Corporate,North,Lucknow,Furniture,Chairs,Chairs Model 16,59756.64,3,0.15,5269.96
+ORD-10522,20-06-2024,22-06-2024,Customer_238,Corporate,South,Hyderabad,Office Supplies,Storage,Storage Model 31,5905.42,5,0,372.81
+ORD-10523,10-09-2023,14-09-2023,Customer_223,Consumer,South,Chennai,Office Supplies,Paper,Paper Model 19,39312.01,5,0.05,5213.19
+ORD-10524,08-07-2024,12-07-2024,Customer_222,Home Office,East,Bhubaneswar,Office Supplies,Binders,Binders Model 42,10187.75,9,0.1,1925.95
+ORD-10525,13-07-2023,16-07-2023,Customer_384,Consumer,East,Patna,Furniture,Tables,Tables Model 47,65607.16,7,0.15,6120.34
+ORD-10526,04-02-2023,09-02-2023,Customer_7,Corporate,East,Bhubaneswar,Office Supplies,Binders,Binders Model 7,31670.35,1,0,8168.49
+ORD-10527,11-12-2024,12-12-2024,Customer_48,Consumer,West,Pune,Furniture,Bookcases,Bookcases Model 39,28688.05,4,0,1604.38
+ORD-10528,21-03-2023,26-03-2023,Customer_332,Home Office,North,Chandigarh,Furniture,Chairs,Chairs Model 12,85715.86,3,0.15,5494.27
+ORD-10529,16-08-2022,18-08-2022,Customer_355,Home Office,East,Patna,Technology,Accessories,Accessories Model 50,93650.11,8,0.1,13330.14
+ORD-10530,25-10-2023,28-10-2023,Customer_136,Consumer,South,Bangalore,Technology,Phones,Phones Model 29,38588.5,6,0,4420.69
+ORD-10531,23-05-2022,27-05-2022,Customer_221,Consumer,South,Hyderabad,Technology,Phones,Phones Model 40,64725.58,2,0.05,8748.18
+ORD-10532,06-08-2022,10-08-2022,Customer_255,Consumer,East,Kolkata,Furniture,Chairs,Chairs Model 42,7506.03,5,0.15,-715.39
+ORD-10533,02-01-2022,03-01-2022,Customer_363,Corporate,West,Pune,Furniture,Bookcases,Bookcases Model 31,33318.17,7,0.2,-4966.87
+ORD-10534,12-06-2024,16-06-2024,Customer_184,Corporate,North,Chandigarh,Furniture,Chairs,Chairs Model 44,38750.18,8,0,7432.71
+ORD-10535,13-09-2023,17-09-2023,Customer_390,Corporate,North,Chandigarh,Office Supplies,Binders,Binders Model 42,36852.86,6,0,9592.63
+ORD-10536,20-02-2023,22-02-2023,Customer_184,Corporate,North,Lucknow,Office Supplies,Binders,Binders Model 6,30237.6,7,0,6278.97
+ORD-10537,15-06-2024,17-06-2024,Customer_33,Home Office,South,Bangalore,Furniture,Chairs,Chairs Model 42,72114.03,10,0.05,8820.13
+ORD-10538,23-09-2023,27-09-2023,Customer_335,Home Office,West,Mumbai,Furniture,Tables,Tables Model 34,6077.42,1,0.15,-428.17
+ORD-10539,27-07-2024,01-08-2024,Customer_10,Corporate,South,Hyderabad,Office Supplies,Binders,Binders Model 40,92519.17,1,0.05,11308.03
+ORD-10540,04-04-2022,06-04-2022,Customer_88,Home Office,South,Bangalore,Furniture,Bookcases,Bookcases Model 5,5470.82,5,0,897.47
+ORD-10541,06-08-2022,07-08-2022,Customer_378,Home Office,West,Ahmedabad,Office Supplies,Binders,Binders Model 26,6779.46,4,0.15,-106.19
+ORD-10542,27-10-2023,28-10-2023,Customer_73,Corporate,South,Chennai,Furniture,Chairs,Chairs Model 11,59511.98,6,0,4772.05
+ORD-10543,28-01-2024,02-02-2024,Customer_81,Consumer,South,Chennai,Furniture,Bookcases,Bookcases Model 32,4549.54,2,0.2,-254.63
+ORD-10544,15-06-2022,16-06-2022,Customer_396,Corporate,North,Delhi,Furniture,Bookcases,Bookcases Model 45,65349.7,5,0.15,4795.09
+ORD-10545,17-09-2022,19-09-2022,Customer_20,Home Office,South,Hyderabad,Technology,Accessories,Accessories Model 12,45316.7,4,0.05,6916.89
+ORD-10546,20-10-2024,25-10-2024,Customer_272,Consumer,North,Chandigarh,Technology,Laptops,Laptops Model 40,42169.19,9,0.05,2023.1
+ORD-10547,12-01-2024,17-01-2024,Customer_77,Home Office,South,Chennai,Office Supplies,Paper,Paper Model 31,21206.82,1,0.05,597.39
+ORD-10548,15-10-2024,17-10-2024,Customer_172,Home Office,South,Hyderabad,Furniture,Chairs,Chairs Model 49,64663.65,5,0.05,7026.86
+ORD-10549,17-07-2024,18-07-2024,Customer_37,Consumer,North,Chandigarh,Furniture,Bookcases,Bookcases Model 47,18000.82,1,0.15,517.09
+ORD-10550,29-06-2024,04-07-2024,Customer_167,Consumer,East,Patna,Furniture,Bookcases,Bookcases Model 7,67846.83,6,0.05,13212.75
+ORD-10551,01-05-2023,05-05-2023,Customer_75,Consumer,South,Chennai,Furniture,Chairs,Chairs Model 40,47363.53,8,0,12912.35
+ORD-10552,20-07-2024,22-07-2024,Customer_66,Consumer,West,Pune,Furniture,Tables,Tables Model 45,72122.21,6,0.1,39.86
+ORD-10553,03-05-2022,06-05-2022,Customer_310,Consumer,South,Bangalore,Technology,Laptops,Laptops Model 41,42113.27,6,0.05,9332.4
+ORD-10554,15-12-2022,20-12-2022,Customer_237,Corporate,South,Bangalore,Technology,Accessories,Accessories Model 1,49176.73,4,0.2,-1555.35
+ORD-10555,26-05-2024,28-05-2024,Customer_3,Corporate,South,Chennai,Technology,Accessories,Accessories Model 3,22629.46,10,0.05,5169.44
+ORD-10556,24-03-2022,28-03-2022,Customer_43,Home Office,North,Lucknow,Office Supplies,Storage,Storage Model 49,48187.3,2,0.15,1147.88
+ORD-10557,26-01-2022,30-01-2022,Customer_157,Consumer,South,Bangalore,Technology,Laptops,Laptops Model 46,24286.71,2,0,4127.42
+ORD-10558,29-07-2024,03-08-2024,Customer_190,Home Office,North,Lucknow,Technology,Phones,Phones Model 30,87482.8,7,0.05,17274.76
+ORD-10559,03-01-2022,04-01-2022,Customer_314,Home Office,West,Ahmedabad,Technology,Accessories,Accessories Model 37,3755.06,7,0.1,467.56
+ORD-10560,01-03-2023,02-03-2023,Customer_188,Corporate,East,Bhubaneswar,Furniture,Bookcases,Bookcases Model 40,94559.56,6,0,7351.21
+ORD-10561,25-03-2022,28-03-2022,Customer_172,Consumer,East,Kolkata,Office Supplies,Paper,Paper Model 35,70634.93,9,0.05,2444.07
+ORD-10562,21-08-2022,25-08-2022,Customer_142,Consumer,South,Hyderabad,Furniture,Tables,Tables Model 5,35594.81,5,0.2,713.91
+ORD-10563,03-02-2024,06-02-2024,Customer_273,Corporate,West,Pune,Office Supplies,Paper,Paper Model 29,83041.2,8,0.2,1625.7
+ORD-10564,24-01-2024,25-01-2024,Customer_40,Consumer,South,Chennai,Furniture,Chairs,Chairs Model 11,39372.91,3,0.1,7463.69
+ORD-10565,20-07-2023,21-07-2023,Customer_350,Home Office,South,Chennai,Furniture,Chairs,Chairs Model 9,52308.42,1,0.1,2831.67
+ORD-10566,28-08-2024,31-08-2024,Customer_119,Home Office,West,Pune,Office Supplies,Paper,Paper Model 42,2637.49,4,0,146.4
+ORD-10567,19-11-2023,23-11-2023,Customer_156,Home Office,East,Bhubaneswar,Office Supplies,Storage,Storage Model 9,48871.76,9,0.2,-1890.65
+ORD-10568,20-09-2023,22-09-2023,Customer_234,Consumer,East,Kolkata,Technology,Laptops,Laptops Model 40,97087.04,1,0.05,8570.87
+ORD-10569,26-11-2022,01-12-2022,Customer_22,Corporate,East,Kolkata,Furniture,Bookcases,Bookcases Model 37,69439.5,3,0.05,4130.01
+ORD-10570,17-09-2022,21-09-2022,Customer_76,Corporate,East,Patna,Furniture,Chairs,Chairs Model 29,56467.48,1,0.1,10983.24
+ORD-10571,29-11-2022,04-12-2022,Customer_80,Consumer,East,Kolkata,Furniture,Tables,Tables Model 48,93141.36,3,0.15,12290.27
+ORD-10572,05-11-2024,08-11-2024,Customer_58,Home Office,East,Patna,Technology,Accessories,Accessories Model 31,66855.33,10,0.15,-1024.82
+ORD-10573,24-03-2022,26-03-2022,Customer_168,Consumer,North,Lucknow,Furniture,Tables,Tables Model 39,61943.44,4,0.15,-659.8
+ORD-10574,04-02-2023,09-02-2023,Customer_202,Consumer,South,Chennai,Furniture,Chairs,Chairs Model 32,8817.16,8,0,2591.89
+ORD-10575,13-10-2023,18-10-2023,Customer_7,Corporate,North,Chandigarh,Technology,Laptops,Laptops Model 23,15220.62,7,0.1,708.19
+ORD-10576,21-12-2023,24-12-2023,Customer_148,Consumer,West,Ahmedabad,Furniture,Chairs,Chairs Model 47,72921.41,8,0.15,7359.33
+ORD-10577,18-05-2024,22-05-2024,Customer_269,Corporate,South,Hyderabad,Office Supplies,Binders,Binders Model 5,14792.11,5,0.15,2175.85
+ORD-10578,09-02-2024,10-02-2024,Customer_387,Consumer,North,Lucknow,Office Supplies,Storage,Storage Model 13,41744.14,9,0.15,3237.75
+ORD-10579,16-01-2023,20-01-2023,Customer_287,Home Office,East,Bhubaneswar,Technology,Phones,Phones Model 30,82368.52,5,0.2,-6097.03
+ORD-10580,05-04-2023,06-04-2023,Customer_148,Corporate,North,Delhi,Technology,Laptops,Laptops Model 12,95624.65,8,0,20411.39
+ORD-10581,04-10-2024,06-10-2024,Customer_298,Corporate,North,Delhi,Technology,Laptops,Laptops Model 37,99436.13,2,0.2,3618.62
+ORD-10582,12-06-2024,15-06-2024,Customer_84,Home Office,West,Ahmedabad,Furniture,Tables,Tables Model 4,51496.32,10,0,13457.02
+ORD-10583,27-10-2022,30-10-2022,Customer_183,Consumer,West,Ahmedabad,Furniture,Tables,Tables Model 19,16749.23,5,0.1,919.17
+ORD-10584,21-08-2023,26-08-2023,Customer_279,Corporate,North,Chandigarh,Furniture,Bookcases,Bookcases Model 21,18733.13,2,0.2,714.8
+ORD-10585,09-09-2023,12-09-2023,Customer_145,Corporate,East,Kolkata,Office Supplies,Paper,Paper Model 50,35487.12,3,0,2989.34
+ORD-10586,20-09-2024,24-09-2024,Customer_287,Home Office,East,Kolkata,Furniture,Chairs,Chairs Model 45,15878.21,4,0.05,3156.22
+ORD-10587,12-12-2024,17-12-2024,Customer_160,Home Office,North,Lucknow,Technology,Phones,Phones Model 24,12098.28,3,0,2055.25
+ORD-10588,12-10-2022,16-10-2022,Customer_356,Consumer,East,Kolkata,Office Supplies,Storage,Storage Model 45,3361.57,2,0.05,108.17
+ORD-10589,10-04-2023,13-04-2023,Customer_248,Corporate,South,Bangalore,Furniture,Chairs,Chairs Model 3,42768.1,2,0,2339.48
+ORD-10590,07-02-2023,08-02-2023,Customer_155,Home Office,North,Chandigarh,Office Supplies,Paper,Paper Model 1,6396.89,2,0.1,-250.63
+ORD-10591,17-07-2022,18-07-2022,Customer_383,Corporate,South,Hyderabad,Furniture,Chairs,Chairs Model 38,67224.76,1,0,5807.5
+ORD-10592,14-12-2023,17-12-2023,Customer_297,Consumer,South,Hyderabad,Office Supplies,Paper,Paper Model 34,24561.34,10,0,1836.61
+ORD-10593,21-03-2023,23-03-2023,Customer_363,Corporate,East,Kolkata,Office Supplies,Binders,Binders Model 24,97371.2,2,0.05,22406.99
+ORD-10594,15-01-2023,19-01-2023,Customer_390,Corporate,North,Delhi,Technology,Laptops,Laptops Model 8,42697.14,9,0.05,4350.6
+ORD-10595,12-08-2024,13-08-2024,Customer_60,Corporate,South,Chennai,Technology,Accessories,Accessories Model 19,29182.99,1,0,3853
+ORD-10596,24-07-2024,29-07-2024,Customer_36,Corporate,East,Bhubaneswar,Technology,Phones,Phones Model 44,55614.63,5,0.15,-2936.66
+ORD-10597,23-01-2024,25-01-2024,Customer_44,Consumer,North,Chandigarh,Technology,Accessories,Accessories Model 10,10964.6,8,0.2,160.49
+ORD-10598,19-03-2024,23-03-2024,Customer_207,Consumer,North,Chandigarh,Furniture,Chairs,Chairs Model 15,36689.14,4,0.1,2.42
+ORD-10599,19-05-2024,23-05-2024,Customer_309,Corporate,East,Bhubaneswar,Office Supplies,Paper,Paper Model 32,27660.79,7,0.1,1907.39
+ORD-10600,13-11-2024,16-11-2024,Customer_69,Consumer,South,Chennai,Furniture,Chairs,Chairs Model 7,25443.64,8,0.05,3997.01
+ORD-10601,19-04-2022,20-04-2022,Customer_320,Consumer,West,Ahmedabad,Furniture,Chairs,Chairs Model 49,38571.98,6,0.05,2919.44
+ORD-10602,06-06-2022,11-06-2022,Customer_176,Home Office,West,Pune,Furniture,Tables,Tables Model 35,66378.28,8,0.2,-5614.52
+ORD-10603,06-02-2022,07-02-2022,Customer_17,Consumer,West,Mumbai,Technology,Laptops,Laptops Model 36,31798.64,7,0.15,474.25
+ORD-10604,13-09-2023,15-09-2023,Customer_252,Home Office,West,Pune,Furniture,Tables,Tables Model 36,71714.46,8,0,13784.51
+ORD-10605,20-08-2024,24-08-2024,Customer_181,Corporate,South,Hyderabad,Furniture,Tables,Tables Model 21,26707.4,10,0.15,1448.47
+ORD-10606,06-05-2022,07-05-2022,Customer_321,Corporate,North,Delhi,Technology,Laptops,Laptops Model 25,81050.57,10,0,19557.38
+ORD-10607,19-07-2022,23-07-2022,Customer_160,Home Office,East,Patna,Technology,Laptops,Laptops Model 6,6116.7,4,0.05,358.78
+ORD-10608,15-05-2022,18-05-2022,Customer_217,Home Office,North,Lucknow,Furniture,Chairs,Chairs Model 33,54072.47,1,0.15,3484.54
+ORD-10609,12-05-2024,15-05-2024,Customer_166,Home Office,North,Chandigarh,Technology,Accessories,Accessories Model 7,2712.53,6,0.15,115.52
+ORD-10610,27-09-2024,28-09-2024,Customer_187,Corporate,South,Chennai,Technology,Accessories,Accessories Model 13,81239.99,6,0.05,12487.15
+ORD-10611,14-10-2024,15-10-2024,Customer_320,Home Office,South,Chennai,Technology,Phones,Phones Model 6,30083.37,10,0.15,3042.96
+ORD-10612,14-07-2022,19-07-2022,Customer_40,Home Office,East,Patna,Furniture,Bookcases,Bookcases Model 20,80217.97,8,0.15,-3815.58
+ORD-10613,30-10-2024,02-11-2024,Customer_233,Home Office,West,Ahmedabad,Office Supplies,Storage,Storage Model 49,20407.66,7,0.1,2168.13
+ORD-10614,05-01-2023,06-01-2023,Customer_273,Home Office,South,Hyderabad,Technology,Phones,Phones Model 50,66250.22,8,0.1,12209.3
+ORD-10615,07-06-2024,12-06-2024,Customer_392,Corporate,North,Chandigarh,Furniture,Tables,Tables Model 28,46517.43,4,0.05,8680.54
+ORD-10616,20-04-2024,23-04-2024,Customer_308,Consumer,North,Chandigarh,Furniture,Tables,Tables Model 26,27060.01,5,0.05,1734.86
+ORD-10617,04-05-2023,05-05-2023,Customer_224,Corporate,South,Bangalore,Furniture,Chairs,Chairs Model 42,79805.95,5,0.15,1703.5
+ORD-10618,17-03-2022,19-03-2022,Customer_22,Home Office,South,Chennai,Furniture,Chairs,Chairs Model 32,26210.49,5,0.2,-2778.41
+ORD-10619,10-02-2022,11-02-2022,Customer_47,Corporate,North,Lucknow,Office Supplies,Storage,Storage Model 47,86783.59,7,0.1,10233.35
+ORD-10620,15-10-2022,17-10-2022,Customer_269,Corporate,North,Chandigarh,Office Supplies,Paper,Paper Model 32,93327.08,9,0.2,8158.53
+ORD-10621,04-07-2022,06-07-2022,Customer_55,Consumer,North,Lucknow,Technology,Accessories,Accessories Model 14,73855.02,4,0.15,-3360.25
+ORD-10622,17-07-2023,21-07-2023,Customer_217,Corporate,West,Pune,Office Supplies,Binders,Binders Model 44,49290.68,6,0,6364.54
+ORD-10623,20-05-2023,23-05-2023,Customer_311,Consumer,South,Chennai,Technology,Accessories,Accessories Model 48,37090.06,5,0,7838.96
+ORD-10624,22-04-2022,24-04-2022,Customer_122,Corporate,East,Bhubaneswar,Technology,Laptops,Laptops Model 25,64075.43,6,0,11772.43
+ORD-10625,17-01-2022,21-01-2022,Customer_393,Home Office,East,Patna,Furniture,Chairs,Chairs Model 27,30093.58,3,0.15,1740.56
+ORD-10626,11-03-2022,14-03-2022,Customer_52,Consumer,North,Lucknow,Technology,Accessories,Accessories Model 45,41589.65,6,0.15,4957.08
+ORD-10627,19-06-2023,24-06-2023,Customer_15,Consumer,North,Lucknow,Technology,Accessories,Accessories Model 42,73058.54,9,0.1,4625.73
+ORD-10628,12-01-2023,16-01-2023,Customer_81,Consumer,South,Bangalore,Technology,Phones,Phones Model 34,63015.48,6,0.2,-8156.85
+ORD-10629,24-09-2022,29-09-2022,Customer_304,Corporate,West,Pune,Technology,Laptops,Laptops Model 19,87413.83,3,0.1,-579.57
+ORD-10630,11-02-2023,12-02-2023,Customer_12,Home Office,West,Pune,Furniture,Tables,Tables Model 42,87700.81,10,0.05,454.61
+ORD-10631,14-04-2023,15-04-2023,Customer_308,Corporate,West,Mumbai,Technology,Accessories,Accessories Model 10,85257.17,1,0.15,4646.6
+ORD-10632,02-07-2022,05-07-2022,Customer_254,Consumer,South,Hyderabad,Furniture,Chairs,Chairs Model 15,71999.05,7,0.15,7690.53
+ORD-10633,21-02-2023,23-02-2023,Customer_145,Home Office,East,Patna,Office Supplies,Storage,Storage Model 44,38516.31,7,0.05,5778.24
+ORD-10634,23-01-2023,27-01-2023,Customer_128,Corporate,South,Chennai,Furniture,Chairs,Chairs Model 38,29374.2,5,0.05,4535.97
+ORD-10635,27-07-2024,28-07-2024,Customer_363,Corporate,North,Lucknow,Furniture,Tables,Tables Model 48,97452.72,7,0.05,17379.13
+ORD-10636,09-06-2023,10-06-2023,Customer_311,Home Office,North,Chandigarh,Furniture,Chairs,Chairs Model 39,33619.82,4,0.15,4271.62
+ORD-10637,04-04-2022,05-04-2022,Customer_287,Consumer,East,Bhubaneswar,Office Supplies,Storage,Storage Model 38,30599.48,7,0.1,-518.37
+ORD-10638,03-01-2023,06-01-2023,Customer_272,Corporate,South,Hyderabad,Technology,Laptops,Laptops Model 10,87850.73,3,0,11361.68
+ORD-10639,18-06-2023,19-06-2023,Customer_145,Corporate,East,Kolkata,Furniture,Tables,Tables Model 40,87232.12,5,0.1,15837.8
+ORD-10640,25-06-2023,30-06-2023,Customer_337,Home Office,East,Patna,Furniture,Tables,Tables Model 29,73818.49,8,0.05,10254.77
+ORD-10641,19-04-2022,21-04-2022,Customer_224,Consumer,South,Bangalore,Furniture,Chairs,Chairs Model 32,4068.29,5,0.05,718.02
+ORD-10642,25-03-2022,29-03-2022,Customer_48,Consumer,East,Bhubaneswar,Office Supplies,Storage,Storage Model 19,46047.09,2,0.05,1423.48
+ORD-10643,05-01-2023,07-01-2023,Customer_93,Corporate,East,Bhubaneswar,Office Supplies,Paper,Paper Model 5,21633.42,1,0.2,902.37
+ORD-10644,20-05-2023,24-05-2023,Customer_55,Corporate,North,Lucknow,Furniture,Tables,Tables Model 10,68290.58,2,0.15,-451.43
+ORD-10645,01-03-2022,02-03-2022,Customer_169,Consumer,West,Ahmedabad,Office Supplies,Storage,Storage Model 42,45678.52,5,0.2,662.41
+ORD-10646,16-07-2024,19-07-2024,Customer_309,Corporate,South,Bangalore,Furniture,Bookcases,Bookcases Model 6,28653.92,1,0,5352.24
+ORD-10647,27-03-2024,30-03-2024,Customer_207,Corporate,South,Bangalore,Technology,Phones,Phones Model 42,2540.95,4,0.05,246.79
+ORD-10648,12-11-2022,13-11-2022,Customer_341,Consumer,East,Patna,Technology,Accessories,Accessories Model 24,80732.14,5,0.2,-9460.06
+ORD-10649,15-11-2024,17-11-2024,Customer_217,Corporate,West,Pune,Technology,Laptops,Laptops Model 40,27213.7,10,0.15,-2107.55
+ORD-10650,17-01-2023,21-01-2023,Customer_366,Consumer,West,Mumbai,Furniture,Bookcases,Bookcases Model 32,34503.61,8,0.05,5586.23
+ORD-10651,15-12-2024,20-12-2024,Customer_66,Home Office,North,Lucknow,Technology,Laptops,Laptops Model 20,8378.72,8,0.1,-107.65
+ORD-10652,25-05-2023,30-05-2023,Customer_218,Corporate,West,Pune,Office Supplies,Binders,Binders Model 7,55323.94,1,0.2,-6809.93
+ORD-10653,09-08-2024,14-08-2024,Customer_339,Corporate,East,Patna,Technology,Accessories,Accessories Model 12,8636.07,9,0,677.79
+ORD-10654,09-01-2023,13-01-2023,Customer_231,Home Office,North,Delhi,Technology,Accessories,Accessories Model 17,30115.93,10,0.15,2690.51
+ORD-10655,01-12-2023,03-12-2023,Customer_10,Consumer,South,Bangalore,Furniture,Bookcases,Bookcases Model 26,98227.53,5,0,15564.13
+ORD-10656,27-08-2022,28-08-2022,Customer_316,Corporate,South,Hyderabad,Technology,Laptops,Laptops Model 45,69334.72,10,0.15,-1684.83
+ORD-10657,19-03-2024,22-03-2024,Customer_108,Corporate,North,Delhi,Furniture,Chairs,Chairs Model 42,19484.81,1,0.05,4184.42
+ORD-10658,25-10-2022,27-10-2022,Customer_12,Consumer,West,Ahmedabad,Office Supplies,Binders,Binders Model 11,9066.31,8,0.05,1074.33
+ORD-10659,09-11-2022,13-11-2022,Customer_201,Consumer,West,Pune,Furniture,Tables,Tables Model 22,58730.01,4,0.1,5424.16
+ORD-10660,17-01-2022,18-01-2022,Customer_205,Corporate,West,Pune,Technology,Accessories,Accessories Model 33,58076.8,9,0.1,-2366.38
+ORD-10661,26-09-2024,28-09-2024,Customer_332,Corporate,North,Chandigarh,Furniture,Tables,Tables Model 31,57852.13,9,0,6766.51
+ORD-10662,28-08-2022,01-09-2022,Customer_225,Consumer,East,Patna,Office Supplies,Storage,Storage Model 33,2570.29,5,0.05,301.52
+ORD-10663,26-03-2023,31-03-2023,Customer_345,Home Office,East,Bhubaneswar,Office Supplies,Paper,Paper Model 48,47112.49,5,0.15,6593.43
+ORD-10664,08-01-2024,12-01-2024,Customer_103,Consumer,South,Hyderabad,Furniture,Tables,Tables Model 39,69224.41,2,0.15,-4688.28
+ORD-10665,04-10-2024,05-10-2024,Customer_134,Corporate,West,Pune,Technology,Phones,Phones Model 44,21338.58,1,0,2980.93
+ORD-10666,21-11-2022,23-11-2022,Customer_250,Corporate,North,Delhi,Technology,Laptops,Laptops Model 22,11839.94,4,0,2255.45
+ORD-10667,29-12-2023,30-12-2023,Customer_225,Corporate,East,Kolkata,Office Supplies,Paper,Paper Model 49,60626.8,2,0,17076.02
+ORD-10668,16-08-2022,17-08-2022,Customer_81,Home Office,North,Chandigarh,Furniture,Bookcases,Bookcases Model 19,10988.4,2,0.05,2502.57
+ORD-10669,23-06-2024,28-06-2024,Customer_104,Corporate,West,Ahmedabad,Furniture,Chairs,Chairs Model 27,64885.75,6,0.05,1994.97
+ORD-10670,14-01-2022,16-01-2022,Customer_213,Corporate,West,Pune,Technology,Accessories,Accessories Model 41,17540.55,5,0.1,2259.22
+ORD-10671,18-05-2023,20-05-2023,Customer_265,Home Office,West,Mumbai,Furniture,Tables,Tables Model 24,41634.24,7,0.15,5743.87
+ORD-10672,02-03-2022,06-03-2022,Customer_396,Consumer,South,Bangalore,Office Supplies,Paper,Paper Model 28,94392.46,2,0.1,2709.17
+ORD-10673,06-05-2022,10-05-2022,Customer_215,Corporate,North,Chandigarh,Office Supplies,Binders,Binders Model 44,90299.86,1,0.2,8412.81
+ORD-10674,16-09-2023,19-09-2023,Customer_106,Home Office,East,Kolkata,Technology,Accessories,Accessories Model 40,61234.91,3,0.15,707.1
+ORD-10675,24-06-2024,27-06-2024,Customer_379,Consumer,West,Mumbai,Technology,Phones,Phones Model 34,4178.53,6,0.15,339.61
+ORD-10676,05-08-2023,07-08-2023,Customer_277,Home Office,North,Chandigarh,Office Supplies,Storage,Storage Model 17,52372.92,3,0,2983.83
+ORD-10677,10-05-2023,13-05-2023,Customer_182,Consumer,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 4,6464.6,6,0.1,690.08
+ORD-10678,13-09-2022,17-09-2022,Customer_322,Home Office,East,Bhubaneswar,Office Supplies,Binders,Binders Model 35,45588.14,4,0.2,-392.09
+ORD-10679,24-04-2023,27-04-2023,Customer_127,Consumer,East,Patna,Office Supplies,Paper,Paper Model 21,57490.19,3,0.15,1719.91
+ORD-10680,23-11-2024,28-11-2024,Customer_32,Corporate,South,Chennai,Technology,Phones,Phones Model 9,15082.05,7,0.15,-1199.22
+ORD-10681,02-09-2024,04-09-2024,Customer_203,Corporate,West,Mumbai,Technology,Accessories,Accessories Model 38,52862.43,10,0.2,-1071.19
+ORD-10682,18-10-2024,22-10-2024,Customer_249,Home Office,West,Ahmedabad,Technology,Accessories,Accessories Model 30,97340.61,3,0.05,12308.38
+ORD-10683,22-09-2022,27-09-2022,Customer_61,Home Office,North,Chandigarh,Furniture,Tables,Tables Model 27,47598.88,3,0.2,-2744.88
+ORD-10684,14-08-2022,15-08-2022,Customer_192,Corporate,East,Bhubaneswar,Technology,Phones,Phones Model 19,52516.36,2,0.1,1377.56
+ORD-10685,22-09-2024,23-09-2024,Customer_379,Corporate,South,Bangalore,Office Supplies,Storage,Storage Model 1,5340.78,5,0.1,20.8
+ORD-10686,08-09-2022,13-09-2022,Customer_173,Corporate,East,Kolkata,Furniture,Tables,Tables Model 31,48377.06,5,0.2,-1785.42
+ORD-10687,29-09-2022,01-10-2022,Customer_341,Home Office,West,Pune,Office Supplies,Storage,Storage Model 27,15323.77,6,0,3830.22
+ORD-10688,04-03-2024,06-03-2024,Customer_85,Home Office,West,Pune,Office Supplies,Binders,Binders Model 2,95828.91,8,0.1,10682.92
+ORD-10689,25-09-2023,30-09-2023,Customer_28,Home Office,North,Chandigarh,Office Supplies,Binders,Binders Model 34,19646.46,10,0.2,-113.68
+ORD-10690,23-01-2023,27-01-2023,Customer_126,Home Office,North,Delhi,Office Supplies,Paper,Paper Model 38,18384.47,1,0.1,2696.8
+ORD-10691,28-06-2024,29-06-2024,Customer_213,Consumer,East,Patna,Office Supplies,Binders,Binders Model 34,49401.57,1,0.1,2927.26
+ORD-10692,12-10-2023,16-10-2023,Customer_394,Consumer,East,Kolkata,Furniture,Chairs,Chairs Model 10,54407.04,5,0.05,2484.62
+ORD-10693,21-09-2023,25-09-2023,Customer_164,Consumer,South,Bangalore,Office Supplies,Storage,Storage Model 27,18555.06,1,0.1,881.09
+ORD-10694,26-10-2023,29-10-2023,Customer_261,Home Office,West,Mumbai,Furniture,Chairs,Chairs Model 25,24342.48,10,0.2,-2212.18
+ORD-10695,24-08-2022,27-08-2022,Customer_120,Consumer,North,Lucknow,Technology,Accessories,Accessories Model 18,41004.11,8,0,6227.44
+ORD-10696,27-07-2022,29-07-2022,Customer_73,Corporate,South,Chennai,Office Supplies,Storage,Storage Model 35,44875.23,9,0.05,8783
+ORD-10697,11-12-2022,13-12-2022,Customer_86,Consumer,West,Ahmedabad,Technology,Phones,Phones Model 4,599.61,8,0.2,-46.58
+ORD-10698,14-09-2024,17-09-2024,Customer_145,Consumer,East,Bhubaneswar,Technology,Laptops,Laptops Model 11,84322.65,4,0.2,5073.78
+ORD-10699,29-12-2024,03-01-2025,Customer_222,Consumer,North,Lucknow,Furniture,Tables,Tables Model 40,69993.72,3,0.2,6978.75
+ORD-10700,30-10-2024,02-11-2024,Customer_236,Home Office,East,Bhubaneswar,Technology,Accessories,Accessories Model 22,45545.45,4,0.1,1612.65
+ORD-10701,02-02-2022,04-02-2022,Customer_357,Home Office,North,Chandigarh,Technology,Phones,Phones Model 32,90193.78,3,0.15,3512.84
+ORD-10702,15-03-2024,20-03-2024,Customer_193,Home Office,North,Chandigarh,Office Supplies,Binders,Binders Model 23,54095.61,8,0,7478.65
+ORD-10703,03-03-2024,05-03-2024,Customer_11,Corporate,North,Delhi,Technology,Laptops,Laptops Model 44,93656.66,8,0,9869.56
+ORD-10704,03-01-2024,05-01-2024,Customer_186,Consumer,North,Chandigarh,Office Supplies,Storage,Storage Model 18,80937.24,4,0.05,19832.03
+ORD-10705,06-10-2024,11-10-2024,Customer_88,Home Office,South,Bangalore,Furniture,Bookcases,Bookcases Model 13,39910.57,5,0.2,-994.52
+ORD-10706,26-12-2022,27-12-2022,Customer_374,Corporate,South,Hyderabad,Furniture,Chairs,Chairs Model 13,26332.64,10,0.05,5799.78
+ORD-10707,17-02-2022,22-02-2022,Customer_166,Corporate,East,Bhubaneswar,Office Supplies,Storage,Storage Model 27,694.52,7,0,182.98
+ORD-10708,16-07-2023,17-07-2023,Customer_216,Home Office,West,Pune,Technology,Accessories,Accessories Model 29,76022.66,4,0,9083.44
+ORD-10709,10-10-2023,11-10-2023,Customer_217,Consumer,West,Mumbai,Technology,Phones,Phones Model 16,88069.8,1,0.05,21535.17
+ORD-10710,08-02-2023,10-02-2023,Customer_13,Home Office,East,Patna,Furniture,Bookcases,Bookcases Model 41,62716.82,1,0.15,500.93
+ORD-10711,16-11-2023,19-11-2023,Customer_122,Consumer,South,Bangalore,Technology,Phones,Phones Model 50,95900.86,1,0.1,7664.28
+ORD-10712,17-06-2024,18-06-2024,Customer_356,Consumer,West,Ahmedabad,Furniture,Chairs,Chairs Model 9,97465.3,1,0.15,-2113.06
+ORD-10713,07-05-2022,11-05-2022,Customer_151,Corporate,North,Lucknow,Office Supplies,Paper,Paper Model 26,43467.98,2,0,8250.85
+ORD-10714,16-07-2022,21-07-2022,Customer_220,Home Office,West,Mumbai,Office Supplies,Paper,Paper Model 40,62588.81,8,0.15,1004.69
+ORD-10715,27-07-2022,30-07-2022,Customer_366,Consumer,North,Lucknow,Office Supplies,Storage,Storage Model 38,58987.43,2,0,3130.59
+ORD-10716,01-02-2023,06-02-2023,Customer_125,Consumer,South,Hyderabad,Office Supplies,Storage,Storage Model 3,35861.43,8,0.2,-1393
+ORD-10717,04-05-2022,06-05-2022,Customer_278,Consumer,East,Bhubaneswar,Technology,Accessories,Accessories Model 10,95994.26,6,0.1,9207.43
+ORD-10718,19-08-2024,22-08-2024,Customer_287,Consumer,East,Patna,Technology,Phones,Phones Model 28,52009.22,3,0,5687.04
+ORD-10719,06-12-2023,08-12-2023,Customer_170,Home Office,South,Hyderabad,Furniture,Chairs,Chairs Model 37,34484.42,8,0.15,1722.17
+ORD-10720,19-11-2023,24-11-2023,Customer_2,Home Office,East,Patna,Technology,Phones,Phones Model 15,10932.37,1,0.15,-493.58
+ORD-10721,17-04-2023,21-04-2023,Customer_95,Consumer,South,Bangalore,Technology,Accessories,Accessories Model 24,76950.67,6,0.15,-3745.26
+ORD-10722,21-01-2022,22-01-2022,Customer_392,Corporate,East,Kolkata,Office Supplies,Binders,Binders Model 3,14669,8,0.05,2315.26
+ORD-10723,02-03-2022,04-03-2022,Customer_126,Consumer,South,Chennai,Furniture,Chairs,Chairs Model 13,88595.53,3,0.1,14342.16
+ORD-10724,14-02-2022,16-02-2022,Customer_157,Corporate,East,Kolkata,Furniture,Bookcases,Bookcases Model 16,14155.73,2,0.1,2605.06
+ORD-10725,28-01-2024,31-01-2024,Customer_67,Consumer,South,Hyderabad,Office Supplies,Storage,Storage Model 13,87899.59,2,0,7568.86
+ORD-10726,26-12-2024,30-12-2024,Customer_301,Consumer,East,Patna,Office Supplies,Storage,Storage Model 35,97709.66,4,0,23525.61
+ORD-10727,26-08-2023,28-08-2023,Customer_251,Consumer,East,Kolkata,Furniture,Bookcases,Bookcases Model 47,79663.39,3,0.2,7336.69
+ORD-10728,16-06-2022,20-06-2022,Customer_238,Consumer,North,Delhi,Office Supplies,Storage,Storage Model 21,75255.15,9,0.1,5617.57
+ORD-10729,05-02-2024,10-02-2024,Customer_107,Consumer,West,Ahmedabad,Technology,Laptops,Laptops Model 13,27199.38,7,0.2,338.21
+ORD-10730,14-07-2024,16-07-2024,Customer_192,Corporate,West,Mumbai,Technology,Laptops,Laptops Model 36,88926.54,10,0.05,20797.67
+ORD-10731,23-06-2022,25-06-2022,Customer_319,Corporate,North,Lucknow,Technology,Accessories,Accessories Model 28,35481.71,10,0,5901.08
+ORD-10732,12-07-2024,16-07-2024,Customer_120,Corporate,West,Pune,Technology,Laptops,Laptops Model 42,32043.53,7,0,3040.66
+ORD-10733,05-06-2022,08-06-2022,Customer_51,Consumer,North,Lucknow,Office Supplies,Paper,Paper Model 5,54891.86,2,0.1,9971.19
+ORD-10734,08-01-2024,09-01-2024,Customer_310,Consumer,South,Chennai,Furniture,Bookcases,Bookcases Model 49,33259.51,5,0.1,-77.81
+ORD-10735,19-06-2023,20-06-2023,Customer_263,Consumer,East,Patna,Technology,Laptops,Laptops Model 26,94608.59,10,0,15894.34
+ORD-10736,12-04-2023,14-04-2023,Customer_237,Corporate,South,Chennai,Furniture,Bookcases,Bookcases Model 6,58906.86,9,0.15,4749.52
+ORD-10737,04-10-2023,06-10-2023,Customer_296,Consumer,West,Ahmedabad,Technology,Phones,Phones Model 20,44148.74,9,0,6343.07
+ORD-10738,20-01-2022,24-01-2022,Customer_301,Consumer,East,Patna,Furniture,Tables,Tables Model 37,42859.08,7,0.2,-3218.32
+ORD-10739,07-03-2022,09-03-2022,Customer_196,Consumer,South,Chennai,Office Supplies,Paper,Paper Model 26,80015,10,0.2,5339.9
+ORD-10740,11-05-2022,16-05-2022,Customer_54,Home Office,West,Mumbai,Technology,Phones,Phones Model 36,33219.72,8,0.1,-886.62
+ORD-10741,30-12-2022,31-12-2022,Customer_150,Home Office,West,Mumbai,Furniture,Chairs,Chairs Model 34,7414.36,7,0.1,10.92
+ORD-10742,24-05-2022,28-05-2022,Customer_57,Consumer,North,Lucknow,Office Supplies,Binders,Binders Model 35,17596.66,7,0.15,-1068.84
+ORD-10743,06-05-2024,10-05-2024,Customer_341,Corporate,North,Lucknow,Furniture,Chairs,Chairs Model 11,87109.68,5,0.15,9100.7
+ORD-10744,28-09-2023,03-10-2023,Customer_229,Consumer,South,Hyderabad,Office Supplies,Paper,Paper Model 26,46166.17,4,0,13746.96
+ORD-10745,21-05-2023,26-05-2023,Customer_234,Corporate,East,Bhubaneswar,Technology,Laptops,Laptops Model 45,46538.2,1,0,5676.63
+ORD-10746,02-09-2023,06-09-2023,Customer_338,Consumer,South,Chennai,Furniture,Chairs,Chairs Model 45,90046.48,7,0.15,-345.22
+ORD-10747,15-07-2022,19-07-2022,Customer_35,Home Office,North,Delhi,Furniture,Tables,Tables Model 47,88314.31,9,0.1,10303.12
+ORD-10748,21-03-2023,25-03-2023,Customer_167,Corporate,West,Ahmedabad,Furniture,Tables,Tables Model 29,8115.1,2,0.2,337.87
+ORD-10749,04-12-2022,07-12-2022,Customer_205,Consumer,South,Hyderabad,Furniture,Tables,Tables Model 26,3158.43,8,0.15,-44.49
+ORD-10750,19-03-2022,20-03-2022,Customer_43,Home Office,East,Kolkata,Office Supplies,Binders,Binders Model 43,33047.48,8,0.15,506.92
+ORD-10751,12-05-2023,16-05-2023,Customer_151,Consumer,South,Chennai,Technology,Phones,Phones Model 35,17473.62,1,0.2,-2181.95
+ORD-10752,11-03-2024,13-03-2024,Customer_366,Consumer,North,Chandigarh,Furniture,Bookcases,Bookcases Model 44,27688.6,8,0.1,-152.7
+ORD-10753,26-12-2024,28-12-2024,Customer_228,Consumer,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 39,81245.43,2,0.15,5897.34
+ORD-10754,10-01-2022,11-01-2022,Customer_15,Consumer,West,Mumbai,Furniture,Tables,Tables Model 22,90921.26,4,0,4910.62
+ORD-10755,29-01-2023,30-01-2023,Customer_168,Corporate,South,Bangalore,Office Supplies,Binders,Binders Model 36,72539.14,1,0.15,2040.17
+ORD-10756,24-01-2023,29-01-2023,Customer_89,Consumer,South,Hyderabad,Technology,Laptops,Laptops Model 26,12519.99,4,0,1742.08
+ORD-10757,10-10-2023,11-10-2023,Customer_35,Consumer,West,Mumbai,Technology,Phones,Phones Model 27,7068.62,5,0.2,-408.25
+ORD-10758,10-09-2023,15-09-2023,Customer_49,Home Office,West,Mumbai,Office Supplies,Paper,Paper Model 21,79230.35,10,0.05,4990.33
+ORD-10759,06-03-2024,08-03-2024,Customer_312,Home Office,East,Kolkata,Office Supplies,Paper,Paper Model 29,32137.71,8,0,4299.26
+ORD-10760,23-02-2024,28-02-2024,Customer_64,Corporate,South,Hyderabad,Office Supplies,Paper,Paper Model 16,98843.9,4,0,20172.77
+ORD-10761,27-05-2024,29-05-2024,Customer_329,Consumer,North,Delhi,Furniture,Tables,Tables Model 16,50123.28,4,0.05,4708.43
+ORD-10762,27-06-2024,30-06-2024,Customer_213,Home Office,South,Chennai,Technology,Accessories,Accessories Model 19,78803.6,1,0.2,3778.23
+ORD-10763,18-02-2022,20-02-2022,Customer_196,Home Office,East,Patna,Furniture,Chairs,Chairs Model 21,54161.52,4,0.05,8233.41
+ORD-10764,11-01-2023,15-01-2023,Customer_65,Consumer,North,Delhi,Technology,Phones,Phones Model 12,95389.29,1,0.05,22375.34
+ORD-10765,23-02-2023,25-02-2023,Customer_311,Consumer,North,Lucknow,Office Supplies,Storage,Storage Model 20,31490.57,4,0.05,3338.13
+ORD-10766,08-08-2023,13-08-2023,Customer_185,Corporate,West,Ahmedabad,Furniture,Tables,Tables Model 25,86311.34,8,0,24836.37
+ORD-10767,10-12-2022,14-12-2022,Customer_196,Corporate,West,Pune,Office Supplies,Paper,Paper Model 6,73625.35,3,0.15,-6997.89
+ORD-10768,07-09-2023,12-09-2023,Customer_193,Home Office,South,Hyderabad,Office Supplies,Binders,Binders Model 39,26100.53,8,0.1,1654.79
+ORD-10769,11-09-2024,12-09-2024,Customer_257,Home Office,East,Kolkata,Office Supplies,Storage,Storage Model 47,19973.72,4,0,1062.77
+ORD-10770,06-02-2024,10-02-2024,Customer_302,Consumer,West,Pune,Technology,Accessories,Accessories Model 27,37627.92,8,0.1,4148.94
+ORD-10771,21-03-2022,22-03-2022,Customer_251,Home Office,West,Ahmedabad,Furniture,Chairs,Chairs Model 45,76413.61,5,0.1,5914.57
+ORD-10772,25-01-2024,26-01-2024,Customer_347,Consumer,West,Pune,Office Supplies,Binders,Binders Model 45,24614.11,1,0.1,2651.88
+ORD-10773,30-10-2022,02-11-2022,Customer_395,Consumer,West,Ahmedabad,Furniture,Tables,Tables Model 42,25117.77,10,0.05,77.47
+ORD-10774,27-02-2024,02-03-2024,Customer_257,Home Office,North,Chandigarh,Furniture,Tables,Tables Model 43,16999.45,7,0.1,2090.24
+ORD-10775,23-02-2024,28-02-2024,Customer_177,Consumer,East,Bhubaneswar,Technology,Accessories,Accessories Model 18,87007.09,2,0.2,3843.34
+ORD-10776,06-03-2023,10-03-2023,Customer_336,Corporate,East,Kolkata,Furniture,Tables,Tables Model 47,657.07,2,0.15,20.53
+ORD-10777,01-06-2024,03-06-2024,Customer_57,Corporate,South,Chennai,Furniture,Bookcases,Bookcases Model 37,13866.04,8,0.05,1742.32
+ORD-10778,12-03-2023,14-03-2023,Customer_210,Corporate,South,Bangalore,Office Supplies,Binders,Binders Model 41,81013.27,4,0.1,15857.28
+ORD-10779,12-08-2022,14-08-2022,Customer_121,Corporate,North,Lucknow,Furniture,Tables,Tables Model 32,12905.82,2,0.1,-549.57
+ORD-10780,26-07-2022,27-07-2022,Customer_4,Corporate,North,Lucknow,Furniture,Bookcases,Bookcases Model 39,58453.32,1,0,6007.08
+ORD-10781,01-12-2024,04-12-2024,Customer_123,Corporate,West,Pune,Technology,Accessories,Accessories Model 43,43230.64,6,0.1,8640.13
+ORD-10782,27-03-2024,31-03-2024,Customer_63,Home Office,North,Lucknow,Technology,Phones,Phones Model 18,806.92,7,0.05,5.18
+ORD-10783,25-05-2023,28-05-2023,Customer_2,Home Office,West,Ahmedabad,Office Supplies,Paper,Paper Model 21,87050.38,9,0.15,5663.25
+ORD-10784,04-02-2022,07-02-2022,Customer_314,Consumer,North,Chandigarh,Technology,Accessories,Accessories Model 23,44708.46,10,0.15,1.85
+ORD-10785,26-05-2024,30-05-2024,Customer_367,Home Office,North,Chandigarh,Technology,Laptops,Laptops Model 3,60913.79,3,0.2,4206.62
+ORD-10786,19-09-2022,23-09-2022,Customer_60,Corporate,North,Lucknow,Office Supplies,Paper,Paper Model 43,98728.35,8,0.05,22125.23
+ORD-10787,09-05-2023,11-05-2023,Customer_168,Corporate,South,Bangalore,Office Supplies,Paper,Paper Model 50,9398.47,7,0,846.42
+ORD-10788,29-07-2023,31-07-2023,Customer_252,Consumer,East,Bhubaneswar,Technology,Accessories,Accessories Model 45,12748.26,3,0.2,106.92
+ORD-10789,13-11-2023,15-11-2023,Customer_224,Consumer,North,Chandigarh,Technology,Laptops,Laptops Model 15,91061.63,7,0.2,8337.78
+ORD-10790,15-06-2023,16-06-2023,Customer_60,Home Office,East,Kolkata,Furniture,Chairs,Chairs Model 24,34353.67,10,0.05,6395.09
+ORD-10791,18-09-2022,21-09-2022,Customer_199,Corporate,West,Ahmedabad,Office Supplies,Binders,Binders Model 21,31424.49,10,0.2,-3222.13
+ORD-10792,18-01-2024,20-01-2024,Customer_152,Consumer,South,Bangalore,Technology,Phones,Phones Model 32,54060.15,8,0.1,-747.37
+ORD-10793,22-07-2024,24-07-2024,Customer_258,Home Office,East,Kolkata,Office Supplies,Paper,Paper Model 8,84988.18,1,0.2,-5946.21
+ORD-10794,15-07-2023,20-07-2023,Customer_171,Consumer,West,Ahmedabad,Furniture,Tables,Tables Model 46,29503.76,7,0,8712.04
+ORD-10795,08-03-2023,10-03-2023,Customer_173,Corporate,North,Delhi,Technology,Accessories,Accessories Model 44,39484.88,3,0,7383.11
+ORD-10796,27-08-2024,30-08-2024,Customer_281,Corporate,West,Pune,Furniture,Bookcases,Bookcases Model 7,72812.08,5,0.05,12762.3
+ORD-10797,26-09-2022,29-09-2022,Customer_248,Corporate,North,Chandigarh,Technology,Laptops,Laptops Model 10,65636.08,10,0.05,7250.88
+ORD-10798,06-03-2023,08-03-2023,Customer_76,Corporate,South,Hyderabad,Office Supplies,Binders,Binders Model 28,36541.46,10,0,8023.75
+ORD-10799,11-12-2022,12-12-2022,Customer_304,Corporate,North,Lucknow,Technology,Phones,Phones Model 10,94533.79,2,0.2,1183.98
+ORD-10800,07-04-2024,09-04-2024,Customer_193,Home Office,North,Delhi,Furniture,Tables,Tables Model 43,49118.28,10,0.05,8016.07
+ORD-10801,03-07-2022,07-07-2022,Customer_63,Corporate,West,Pune,Office Supplies,Paper,Paper Model 42,44789.27,1,0,3545.38
+ORD-10802,09-11-2024,11-11-2024,Customer_248,Home Office,North,Chandigarh,Office Supplies,Paper,Paper Model 45,48210.09,2,0.2,-5048.84
+ORD-10803,07-06-2024,10-06-2024,Customer_359,Consumer,South,Bangalore,Technology,Phones,Phones Model 26,71519.93,9,0.05,7247.3
+ORD-10804,21-12-2024,25-12-2024,Customer_61,Consumer,North,Chandigarh,Office Supplies,Paper,Paper Model 39,71518.04,2,0.05,17265.9
+ORD-10805,04-01-2023,05-01-2023,Customer_132,Consumer,West,Pune,Furniture,Chairs,Chairs Model 6,13317.19,4,0.05,292.38
+ORD-10806,13-09-2022,18-09-2022,Customer_266,Corporate,East,Patna,Office Supplies,Binders,Binders Model 43,42593.61,1,0.05,3200.91
+ORD-10807,29-12-2024,02-01-2025,Customer_108,Home Office,South,Hyderabad,Technology,Accessories,Accessories Model 7,31637.14,6,0.2,-488.72
+ORD-10808,02-04-2022,04-04-2022,Customer_111,Home Office,North,Delhi,Furniture,Tables,Tables Model 23,85680.47,4,0.05,12898
+ORD-10809,23-07-2023,25-07-2023,Customer_131,Home Office,West,Mumbai,Office Supplies,Storage,Storage Model 28,26437.11,3,0.15,370.57
+ORD-10810,21-10-2022,26-10-2022,Customer_332,Home Office,South,Bangalore,Office Supplies,Paper,Paper Model 39,27305.27,4,0.1,2482.34
+ORD-10811,02-12-2022,06-12-2022,Customer_64,Home Office,South,Chennai,Technology,Laptops,Laptops Model 8,3078.03,10,0.05,59.66
+ORD-10812,13-04-2024,14-04-2024,Customer_116,Corporate,East,Bhubaneswar,Furniture,Tables,Tables Model 1,90969.92,5,0.05,19759.93
+ORD-10813,20-07-2022,24-07-2022,Customer_251,Consumer,South,Chennai,Furniture,Chairs,Chairs Model 34,17985.27,5,0.2,995.23
+ORD-10814,16-12-2023,21-12-2023,Customer_385,Corporate,East,Bhubaneswar,Technology,Accessories,Accessories Model 12,10357.08,1,0.05,823.38
+ORD-10815,08-12-2023,13-12-2023,Customer_74,Corporate,West,Pune,Office Supplies,Binders,Binders Model 37,26276.57,9,0.05,4319.62
+ORD-10816,02-07-2023,03-07-2023,Customer_182,Corporate,East,Bhubaneswar,Furniture,Bookcases,Bookcases Model 33,61065.95,8,0.05,6701.38
+ORD-10817,11-08-2023,14-08-2023,Customer_161,Consumer,West,Ahmedabad,Office Supplies,Binders,Binders Model 41,30866.15,2,0.1,1593.58
+ORD-10818,12-06-2022,13-06-2022,Customer_6,Corporate,South,Bangalore,Furniture,Bookcases,Bookcases Model 44,6212.45,5,0.2,511.89
+ORD-10819,07-11-2024,09-11-2024,Customer_316,Consumer,West,Pune,Office Supplies,Paper,Paper Model 48,99796.47,9,0,15105.98
+ORD-10820,15-01-2022,19-01-2022,Customer_230,Consumer,East,Kolkata,Office Supplies,Paper,Paper Model 44,95111.4,9,0.2,-13259.58
+ORD-10821,08-12-2024,10-12-2024,Customer_88,Corporate,South,Bangalore,Technology,Phones,Phones Model 8,51611.61,1,0.15,1232.33
+ORD-10822,24-11-2023,26-11-2023,Customer_292,Corporate,North,Lucknow,Technology,Laptops,Laptops Model 14,29707.73,4,0,6966.65
+ORD-10823,17-09-2023,22-09-2023,Customer_153,Corporate,North,Lucknow,Office Supplies,Storage,Storage Model 7,6220.92,1,0.2,-217.18
+ORD-10824,11-01-2022,14-01-2022,Customer_264,Consumer,South,Chennai,Technology,Phones,Phones Model 27,10583.11,8,0.05,224.21
+ORD-10825,11-09-2022,15-09-2022,Customer_220,Consumer,North,Delhi,Office Supplies,Storage,Storage Model 35,22996.48,7,0.1,570.8
+ORD-10826,06-07-2023,07-07-2023,Customer_364,Consumer,West,Ahmedabad,Technology,Phones,Phones Model 8,14417.5,7,0,2015.7
+ORD-10827,24-01-2023,27-01-2023,Customer_246,Home Office,North,Delhi,Technology,Laptops,Laptops Model 18,74520.44,1,0.05,12411.47
+ORD-10828,01-09-2022,05-09-2022,Customer_380,Corporate,West,Ahmedabad,Technology,Accessories,Accessories Model 9,71574.94,6,0.15,1822.63
+ORD-10829,13-08-2022,14-08-2022,Customer_176,Corporate,North,Delhi,Furniture,Tables,Tables Model 39,50250.09,4,0,11033.79
+ORD-10830,17-01-2022,21-01-2022,Customer_374,Home Office,West,Pune,Technology,Laptops,Laptops Model 12,8720.18,7,0.05,1346.42
+ORD-10831,26-05-2023,29-05-2023,Customer_53,Home Office,North,Lucknow,Office Supplies,Binders,Binders Model 47,66799.88,7,0.05,7914
+ORD-10832,25-10-2024,30-10-2024,Customer_20,Corporate,South,Bangalore,Office Supplies,Paper,Paper Model 13,63630.48,4,0,5286.04
+ORD-10833,27-10-2022,31-10-2022,Customer_359,Home Office,North,Chandigarh,Furniture,Chairs,Chairs Model 15,86502.84,7,0.15,2702.59
+ORD-10834,31-03-2023,03-04-2023,Customer_187,Corporate,West,Pune,Furniture,Bookcases,Bookcases Model 23,42993.75,1,0.1,-966.77
+ORD-10835,06-05-2024,08-05-2024,Customer_144,Home Office,East,Kolkata,Furniture,Chairs,Chairs Model 7,553.32,6,0.05,39.47
+ORD-10836,01-06-2024,03-06-2024,Customer_395,Consumer,East,Patna,Technology,Laptops,Laptops Model 22,30783.49,2,0,6795.16
+ORD-10837,09-01-2024,12-01-2024,Customer_67,Home Office,East,Kolkata,Office Supplies,Storage,Storage Model 48,21398.31,7,0,5816.03
+ORD-10838,04-09-2022,05-09-2022,Customer_155,Home Office,South,Bangalore,Office Supplies,Storage,Storage Model 31,92587.31,2,0.2,440.03
+ORD-10839,18-02-2023,23-02-2023,Customer_188,Corporate,South,Bangalore,Furniture,Chairs,Chairs Model 41,42112.15,5,0.2,3949.34
+ORD-10840,29-08-2022,02-09-2022,Customer_141,Home Office,North,Lucknow,Technology,Accessories,Accessories Model 9,93167.57,9,0,8546.61
+ORD-10841,17-08-2023,18-08-2023,Customer_39,Consumer,North,Chandigarh,Furniture,Bookcases,Bookcases Model 29,81546.08,8,0.2,5509.57
+ORD-10842,09-11-2024,13-11-2024,Customer_304,Home Office,West,Pune,Office Supplies,Storage,Storage Model 1,21089,1,0.05,3015.19
+ORD-10843,16-11-2024,20-11-2024,Customer_24,Home Office,East,Patna,Furniture,Tables,Tables Model 16,70971.34,9,0,6584.53
+ORD-10844,21-08-2023,22-08-2023,Customer_108,Home Office,South,Chennai,Furniture,Tables,Tables Model 8,87401.59,1,0.05,21621.76
+ORD-10845,03-01-2022,06-01-2022,Customer_314,Corporate,East,Patna,Furniture,Bookcases,Bookcases Model 21,88456.65,5,0.05,9030.16
+ORD-10846,28-04-2022,29-04-2022,Customer_399,Home Office,East,Kolkata,Office Supplies,Storage,Storage Model 7,18085.16,1,0.2,259.15
+ORD-10847,22-02-2024,25-02-2024,Customer_119,Home Office,South,Chennai,Furniture,Tables,Tables Model 47,27244.95,10,0.15,-1664.38
+ORD-10848,07-06-2024,10-06-2024,Customer_252,Home Office,South,Chennai,Furniture,Tables,Tables Model 12,18560.6,3,0.05,876.34
+ORD-10849,01-08-2023,02-08-2023,Customer_219,Consumer,East,Kolkata,Furniture,Tables,Tables Model 30,68893,4,0,5916.57
+ORD-10850,04-04-2024,05-04-2024,Customer_7,Home Office,South,Hyderabad,Furniture,Bookcases,Bookcases Model 3,10423.13,7,0,807.89
+ORD-10851,28-09-2022,30-09-2022,Customer_174,Home Office,North,Lucknow,Furniture,Bookcases,Bookcases Model 6,60163.9,1,0,11165.97
+ORD-10852,19-02-2023,21-02-2023,Customer_279,Home Office,West,Ahmedabad,Technology,Phones,Phones Model 18,31084.81,8,0.05,1894.69
+ORD-10853,10-09-2022,11-09-2022,Customer_115,Consumer,North,Delhi,Office Supplies,Storage,Storage Model 15,10705.33,7,0.05,3.24
+ORD-10854,24-05-2024,28-05-2024,Customer_57,Consumer,South,Chennai,Office Supplies,Storage,Storage Model 7,22975.5,7,0,3973.73
+ORD-10855,01-08-2023,04-08-2023,Customer_92,Corporate,North,Chandigarh,Technology,Phones,Phones Model 34,36369.1,2,0,7314.79
+ORD-10856,17-11-2023,22-11-2023,Customer_179,Consumer,South,Hyderabad,Technology,Phones,Phones Model 18,89365.2,5,0.2,4860.63
+ORD-10857,19-10-2024,22-10-2024,Customer_200,Corporate,East,Bhubaneswar,Furniture,Chairs,Chairs Model 47,86240.54,3,0.05,6904.76
+ORD-10858,06-09-2024,07-09-2024,Customer_94,Corporate,North,Chandigarh,Technology,Accessories,Accessories Model 23,28208.38,2,0.1,5604.81
+ORD-10859,16-10-2023,20-10-2023,Customer_335,Consumer,West,Pune,Office Supplies,Storage,Storage Model 25,60373.44,6,0.05,12107
+ORD-10860,07-05-2024,12-05-2024,Customer_367,Corporate,West,Ahmedabad,Office Supplies,Storage,Storage Model 34,53481.21,4,0.15,-4230.13
+ORD-10861,26-03-2023,27-03-2023,Customer_69,Consumer,South,Chennai,Furniture,Chairs,Chairs Model 4,99393.58,1,0.1,8905.03
+ORD-10862,17-12-2023,20-12-2023,Customer_115,Consumer,South,Chennai,Technology,Phones,Phones Model 48,83607.61,9,0.15,-3292.1
+ORD-10863,10-10-2022,11-10-2022,Customer_55,Home Office,South,Chennai,Office Supplies,Binders,Binders Model 38,69764.19,7,0.1,-2544.94
+ORD-10864,01-06-2022,05-06-2022,Customer_214,Consumer,South,Bangalore,Furniture,Tables,Tables Model 49,14557.11,4,0,773.27
+ORD-10865,09-01-2023,13-01-2023,Customer_228,Home Office,South,Hyderabad,Office Supplies,Paper,Paper Model 45,94902.19,8,0.15,7652.85
+ORD-10866,28-01-2022,31-01-2022,Customer_203,Corporate,North,Delhi,Furniture,Bookcases,Bookcases Model 44,3695.85,3,0.2,-406.22
+ORD-10867,19-07-2024,24-07-2024,Customer_48,Home Office,East,Bhubaneswar,Office Supplies,Storage,Storage Model 25,71080.61,7,0.05,4830.42
+ORD-10868,14-09-2022,16-09-2022,Customer_355,Corporate,West,Ahmedabad,Furniture,Chairs,Chairs Model 31,39532.95,9,0.2,2388.91
+ORD-10869,04-10-2023,08-10-2023,Customer_40,Corporate,West,Mumbai,Furniture,Tables,Tables Model 39,64841.4,4,0.1,-1484.85
+ORD-10870,19-11-2023,20-11-2023,Customer_159,Consumer,South,Chennai,Furniture,Bookcases,Bookcases Model 36,11093.22,4,0.2,-1633.54
+ORD-10871,18-02-2023,19-02-2023,Customer_162,Consumer,South,Chennai,Furniture,Bookcases,Bookcases Model 20,56697.28,10,0.15,-5022.24
+ORD-10872,18-01-2022,21-01-2022,Customer_360,Home Office,East,Patna,Office Supplies,Binders,Binders Model 7,31790.01,7,0.1,6150.18
+ORD-10873,10-11-2023,14-11-2023,Customer_20,Corporate,North,Chandigarh,Furniture,Chairs,Chairs Model 11,58923.96,7,0.15,2745.24
+ORD-10874,07-11-2022,11-11-2022,Customer_83,Home Office,North,Chandigarh,Furniture,Bookcases,Bookcases Model 34,23541.22,4,0.05,4524.77
+ORD-10875,07-12-2024,10-12-2024,Customer_397,Home Office,West,Mumbai,Technology,Laptops,Laptops Model 25,36351.48,7,0,9911.96
+ORD-10876,05-05-2023,07-05-2023,Customer_159,Home Office,North,Delhi,Office Supplies,Paper,Paper Model 6,99443.25,2,0,8517.87
+ORD-10877,18-10-2024,19-10-2024,Customer_46,Consumer,West,Pune,Furniture,Tables,Tables Model 12,16566.51,5,0.2,-980.21
+ORD-10878,01-08-2024,04-08-2024,Customer_187,Corporate,West,Pune,Technology,Accessories,Accessories Model 26,92454,2,0.2,-2582.73
+ORD-10879,17-04-2024,22-04-2024,Customer_212,Home Office,South,Chennai,Technology,Accessories,Accessories Model 29,84561.15,6,0.1,-2463.04
+ORD-10880,23-06-2023,24-06-2023,Customer_149,Corporate,North,Chandigarh,Furniture,Bookcases,Bookcases Model 11,82212.89,1,0.05,17533.13
+ORD-10881,28-03-2024,29-03-2024,Customer_239,Consumer,South,Chennai,Technology,Accessories,Accessories Model 6,9803.56,8,0.15,594.3
+ORD-10882,05-01-2023,06-01-2023,Customer_249,Consumer,West,Pune,Furniture,Tables,Tables Model 45,33207.7,6,0.1,6611.97
+ORD-10883,02-09-2024,03-09-2024,Customer_164,Home Office,East,Patna,Furniture,Bookcases,Bookcases Model 3,15996.24,8,0.05,2560.26
+ORD-10884,18-02-2024,19-02-2024,Customer_326,Consumer,East,Patna,Technology,Phones,Phones Model 6,5880.71,1,0.15,-191.35
+ORD-10885,18-10-2022,19-10-2022,Customer_343,Corporate,East,Patna,Furniture,Tables,Tables Model 12,87440.7,8,0.15,2727.67
+ORD-10886,21-04-2022,22-04-2022,Customer_353,Consumer,West,Pune,Technology,Phones,Phones Model 45,20261.23,7,0.15,382.43
+ORD-10887,13-06-2024,16-06-2024,Customer_341,Home Office,West,Mumbai,Office Supplies,Paper,Paper Model 48,20256.72,10,0.2,-2306.14
+ORD-10888,11-10-2023,12-10-2023,Customer_370,Consumer,South,Chennai,Furniture,Tables,Tables Model 29,86497.98,2,0.15,-2966.82
+ORD-10889,15-09-2022,19-09-2022,Customer_308,Corporate,North,Delhi,Furniture,Bookcases,Bookcases Model 14,97913.68,7,0.2,4268.65
+ORD-10890,14-12-2023,16-12-2023,Customer_158,Home Office,South,Hyderabad,Office Supplies,Binders,Binders Model 8,37340.51,6,0,4685.72
+ORD-10891,19-10-2024,23-10-2024,Customer_172,Consumer,West,Pune,Technology,Laptops,Laptops Model 12,82904.49,7,0.2,7753.02
+ORD-10892,28-07-2024,01-08-2024,Customer_338,Home Office,East,Kolkata,Office Supplies,Paper,Paper Model 44,16684.39,7,0.15,-479.56
+ORD-10893,14-06-2024,17-06-2024,Customer_384,Home Office,North,Delhi,Furniture,Chairs,Chairs Model 35,65137.65,10,0.15,-4825.47
+ORD-10894,24-07-2022,28-07-2022,Customer_101,Corporate,North,Chandigarh,Technology,Laptops,Laptops Model 8,21581.18,8,0.2,-1181.14
+ORD-10895,20-12-2023,24-12-2023,Customer_138,Home Office,West,Ahmedabad,Office Supplies,Paper,Paper Model 17,39882.95,6,0.05,5060.76
+ORD-10896,22-09-2023,26-09-2023,Customer_266,Home Office,South,Bangalore,Technology,Phones,Phones Model 39,2045.24,3,0.1,327.63
+ORD-10897,13-10-2023,16-10-2023,Customer_202,Consumer,South,Hyderabad,Technology,Phones,Phones Model 37,55796.09,7,0.05,8596.34
+ORD-10898,28-05-2024,30-05-2024,Customer_51,Home Office,West,Ahmedabad,Furniture,Tables,Tables Model 9,90465.05,9,0.05,9892.39
+ORD-10899,29-10-2024,30-10-2024,Customer_14,Corporate,West,Ahmedabad,Technology,Accessories,Accessories Model 1,16325.79,6,0.05,380.61
+ORD-10900,10-11-2022,11-11-2022,Customer_399,Corporate,North,Chandigarh,Technology,Phones,Phones Model 12,74362.79,3,0.15,4358.83
+ORD-10901,06-05-2023,08-05-2023,Customer_141,Consumer,East,Kolkata,Office Supplies,Binders,Binders Model 10,72768.11,7,0.1,8354.83
+ORD-10902,17-02-2022,22-02-2022,Customer_93,Consumer,North,Delhi,Technology,Accessories,Accessories Model 5,12707.09,3,0.1,196.94
+ORD-10903,09-10-2024,12-10-2024,Customer_321,Consumer,South,Chennai,Furniture,Tables,Tables Model 14,79646.42,7,0,13669.66
+ORD-10904,09-05-2024,13-05-2024,Customer_324,Home Office,East,Bhubaneswar,Technology,Phones,Phones Model 3,18390.74,1,0.05,3032.94
+ORD-10905,29-08-2022,01-09-2022,Customer_63,Consumer,East,Patna,Office Supplies,Paper,Paper Model 39,54875.04,3,0.2,1943.9
+ORD-10906,02-03-2022,07-03-2022,Customer_16,Corporate,North,Chandigarh,Office Supplies,Binders,Binders Model 9,22022.5,6,0,6048.33
+ORD-10907,27-03-2023,28-03-2023,Customer_334,Corporate,South,Chennai,Technology,Laptops,Laptops Model 30,20324.13,2,0.1,2581.59
+ORD-10908,12-10-2024,16-10-2024,Customer_393,Home Office,West,Mumbai,Technology,Phones,Phones Model 20,20188.71,5,0.15,-1499.54
+ORD-10909,06-12-2022,08-12-2022,Customer_311,Corporate,West,Pune,Technology,Laptops,Laptops Model 28,59834.81,5,0.1,6326.2
+ORD-10910,14-02-2023,19-02-2023,Customer_210,Corporate,East,Patna,Office Supplies,Binders,Binders Model 39,45215.64,1,0.2,-3921.74
+ORD-10911,22-12-2024,25-12-2024,Customer_38,Consumer,West,Mumbai,Furniture,Chairs,Chairs Model 43,80999.53,7,0.05,7244.28
+ORD-10912,01-02-2024,04-02-2024,Customer_291,Corporate,South,Chennai,Furniture,Chairs,Chairs Model 15,32199.62,1,0.1,110.87
+ORD-10913,16-05-2022,20-05-2022,Customer_344,Consumer,East,Bhubaneswar,Furniture,Bookcases,Bookcases Model 37,22137.61,9,0.1,2857.22
+ORD-10914,13-05-2024,17-05-2024,Customer_141,Corporate,East,Patna,Furniture,Chairs,Chairs Model 8,5441.14,8,0.15,-480.46
+ORD-10915,12-09-2022,16-09-2022,Customer_330,Home Office,South,Hyderabad,Technology,Accessories,Accessories Model 1,38594.32,10,0,4679.92
+ORD-10916,03-08-2024,06-08-2024,Customer_36,Corporate,South,Chennai,Furniture,Bookcases,Bookcases Model 7,91844.43,1,0.1,10212.54
+ORD-10917,30-04-2024,03-05-2024,Customer_202,Corporate,East,Patna,Technology,Laptops,Laptops Model 45,8436.84,6,0.15,447.83
+ORD-10918,19-07-2024,23-07-2024,Customer_166,Home Office,North,Lucknow,Office Supplies,Binders,Binders Model 47,3414.17,1,0,289.12
+ORD-10919,11-06-2024,13-06-2024,Customer_353,Consumer,South,Bangalore,Furniture,Bookcases,Bookcases Model 17,90276.51,6,0.2,8792.14
+ORD-10920,30-03-2022,31-03-2022,Customer_88,Consumer,North,Lucknow,Furniture,Tables,Tables Model 38,33268.23,10,0.15,-1081.95
+ORD-10921,01-08-2024,02-08-2024,Customer_268,Home Office,South,Chennai,Furniture,Bookcases,Bookcases Model 16,88835.94,7,0.15,5957.23
+ORD-10922,05-09-2024,09-09-2024,Customer_181,Home Office,East,Patna,Office Supplies,Storage,Storage Model 16,22970.14,5,0.1,2936.63
+ORD-10923,26-02-2023,27-02-2023,Customer_97,Corporate,North,Lucknow,Furniture,Chairs,Chairs Model 7,1806.25,4,0.15,188.98
+ORD-10924,29-11-2023,01-12-2023,Customer_113,Corporate,East,Patna,Office Supplies,Storage,Storage Model 25,65701.29,9,0,18299.87
+ORD-10925,15-07-2024,20-07-2024,Customer_296,Home Office,South,Chennai,Furniture,Chairs,Chairs Model 7,28144.92,3,0.1,5287.69
+ORD-10926,29-10-2022,02-11-2022,Customer_244,Home Office,North,Chandigarh,Furniture,Chairs,Chairs Model 34,2150.5,8,0.05,143.42
+ORD-10927,16-07-2024,19-07-2024,Customer_221,Home Office,East,Kolkata,Office Supplies,Binders,Binders Model 22,35765.47,4,0.05,3549.08
+ORD-10928,19-04-2022,23-04-2022,Customer_207,Consumer,East,Patna,Furniture,Chairs,Chairs Model 39,65037.86,7,0.05,4780.38
+ORD-10929,20-07-2023,25-07-2023,Customer_28,Consumer,West,Ahmedabad,Technology,Phones,Phones Model 37,68275.47,4,0,7161.75
+ORD-10930,30-06-2023,02-07-2023,Customer_52,Consumer,North,Chandigarh,Furniture,Tables,Tables Model 47,23033.27,10,0.15,-46.6
+ORD-10931,04-07-2023,08-07-2023,Customer_49,Consumer,South,Bangalore,Furniture,Tables,Tables Model 33,63871.47,10,0.1,8524.96
+ORD-10932,03-09-2024,06-09-2024,Customer_73,Consumer,South,Bangalore,Technology,Accessories,Accessories Model 43,7410.74,3,0.1,1296.64
+ORD-10933,29-08-2024,02-09-2024,Customer_243,Home Office,East,Kolkata,Furniture,Tables,Tables Model 1,88185.12,3,0,17504.86
+ORD-10934,27-09-2024,29-09-2024,Customer_86,Consumer,West,Mumbai,Furniture,Chairs,Chairs Model 50,56943.04,5,0.05,7477.61
+ORD-10935,12-07-2022,13-07-2022,Customer_250,Corporate,East,Bhubaneswar,Technology,Laptops,Laptops Model 24,49320.85,6,0.2,-4225.08
+ORD-10936,28-07-2024,29-07-2024,Customer_352,Home Office,East,Patna,Office Supplies,Storage,Storage Model 47,89191.56,10,0.15,-6404.82
+ORD-10937,12-02-2022,14-02-2022,Customer_357,Corporate,West,Mumbai,Office Supplies,Binders,Binders Model 24,36040.84,1,0.05,5204.15
+ORD-10938,27-02-2023,28-02-2023,Customer_270,Consumer,South,Chennai,Office Supplies,Binders,Binders Model 17,96562.58,9,0.15,14178.57
+ORD-10939,16-12-2023,19-12-2023,Customer_176,Home Office,West,Ahmedabad,Technology,Laptops,Laptops Model 8,31277.67,1,0.2,-624.95
+ORD-10940,06-06-2024,10-06-2024,Customer_268,Corporate,East,Patna,Furniture,Chairs,Chairs Model 40,50143.24,3,0.15,3521.6
+ORD-10941,30-11-2022,03-12-2022,Customer_304,Consumer,West,Pune,Furniture,Tables,Tables Model 4,2051.44,1,0.05,145.15
+ORD-10942,27-09-2024,30-09-2024,Customer_146,Home Office,North,Lucknow,Technology,Accessories,Accessories Model 43,83493.95,1,0.1,-1300.03
+ORD-10943,14-11-2022,15-11-2022,Customer_243,Corporate,East,Kolkata,Office Supplies,Binders,Binders Model 16,43489.05,2,0.1,205.03
+ORD-10944,02-03-2024,06-03-2024,Customer_166,Home Office,West,Mumbai,Technology,Laptops,Laptops Model 9,59905.36,3,0.2,-2458.87
+ORD-10945,13-02-2023,16-02-2023,Customer_322,Corporate,South,Chennai,Office Supplies,Binders,Binders Model 35,30455.7,2,0.1,2791.76
+ORD-10946,11-01-2023,15-01-2023,Customer_365,Corporate,West,Mumbai,Furniture,Bookcases,Bookcases Model 30,44469.18,6,0.2,3722.96
+ORD-10947,27-12-2023,31-12-2023,Customer_216,Consumer,West,Pune,Technology,Laptops,Laptops Model 49,3253.46,9,0,941.46
+ORD-10948,15-10-2022,20-10-2022,Customer_151,Consumer,East,Kolkata,Office Supplies,Paper,Paper Model 49,37624.56,10,0.2,2821.02
+ORD-10949,15-03-2024,17-03-2024,Customer_44,Consumer,West,Ahmedabad,Furniture,Tables,Tables Model 18,80844.36,9,0.15,8876.67
+ORD-10950,08-08-2022,11-08-2022,Customer_346,Home Office,North,Lucknow,Office Supplies,Storage,Storage Model 48,69213.99,1,0,16273.47
+ORD-10951,19-04-2022,21-04-2022,Customer_369,Consumer,South,Hyderabad,Office Supplies,Storage,Storage Model 32,14072.07,3,0.1,1506.55
+ORD-10952,16-02-2023,17-02-2023,Customer_54,Corporate,North,Delhi,Furniture,Bookcases,Bookcases Model 2,88049.96,9,0,9844.12
+ORD-10953,01-11-2024,05-11-2024,Customer_280,Corporate,West,Mumbai,Furniture,Tables,Tables Model 40,40753.45,3,0.05,8575.76
+ORD-10954,18-06-2024,23-06-2024,Customer_380,Home Office,North,Lucknow,Furniture,Bookcases,Bookcases Model 35,2654.96,3,0.05,113.35
+ORD-10955,15-02-2023,19-02-2023,Customer_141,Corporate,West,Pune,Technology,Accessories,Accessories Model 25,10451.96,10,0.15,-85.34
+ORD-10956,08-08-2022,12-08-2022,Customer_298,Corporate,West,Pune,Furniture,Chairs,Chairs Model 3,28700.51,2,0.2,-1510.87
+ORD-10957,29-06-2024,30-06-2024,Customer_258,Consumer,East,Kolkata,Technology,Accessories,Accessories Model 23,46105.84,1,0.05,4123.56
+ORD-10958,11-12-2024,15-12-2024,Customer_72,Corporate,North,Delhi,Office Supplies,Binders,Binders Model 49,35510.77,10,0.1,2303.6
+ORD-10959,13-09-2023,17-09-2023,Customer_260,Home Office,North,Chandigarh,Technology,Laptops,Laptops Model 34,96274.22,10,0.05,13864.43
+ORD-10960,15-06-2023,17-06-2023,Customer_376,Consumer,East,Bhubaneswar,Office Supplies,Storage,Storage Model 15,58657.08,7,0,3591.71
+ORD-10961,17-07-2022,18-07-2022,Customer_90,Home Office,West,Ahmedabad,Technology,Laptops,Laptops Model 25,76110.97,4,0,20926.6
+ORD-10962,10-05-2024,11-05-2024,Customer_311,Home Office,North,Chandigarh,Technology,Phones,Phones Model 2,4223.12,2,0.15,383.62
+ORD-10963,23-12-2022,26-12-2022,Customer_130,Corporate,North,Chandigarh,Technology,Laptops,Laptops Model 29,13755.06,10,0.2,-1376.42
+ORD-10964,09-08-2023,11-08-2023,Customer_323,Home Office,South,Hyderabad,Furniture,Tables,Tables Model 7,81476.86,4,0,15930.92
+ORD-10965,21-02-2023,22-02-2023,Customer_374,Home Office,South,Bangalore,Technology,Laptops,Laptops Model 42,57045.36,2,0.1,-209.58
+ORD-10966,17-12-2024,21-12-2024,Customer_71,Consumer,South,Bangalore,Office Supplies,Storage,Storage Model 29,50334.6,6,0.2,3772.02
+ORD-10967,25-05-2024,29-05-2024,Customer_119,Consumer,North,Chandigarh,Furniture,Chairs,Chairs Model 39,78347.54,5,0,6227.21
+ORD-10968,09-11-2023,10-11-2023,Customer_39,Home Office,South,Chennai,Technology,Laptops,Laptops Model 37,70475.69,2,0.05,17057.14
+ORD-10969,10-05-2023,15-05-2023,Customer_135,Home Office,East,Patna,Office Supplies,Binders,Binders Model 2,54821.19,2,0.2,-1768.28
+ORD-10970,08-03-2022,11-03-2022,Customer_376,Corporate,West,Pune,Furniture,Tables,Tables Model 49,88858.79,1,0.05,4536.98
+ORD-10971,08-05-2022,10-05-2022,Customer_214,Home Office,West,Mumbai,Office Supplies,Paper,Paper Model 48,70457.54,1,0.1,13757.82
+ORD-10972,15-06-2022,20-06-2022,Customer_333,Corporate,West,Mumbai,Technology,Accessories,Accessories Model 28,4653.23,1,0.15,125.18
+ORD-10973,05-09-2024,08-09-2024,Customer_195,Home Office,South,Bangalore,Furniture,Chairs,Chairs Model 44,77474.52,4,0.2,157.64
+ORD-10974,07-02-2022,12-02-2022,Customer_60,Corporate,West,Mumbai,Technology,Laptops,Laptops Model 8,69696.33,7,0.15,2605.68
+ORD-10975,24-01-2024,27-01-2024,Customer_212,Home Office,South,Chennai,Technology,Phones,Phones Model 49,24197.94,2,0.2,-3568.9
+ORD-10976,04-04-2022,05-04-2022,Customer_180,Home Office,South,Bangalore,Furniture,Chairs,Chairs Model 42,13108.23,3,0.1,-512.14
+ORD-10977,16-05-2023,19-05-2023,Customer_279,Consumer,South,Hyderabad,Technology,Laptops,Laptops Model 32,65929.49,2,0,7420.35
+ORD-10978,02-01-2024,04-01-2024,Customer_137,Corporate,West,Ahmedabad,Technology,Laptops,Laptops Model 45,78130.74,5,0.05,10290.68
+ORD-10979,28-10-2024,29-10-2024,Customer_71,Home Office,North,Lucknow,Technology,Accessories,Accessories Model 15,95081.06,8,0.1,-2889.37
+ORD-10980,17-09-2023,22-09-2023,Customer_358,Corporate,South,Bangalore,Technology,Accessories,Accessories Model 42,81729.78,3,0,24067.58
+ORD-10981,18-07-2024,19-07-2024,Customer_44,Consumer,North,Lucknow,Furniture,Tables,Tables Model 18,28157.75,7,0.1,4414.99
+ORD-10982,26-02-2024,01-03-2024,Customer_221,Home Office,North,Lucknow,Technology,Laptops,Laptops Model 4,4919.35,4,0.15,-265.12
+ORD-10983,17-09-2023,18-09-2023,Customer_15,Corporate,East,Kolkata,Office Supplies,Storage,Storage Model 47,92308.52,5,0.2,-8849.06
+ORD-10984,07-06-2024,11-06-2024,Customer_294,Home Office,North,Delhi,Office Supplies,Storage,Storage Model 37,95271.12,5,0.2,-3251.07
+ORD-10985,28-11-2024,01-12-2024,Customer_144,Home Office,South,Chennai,Technology,Accessories,Accessories Model 18,99265,4,0.05,22526.02
+ORD-10986,25-06-2022,27-06-2022,Customer_129,Home Office,East,Patna,Office Supplies,Storage,Storage Model 50,4341.32,5,0.1,74.61
+ORD-10987,26-01-2022,27-01-2022,Customer_226,Consumer,East,Bhubaneswar,Office Supplies,Storage,Storage Model 30,83681.98,3,0.15,1312.22
+ORD-10988,17-03-2022,20-03-2022,Customer_313,Home Office,West,Ahmedabad,Office Supplies,Binders,Binders Model 21,41156.78,10,0,4902.24
+ORD-10989,12-05-2022,16-05-2022,Customer_76,Home Office,South,Chennai,Technology,Laptops,Laptops Model 42,86971.01,3,0.05,13705.29
+ORD-10990,12-04-2022,14-04-2022,Customer_284,Home Office,North,Chandigarh,Furniture,Chairs,Chairs Model 15,68601.92,8,0.2,-4847.85
+ORD-10991,05-05-2022,08-05-2022,Customer_56,Consumer,East,Kolkata,Office Supplies,Storage,Storage Model 33,54273.91,1,0.2,-4956.61
+ORD-10992,27-06-2024,28-06-2024,Customer_145,Consumer,North,Delhi,Furniture,Tables,Tables Model 2,57251.41,7,0,12049.8
+ORD-10993,31-10-2023,05-11-2023,Customer_189,Consumer,East,Patna,Technology,Accessories,Accessories Model 19,37784.2,5,0.2,-5373.32
+ORD-10994,04-11-2022,09-11-2022,Customer_365,Corporate,North,Delhi,Office Supplies,Binders,Binders Model 14,80899.4,9,0.2,3710.6
+ORD-10995,15-02-2024,20-02-2024,Customer_115,Home Office,North,Chandigarh,Office Supplies,Binders,Binders Model 33,38418.42,2,0,11128.14
+ORD-10996,06-05-2024,11-05-2024,Customer_138,Consumer,North,Chandigarh,Furniture,Bookcases,Bookcases Model 37,47496.75,9,0.2,-1887.79
+ORD-10997,24-08-2023,26-08-2023,Customer_210,Corporate,East,Kolkata,Technology,Phones,Phones Model 6,45854.21,2,0.05,5101.37
+ORD-10998,22-12-2023,27-12-2023,Customer_65,Home Office,North,Lucknow,Office Supplies,Storage,Storage Model 16,60719.25,8,0.15,-2584.16
+ORD-10999,14-04-2024,19-04-2024,Customer_259,Consumer,South,Hyderabad,Technology,Laptops,Laptops Model 37,34486.39,2,0,5246.27
+ORD-11000,09-10-2024,11-10-2024,Customer_241,Home Office,South,Chennai,Furniture,Chairs,Chairs Model 7,12518.49,5,0.2,348.58
+ORD-11001,16-09-2022,17-09-2022,Customer_199,Corporate,West,Mumbai,Office Supplies,Binders,Binders Model 23,98998.38,3,0.2,6605.17
+ORD-11002,19-09-2022,23-09-2022,Customer_56,Home Office,South,Hyderabad,Technology,Phones,Phones Model 3,34012.43,6,0.2,74.47
+ORD-11003,01-06-2022,04-06-2022,Customer_359,Consumer,West,Pune,Office Supplies,Storage,Storage Model 47,74199.4,7,0.1,10344.51
+ORD-11004,11-01-2023,16-01-2023,Customer_91,Home Office,North,Delhi,Furniture,Bookcases,Bookcases Model 47,59508.3,8,0.15,-1183.67
+ORD-11005,27-07-2023,28-07-2023,Customer_219,Corporate,South,Chennai,Technology,Laptops,Laptops Model 21,5304.65,9,0.2,-26.75
+ORD-11006,26-02-2024,29-02-2024,Customer_295,Home Office,South,Bangalore,Furniture,Bookcases,Bookcases Model 21,88297.22,4,0.15,2629.82
+ORD-11007,23-07-2022,26-07-2022,Customer_148,Corporate,East,Kolkata,Furniture,Tables,Tables Model 39,27747.93,8,0.05,6141.65
+ORD-11008,06-08-2022,08-08-2022,Customer_21,Home Office,East,Kolkata,Furniture,Chairs,Chairs Model 35,55440.26,9,0.05,379.07
+ORD-11009,04-02-2023,05-02-2023,Customer_267,Consumer,West,Mumbai,Technology,Phones,Phones Model 30,28542.83,10,0.15,2369.69
+ORD-11010,28-08-2023,29-08-2023,Customer_60,Corporate,North,Lucknow,Technology,Laptops,Laptops Model 6,26674.12,3,0.1,3545.22
+ORD-11011,01-04-2023,02-04-2023,Customer_162,Consumer,East,Kolkata,Office Supplies,Storage,Storage Model 28,27972.75,9,0,6341.49
+ORD-11012,25-07-2022,30-07-2022,Customer_301,Corporate,East,Kolkata,Office Supplies,Paper,Paper Model 15,83844.69,1,0,9346.87
+ORD-11013,05-02-2023,08-02-2023,Customer_46,Home Office,West,Mumbai,Technology,Phones,Phones Model 47,73489.29,5,0.05,3648.25
+ORD-11014,15-03-2023,16-03-2023,Customer_135,Home Office,West,Mumbai,Technology,Accessories,Accessories Model 25,61316.11,3,0,9475.78
+ORD-11015,26-04-2023,29-04-2023,Customer_251,Home Office,West,Ahmedabad,Office Supplies,Binders,Binders Model 26,87850.02,4,0.1,10277.92
+ORD-11016,02-01-2024,07-01-2024,Customer_167,Consumer,West,Pune,Furniture,Chairs,Chairs Model 43,11680.56,5,0.15,1662.62
+ORD-11017,20-05-2024,21-05-2024,Customer_248,Corporate,South,Chennai,Technology,Accessories,Accessories Model 39,11796.86,7,0.05,2281.75
+ORD-11018,23-04-2024,25-04-2024,Customer_166,Corporate,North,Lucknow,Technology,Accessories,Accessories Model 44,21903.06,7,0,4173.94
+ORD-11019,13-10-2023,17-10-2023,Customer_113,Corporate,West,Pune,Technology,Laptops,Laptops Model 41,26439.59,1,0.1,1887.16
+ORD-11020,04-04-2022,07-04-2022,Customer_57,Home Office,West,Pune,Furniture,Bookcases,Bookcases Model 40,87624.39,9,0.05,17076.94
+ORD-11021,07-11-2023,09-11-2023,Customer_284,Consumer,North,Chandigarh,Furniture,Tables,Tables Model 42,9480.14,6,0.1,1343.44
+ORD-11022,11-04-2022,16-04-2022,Customer_118,Corporate,South,Chennai,Office Supplies,Binders,Binders Model 11,98529.12,9,0.15,11324.02
+ORD-11023,05-02-2024,08-02-2024,Customer_387,Home Office,West,Mumbai,Office Supplies,Paper,Paper Model 7,25246.02,1,0,6598.56
+ORD-11024,24-10-2024,28-10-2024,Customer_384,Consumer,West,Mumbai,Furniture,Tables,Tables Model 25,30495.91,4,0.05,257.52
+ORD-11025,31-03-2024,02-04-2024,Customer_278,Home Office,East,Kolkata,Furniture,Chairs,Chairs Model 10,50698.71,7,0,2721.78
+ORD-11026,15-07-2022,20-07-2022,Customer_155,Corporate,West,Mumbai,Office Supplies,Storage,Storage Model 30,78584.79,7,0.2,2818.9
+ORD-11027,20-02-2023,21-02-2023,Customer_209,Home Office,East,Bhubaneswar,Office Supplies,Storage,Storage Model 18,37969.78,7,0,4008.21
+ORD-11028,16-09-2024,19-09-2024,Customer_232,Consumer,South,Chennai,Furniture,Tables,Tables Model 37,72891.97,6,0.2,2087.97
+ORD-11029,20-02-2022,24-02-2022,Customer_323,Consumer,South,Chennai,Technology,Laptops,Laptops Model 7,56533.75,5,0.1,-794.71
+ORD-11030,13-12-2022,15-12-2022,Customer_291,Consumer,West,Ahmedabad,Furniture,Chairs,Chairs Model 4,14562.39,10,0.15,449.27
+ORD-11031,07-10-2024,10-10-2024,Customer_307,Corporate,West,Pune,Office Supplies,Storage,Storage Model 1,83515.18,1,0.1,10209.68
+ORD-11032,04-07-2023,06-07-2023,Customer_248,Home Office,West,Ahmedabad,Technology,Laptops,Laptops Model 36,95967.79,4,0.1,6270.82
+ORD-11033,16-06-2022,17-06-2022,Customer_63,Consumer,West,Ahmedabad,Furniture,Tables,Tables Model 13,13164.61,1,0.05,1711.2
+ORD-11034,15-06-2024,16-06-2024,Customer_281,Corporate,North,Lucknow,Technology,Phones,Phones Model 26,62803.41,9,0.15,-4084.34
+ORD-11035,19-01-2022,22-01-2022,Customer_191,Home Office,North,Lucknow,Technology,Accessories,Accessories Model 42,92236.04,5,0.2,-6401.5
+ORD-11036,06-12-2022,08-12-2022,Customer_242,Corporate,East,Bhubaneswar,Office Supplies,Binders,Binders Model 14,80379.97,6,0.2,90.78
+ORD-11037,08-11-2023,10-11-2023,Customer_35,Consumer,South,Hyderabad,Office Supplies,Storage,Storage Model 20,1477.21,7,0.05,55.52
+ORD-11038,20-01-2023,22-01-2023,Customer_35,Corporate,North,Chandigarh,Technology,Laptops,Laptops Model 41,9924.1,10,0.15,482.45
+ORD-11039,08-04-2023,11-04-2023,Customer_189,Home Office,North,Delhi,Technology,Laptops,Laptops Model 50,82165.07,7,0.2,2656.46
+ORD-11040,05-04-2024,08-04-2024,Customer_289,Consumer,South,Bangalore,Office Supplies,Binders,Binders Model 9,10746.14,4,0.1,-58.23
+ORD-11041,05-12-2024,10-12-2024,Customer_2,Consumer,West,Pune,Office Supplies,Paper,Paper Model 14,60675.13,10,0.15,-2892.59
+ORD-11042,07-07-2022,12-07-2022,Customer_27,Consumer,South,Bangalore,Furniture,Tables,Tables Model 33,87524.1,6,0,23980.58
+ORD-11043,19-06-2024,23-06-2024,Customer_397,Corporate,West,Pune,Technology,Accessories,Accessories Model 46,76120.74,4,0.2,-3934.55
+ORD-11044,29-08-2024,01-09-2024,Customer_325,Corporate,East,Bhubaneswar,Technology,Accessories,Accessories Model 46,8280.87,10,0.05,1977.8
+ORD-11045,20-10-2022,24-10-2022,Customer_92,Consumer,West,Pune,Office Supplies,Storage,Storage Model 24,68694.07,9,0.15,4329.31
+ORD-11046,12-08-2024,15-08-2024,Customer_383,Consumer,West,Mumbai,Office Supplies,Paper,Paper Model 13,87691.34,4,0.15,-565.48
+ORD-11047,24-06-2024,27-06-2024,Customer_7,Home Office,South,Bangalore,Office Supplies,Storage,Storage Model 18,33180.93,6,0.1,2511.74
+ORD-11048,10-03-2022,13-03-2022,Customer_16,Home Office,West,Pune,Furniture,Bookcases,Bookcases Model 31,70574.32,5,0,20663.11
+ORD-11049,19-07-2024,23-07-2024,Customer_314,Home Office,South,Chennai,Office Supplies,Paper,Paper Model 10,75183.34,2,0,10704.86
+ORD-11050,29-12-2022,31-12-2022,Customer_279,Corporate,North,Lucknow,Furniture,Chairs,Chairs Model 13,44616.11,1,0.1,-1143.56
+ORD-11051,04-02-2022,07-02-2022,Customer_341,Corporate,East,Bhubaneswar,Furniture,Bookcases,Bookcases Model 27,72352.49,6,0.2,-10596.54
+ORD-11052,06-05-2022,07-05-2022,Customer_312,Consumer,South,Hyderabad,Furniture,Bookcases,Bookcases Model 45,27030.27,3,0.15,-2402.26
+ORD-11053,01-11-2024,05-11-2024,Customer_239,Home Office,South,Hyderabad,Office Supplies,Binders,Binders Model 45,31460.87,9,0.1,-647.19
+ORD-11054,26-06-2022,01-07-2022,Customer_321,Consumer,West,Mumbai,Furniture,Chairs,Chairs Model 50,18658.85,2,0.05,1481.05
+ORD-11055,13-12-2022,14-12-2022,Customer_329,Consumer,South,Hyderabad,Technology,Laptops,Laptops Model 48,8586.86,4,0.1,1368.12
+ORD-11056,29-09-2022,02-10-2022,Customer_116,Consumer,North,Lucknow,Office Supplies,Storage,Storage Model 18,18211.4,3,0.2,-1295.1
+ORD-11057,13-02-2023,15-02-2023,Customer_179,Home Office,East,Patna,Office Supplies,Storage,Storage Model 34,26822.24,8,0.1,2539.37
+ORD-11058,09-07-2024,11-07-2024,Customer_350,Corporate,North,Chandigarh,Technology,Phones,Phones Model 14,54025.9,4,0.15,-716.9
+ORD-11059,02-12-2023,07-12-2023,Customer_60,Home Office,East,Kolkata,Office Supplies,Binders,Binders Model 43,26192.28,8,0.1,-1103.69
+ORD-11060,17-01-2023,21-01-2023,Customer_166,Home Office,South,Chennai,Office Supplies,Storage,Storage Model 7,37542.13,7,0.2,2827.63
+ORD-11061,05-01-2024,06-01-2024,Customer_157,Consumer,South,Chennai,Technology,Laptops,Laptops Model 30,33998.85,2,0.05,7761.5
+ORD-11062,17-01-2023,18-01-2023,Customer_125,Corporate,West,Ahmedabad,Technology,Accessories,Accessories Model 47,57808.54,7,0.15,1063.27
+ORD-11063,04-02-2024,09-02-2024,Customer_219,Corporate,East,Patna,Office Supplies,Storage,Storage Model 37,30367.24,4,0.2,-3736.27
+ORD-11064,31-03-2024,05-04-2024,Customer_291,Consumer,North,Delhi,Office Supplies,Binders,Binders Model 9,92274.18,10,0.2,-9262.89
+ORD-11065,14-11-2023,15-11-2023,Customer_76,Consumer,North,Lucknow,Furniture,Tables,Tables Model 12,46142,3,0.15,-4604.47
+ORD-11066,10-09-2023,13-09-2023,Customer_398,Corporate,North,Delhi,Furniture,Chairs,Chairs Model 1,43936.61,4,0.05,7521
+ORD-11067,04-09-2024,06-09-2024,Customer_238,Home Office,East,Kolkata,Technology,Accessories,Accessories Model 16,68835.25,4,0.15,4619.48
+ORD-11068,16-07-2022,20-07-2022,Customer_274,Consumer,South,Chennai,Furniture,Tables,Tables Model 23,77439.41,5,0.15,3812.71
+ORD-11069,27-09-2024,02-10-2024,Customer_1,Home Office,North,Delhi,Office Supplies,Binders,Binders Model 39,76900.47,6,0.1,2688.65
+ORD-11070,26-03-2024,27-03-2024,Customer_197,Home Office,South,Bangalore,Technology,Phones,Phones Model 12,4902.67,5,0.15,-376.46
+ORD-11071,21-05-2024,23-05-2024,Customer_216,Consumer,East,Patna,Technology,Accessories,Accessories Model 11,82216.86,1,0.1,15590.63
+ORD-11072,26-03-2024,31-03-2024,Customer_7,Consumer,North,Lucknow,Furniture,Tables,Tables Model 21,68763.53,2,0.15,6937.39
+ORD-11073,21-09-2022,26-09-2022,Customer_156,Corporate,West,Ahmedabad,Technology,Phones,Phones Model 17,48870.87,7,0.15,4537.17
+ORD-11074,26-08-2022,31-08-2022,Customer_92,Corporate,West,Ahmedabad,Technology,Laptops,Laptops Model 35,71346.34,9,0.1,-1575.47
+ORD-11075,25-02-2024,26-02-2024,Customer_373,Corporate,South,Bangalore,Technology,Accessories,Accessories Model 28,59220.23,4,0.2,3151.04
+ORD-11076,10-04-2022,14-04-2022,Customer_130,Corporate,East,Kolkata,Furniture,Tables,Tables Model 22,46294.95,1,0.2,999.83
+ORD-11077,30-08-2023,31-08-2023,Customer_19,Home Office,East,Kolkata,Technology,Laptops,Laptops Model 8,41997.49,8,0.1,1025.61
+ORD-11078,02-01-2024,03-01-2024,Customer_221,Corporate,West,Mumbai,Furniture,Chairs,Chairs Model 23,53731.03,3,0.05,8501.86
+ORD-11079,27-07-2024,01-08-2024,Customer_76,Home Office,South,Hyderabad,Office Supplies,Paper,Paper Model 47,46112.75,2,0.1,1992.02
+ORD-11080,27-07-2022,31-07-2022,Customer_383,Corporate,North,Lucknow,Office Supplies,Paper,Paper Model 47,30547.6,7,0,2932.04
+ORD-11081,12-06-2022,16-06-2022,Customer_125,Home Office,North,Delhi,Office Supplies,Storage,Storage Model 4,99494.38,10,0.2,-1513.37
+ORD-11082,06-02-2024,11-02-2024,Customer_24,Home Office,West,Mumbai,Technology,Laptops,Laptops Model 26,74813.54,3,0.1,5640.25
+ORD-11083,07-01-2023,10-01-2023,Customer_237,Home Office,East,Kolkata,Technology,Phones,Phones Model 41,2362.54,7,0.05,162.29
+ORD-11084,14-10-2023,15-10-2023,Customer_365,Home Office,South,Bangalore,Furniture,Bookcases,Bookcases Model 30,32798.58,2,0.2,-2559.67
+ORD-11085,11-05-2024,16-05-2024,Customer_178,Corporate,East,Bhubaneswar,Technology,Laptops,Laptops Model 10,93022.33,1,0.1,3269.64
+ORD-11086,04-08-2024,08-08-2024,Customer_293,Consumer,South,Hyderabad,Office Supplies,Binders,Binders Model 41,67462.1,5,0.15,-6202.02
+ORD-11087,23-09-2024,28-09-2024,Customer_162,Corporate,East,Kolkata,Furniture,Bookcases,Bookcases Model 44,98494.43,6,0.1,2261.01
+ORD-11088,15-08-2024,16-08-2024,Customer_392,Consumer,South,Hyderabad,Office Supplies,Binders,Binders Model 49,62614.38,10,0.15,240.96
+ORD-11089,05-08-2023,10-08-2023,Customer_112,Consumer,West,Mumbai,Technology,Accessories,Accessories Model 8,13603.89,10,0,1010.02
+ORD-11090,16-08-2023,18-08-2023,Customer_143,Corporate,South,Hyderabad,Technology,Accessories,Accessories Model 50,41147.36,4,0.15,5148.14
+ORD-11091,14-01-2024,15-01-2024,Customer_147,Corporate,East,Bhubaneswar,Office Supplies,Paper,Paper Model 11,39521.25,7,0.15,3525.57
+ORD-11092,30-12-2022,03-01-2023,Customer_335,Corporate,East,Kolkata,Office Supplies,Storage,Storage Model 27,76412.02,3,0,11143.8
+ORD-11093,20-04-2024,22-04-2024,Customer_375,Corporate,North,Chandigarh,Furniture,Chairs,Chairs Model 2,61165.75,9,0,12226.55
+ORD-11094,28-10-2023,02-11-2023,Customer_308,Home Office,South,Bangalore,Office Supplies,Paper,Paper Model 25,47455.4,2,0.1,-2103.23
+ORD-11095,13-11-2024,15-11-2024,Customer_103,Corporate,South,Chennai,Technology,Accessories,Accessories Model 9,87527.69,3,0.15,11753.68
+ORD-11096,24-08-2023,25-08-2023,Customer_91,Corporate,North,Delhi,Office Supplies,Storage,Storage Model 33,46189.7,10,0.15,6809.67
+ORD-11097,16-08-2022,21-08-2022,Customer_350,Home Office,East,Kolkata,Furniture,Tables,Tables Model 27,72343.6,2,0,17156.44
+ORD-11098,30-11-2024,04-12-2024,Customer_311,Home Office,West,Mumbai,Technology,Laptops,Laptops Model 35,88394.03,9,0,20237.7
+ORD-11099,18-02-2022,22-02-2022,Customer_262,Home Office,West,Ahmedabad,Furniture,Tables,Tables Model 42,81260.41,1,0.1,4051.43
+ORD-11100,20-06-2024,24-06-2024,Customer_188,Corporate,North,Delhi,Furniture,Tables,Tables Model 43,75915.07,10,0,17498.31
+ORD-11101,27-11-2023,29-11-2023,Customer_252,Consumer,South,Chennai,Furniture,Tables,Tables Model 49,10164.01,2,0.15,1268.46
+ORD-11102,17-06-2023,20-06-2023,Customer_19,Consumer,East,Bhubaneswar,Technology,Laptops,Laptops Model 10,78843.71,5,0.2,-6400.16
+ORD-11103,04-12-2024,07-12-2024,Customer_82,Home Office,North,Delhi,Technology,Accessories,Accessories Model 41,36591.06,5,0.1,6813.18
+ORD-11104,17-09-2023,21-09-2023,Customer_197,Corporate,West,Ahmedabad,Technology,Phones,Phones Model 41,74501.45,3,0.05,11313.97
+ORD-11105,12-04-2023,13-04-2023,Customer_382,Home Office,South,Hyderabad,Technology,Phones,Phones Model 26,58631.36,5,0.1,7638.78
+ORD-11106,03-09-2024,08-09-2024,Customer_194,Corporate,South,Chennai,Office Supplies,Binders,Binders Model 42,58919.97,9,0.1,4762.76
+ORD-11107,13-12-2022,18-12-2022,Customer_106,Consumer,West,Mumbai,Technology,Laptops,Laptops Model 10,1916.14,2,0.1,11.89
+ORD-11108,24-07-2023,29-07-2023,Customer_269,Consumer,North,Chandigarh,Furniture,Tables,Tables Model 48,50129.63,10,0,13033.42
+ORD-11109,19-02-2023,22-02-2023,Customer_274,Home Office,North,Lucknow,Office Supplies,Binders,Binders Model 35,95226.81,9,0,11224.23
+ORD-11110,12-06-2022,13-06-2022,Customer_368,Corporate,West,Ahmedabad,Office Supplies,Binders,Binders Model 12,24846.88,3,0.05,1418.38
+ORD-11111,24-03-2022,29-03-2022,Customer_32,Consumer,East,Bhubaneswar,Technology,Phones,Phones Model 15,74439.49,2,0.05,9724.73
+ORD-11112,15-05-2023,20-05-2023,Customer_38,Consumer,West,Pune,Furniture,Bookcases,Bookcases Model 31,88223.25,1,0.1,13013.29
+ORD-11113,27-08-2022,31-08-2022,Customer_292,Consumer,North,Lucknow,Furniture,Chairs,Chairs Model 38,54465.7,4,0.2,-1535.52
+ORD-11114,30-05-2024,31-05-2024,Customer_129,Corporate,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 39,80673.7,10,0.15,11944.5
+ORD-11115,09-07-2023,13-07-2023,Customer_128,Corporate,South,Chennai,Office Supplies,Storage,Storage Model 18,51662.92,5,0.1,8618.16
+ORD-11116,27-10-2024,30-10-2024,Customer_92,Consumer,West,Mumbai,Furniture,Tables,Tables Model 49,1148.47,9,0.15,27.5
+ORD-11117,03-06-2024,06-06-2024,Customer_391,Consumer,North,Lucknow,Technology,Accessories,Accessories Model 14,68852.41,3,0.05,13405.42
+ORD-11118,22-09-2023,27-09-2023,Customer_345,Consumer,East,Patna,Office Supplies,Storage,Storage Model 21,10740.25,5,0.2,-1046.39
+ORD-11119,17-11-2022,19-11-2022,Customer_335,Home Office,West,Mumbai,Furniture,Bookcases,Bookcases Model 27,66427.78,6,0.2,6329.81
+ORD-11120,06-07-2023,08-07-2023,Customer_162,Corporate,East,Patna,Technology,Laptops,Laptops Model 20,14926.16,6,0.1,2348
+ORD-11121,21-05-2024,26-05-2024,Customer_72,Corporate,West,Pune,Furniture,Tables,Tables Model 50,6003.09,7,0.1,669.03
+ORD-11122,16-07-2023,17-07-2023,Customer_196,Corporate,South,Bangalore,Office Supplies,Paper,Paper Model 36,25964.97,6,0,3387.43
+ORD-11123,13-02-2023,15-02-2023,Customer_304,Corporate,West,Pune,Furniture,Chairs,Chairs Model 3,24692.21,6,0.15,3342.67
+ORD-11124,09-03-2024,13-03-2024,Customer_142,Home Office,South,Chennai,Office Supplies,Paper,Paper Model 24,37814.39,2,0,7937.51
+ORD-11125,16-06-2024,19-06-2024,Customer_302,Corporate,North,Lucknow,Furniture,Bookcases,Bookcases Model 37,7861.88,7,0.05,1717.72
+ORD-11126,14-02-2023,19-02-2023,Customer_150,Home Office,North,Lucknow,Furniture,Tables,Tables Model 2,57486.95,5,0.2,-991.25
+ORD-11127,15-10-2022,16-10-2022,Customer_236,Corporate,East,Patna,Technology,Accessories,Accessories Model 22,88516.23,3,0.1,5937.81
+ORD-11128,12-02-2023,15-02-2023,Customer_250,Consumer,East,Bhubaneswar,Office Supplies,Binders,Binders Model 34,14456.86,7,0.15,-13.34
+ORD-11129,04-05-2022,09-05-2022,Customer_252,Corporate,East,Kolkata,Office Supplies,Storage,Storage Model 37,99567.62,9,0.1,14689.65
+ORD-11130,15-11-2023,16-11-2023,Customer_45,Home Office,North,Chandigarh,Furniture,Bookcases,Bookcases Model 30,78168.53,9,0.05,15606.17
+ORD-11131,26-01-2023,27-01-2023,Customer_332,Home Office,West,Pune,Technology,Laptops,Laptops Model 22,88990.9,3,0.1,-2824.89
+ORD-11132,18-07-2024,23-07-2024,Customer_116,Corporate,West,Mumbai,Technology,Accessories,Accessories Model 28,29734.47,10,0.15,-2833.16
+ORD-11133,05-11-2022,08-11-2022,Customer_367,Home Office,South,Hyderabad,Office Supplies,Storage,Storage Model 10,53470.25,4,0.2,4349.22
+ORD-11134,22-01-2023,24-01-2023,Customer_277,Corporate,South,Chennai,Furniture,Chairs,Chairs Model 5,3109.34,10,0,761.37
+ORD-11135,02-11-2023,05-11-2023,Customer_112,Corporate,South,Hyderabad,Furniture,Chairs,Chairs Model 2,30641.49,7,0.1,252.63
+ORD-11136,09-10-2022,13-10-2022,Customer_225,Corporate,North,Lucknow,Furniture,Tables,Tables Model 13,86819.51,4,0.15,-7613.76
+ORD-11137,26-02-2023,02-03-2023,Customer_108,Consumer,North,Delhi,Furniture,Bookcases,Bookcases Model 32,91371.68,9,0,8289.31
+ORD-11138,04-01-2024,07-01-2024,Customer_58,Corporate,West,Mumbai,Furniture,Chairs,Chairs Model 2,80079.23,6,0.15,-2897.18
+ORD-11139,15-01-2022,19-01-2022,Customer_334,Corporate,West,Pune,Furniture,Tables,Tables Model 15,36359.05,5,0,5764.26
+ORD-11140,22-06-2022,26-06-2022,Customer_128,Consumer,West,Mumbai,Technology,Accessories,Accessories Model 37,64912.28,6,0,5529.48
+ORD-11141,19-01-2022,21-01-2022,Customer_379,Home Office,South,Bangalore,Office Supplies,Storage,Storage Model 19,76347.64,1,0.2,3862.81
+ORD-11142,01-02-2024,06-02-2024,Customer_343,Consumer,West,Mumbai,Technology,Phones,Phones Model 24,17876.43,9,0.05,3315.93
+ORD-11143,13-08-2022,15-08-2022,Customer_15,Consumer,North,Lucknow,Furniture,Tables,Tables Model 22,40663.6,6,0.1,4289.13
+ORD-11144,28-02-2022,04-03-2022,Customer_87,Consumer,North,Chandigarh,Furniture,Tables,Tables Model 7,5126.7,7,0.2,157.03
+ORD-11145,31-01-2022,03-02-2022,Customer_275,Corporate,South,Bangalore,Technology,Phones,Phones Model 9,11684.85,8,0.15,1704.14
+ORD-11146,02-01-2022,05-01-2022,Customer_343,Home Office,West,Pune,Technology,Phones,Phones Model 7,32626.21,9,0.1,6173.74
+ORD-11147,05-09-2024,09-09-2024,Customer_381,Consumer,South,Bangalore,Furniture,Bookcases,Bookcases Model 46,13415.86,3,0.05,2210.97
+ORD-11148,07-04-2024,10-04-2024,Customer_237,Home Office,North,Delhi,Furniture,Tables,Tables Model 38,18870.36,5,0.1,2408.14
+ORD-11149,30-11-2024,05-12-2024,Customer_18,Home Office,East,Kolkata,Technology,Laptops,Laptops Model 25,37789.68,3,0.2,1288.73
+ORD-11150,09-04-2022,11-04-2022,Customer_6,Home Office,South,Bangalore,Furniture,Bookcases,Bookcases Model 31,3894.35,4,0.05,386.28
+ORD-11151,17-09-2024,20-09-2024,Customer_280,Corporate,South,Hyderabad,Office Supplies,Storage,Storage Model 8,45484.36,4,0.15,2516.57
+ORD-11152,27-07-2023,01-08-2023,Customer_50,Home Office,East,Patna,Furniture,Tables,Tables Model 22,34427.81,8,0.2,-1236.68
+ORD-11153,29-11-2024,02-12-2024,Customer_235,Consumer,North,Lucknow,Technology,Accessories,Accessories Model 8,3028.69,9,0.05,71.62
+ORD-11154,29-08-2023,31-08-2023,Customer_262,Consumer,East,Patna,Technology,Laptops,Laptops Model 10,55553.2,2,0.2,-5796.8
+ORD-11155,31-03-2023,01-04-2023,Customer_269,Consumer,South,Hyderabad,Office Supplies,Storage,Storage Model 35,52794.68,3,0.2,3430.68
+ORD-11156,13-01-2024,18-01-2024,Customer_317,Consumer,South,Hyderabad,Office Supplies,Binders,Binders Model 49,37759.98,2,0.05,5993.52
+ORD-11157,08-11-2022,13-11-2022,Customer_268,Corporate,West,Mumbai,Technology,Phones,Phones Model 31,95926.15,7,0.1,4551.03
+ORD-11158,16-08-2024,19-08-2024,Customer_376,Home Office,South,Hyderabad,Technology,Phones,Phones Model 39,7949.61,9,0.1,17.4
+ORD-11159,17-05-2022,18-05-2022,Customer_331,Corporate,West,Mumbai,Furniture,Tables,Tables Model 26,82332.9,4,0.15,7951.56
+ORD-11160,01-02-2023,03-02-2023,Customer_300,Home Office,East,Kolkata,Furniture,Tables,Tables Model 10,14473.81,7,0,3350.61
+ORD-11161,26-02-2023,02-03-2023,Customer_53,Home Office,South,Hyderabad,Technology,Laptops,Laptops Model 39,1571.52,2,0.2,-113.48
+ORD-11162,22-08-2024,24-08-2024,Customer_387,Home Office,West,Pune,Furniture,Bookcases,Bookcases Model 22,74419.72,8,0.05,1309.84
+ORD-11163,12-07-2023,13-07-2023,Customer_355,Corporate,West,Pune,Furniture,Bookcases,Bookcases Model 49,46919.31,10,0.05,10278.17
+ORD-11164,20-08-2023,22-08-2023,Customer_341,Corporate,North,Delhi,Office Supplies,Paper,Paper Model 45,95993.58,6,0.05,20863.28
+ORD-11165,04-06-2024,08-06-2024,Customer_169,Corporate,North,Chandigarh,Furniture,Tables,Tables Model 43,84311.34,5,0.1,9279.84
+ORD-11166,30-05-2023,02-06-2023,Customer_303,Corporate,North,Delhi,Furniture,Bookcases,Bookcases Model 43,80696.15,4,0.2,-2118.76
+ORD-11167,29-06-2023,30-06-2023,Customer_56,Home Office,West,Ahmedabad,Office Supplies,Paper,Paper Model 42,37894.32,9,0.15,-3390.58
+ORD-11168,21-07-2022,26-07-2022,Customer_368,Home Office,North,Delhi,Furniture,Tables,Tables Model 3,58222.14,10,0.15,6044.67
+ORD-11169,13-12-2023,17-12-2023,Customer_93,Consumer,West,Ahmedabad,Office Supplies,Binders,Binders Model 41,94049.6,7,0,9782.09
+ORD-11170,05-11-2023,06-11-2023,Customer_177,Corporate,East,Patna,Furniture,Bookcases,Bookcases Model 16,45934.01,5,0.1,7101.04
+ORD-11171,21-07-2023,25-07-2023,Customer_395,Home Office,North,Lucknow,Technology,Accessories,Accessories Model 42,99102.08,5,0.05,5187.52
+ORD-11172,22-10-2023,26-10-2023,Customer_117,Corporate,East,Kolkata,Technology,Phones,Phones Model 20,33709.45,10,0.2,1178.65
+ORD-11173,27-07-2022,28-07-2022,Customer_363,Corporate,West,Pune,Office Supplies,Storage,Storage Model 23,64127.76,7,0.05,4243.34
+ORD-11174,22-11-2023,26-11-2023,Customer_260,Home Office,East,Kolkata,Furniture,Tables,Tables Model 42,2084.77,4,0.2,-150.87
+ORD-11175,30-08-2023,04-09-2023,Customer_340,Corporate,South,Chennai,Office Supplies,Paper,Paper Model 17,8055.57,2,0,1836
+ORD-11176,26-10-2022,29-10-2022,Customer_43,Corporate,East,Patna,Furniture,Tables,Tables Model 15,10810.79,5,0.2,-80.79
+ORD-11177,25-06-2024,26-06-2024,Customer_356,Consumer,South,Hyderabad,Furniture,Bookcases,Bookcases Model 16,99271.39,1,0.15,-4356.31
+ORD-11178,08-04-2023,12-04-2023,Customer_225,Corporate,South,Bangalore,Furniture,Tables,Tables Model 36,24746.18,1,0.2,-722.14
+ORD-11179,29-01-2023,02-02-2023,Customer_187,Corporate,South,Hyderabad,Office Supplies,Storage,Storage Model 28,62911.88,7,0.1,7970.08
+ORD-11180,29-01-2024,01-02-2024,Customer_360,Consumer,South,Chennai,Office Supplies,Storage,Storage Model 35,8165.52,3,0.1,1347.2
+ORD-11181,21-09-2022,22-09-2022,Customer_368,Home Office,West,Ahmedabad,Technology,Phones,Phones Model 42,80821.73,10,0.05,14550.06
+ORD-11182,04-04-2023,08-04-2023,Customer_88,Consumer,East,Bhubaneswar,Furniture,Tables,Tables Model 36,62071.19,8,0.2,-2542.06
+ORD-11183,07-07-2024,12-07-2024,Customer_142,Home Office,North,Lucknow,Technology,Accessories,Accessories Model 17,15214.07,6,0,4392.05
+ORD-11184,26-02-2022,03-03-2022,Customer_357,Home Office,West,Pune,Office Supplies,Binders,Binders Model 20,98627.56,4,0.15,-2223.43
+ORD-11185,08-11-2023,10-11-2023,Customer_387,Corporate,West,Mumbai,Office Supplies,Paper,Paper Model 38,58893.81,1,0.2,-8054.16
+ORD-11186,03-09-2022,04-09-2022,Customer_397,Consumer,North,Chandigarh,Technology,Accessories,Accessories Model 12,16540.12,4,0.05,4051.43
+ORD-11187,02-03-2022,06-03-2022,Customer_196,Home Office,North,Lucknow,Furniture,Chairs,Chairs Model 31,94641.64,10,0.15,9580.43
+ORD-11188,11-10-2022,14-10-2022,Customer_95,Corporate,South,Bangalore,Technology,Laptops,Laptops Model 26,18152.39,7,0.1,1359.99
+ORD-11189,15-02-2023,17-02-2023,Customer_311,Consumer,East,Bhubaneswar,Office Supplies,Binders,Binders Model 36,34302.16,2,0.2,-2934.83
+ORD-11190,02-05-2022,05-05-2022,Customer_291,Home Office,North,Delhi,Furniture,Bookcases,Bookcases Model 24,1751.56,6,0.15,-41.05
+ORD-11191,23-05-2022,25-05-2022,Customer_350,Consumer,South,Hyderabad,Office Supplies,Storage,Storage Model 39,18587.78,4,0.1,-478.79
+ORD-11192,06-02-2024,11-02-2024,Customer_276,Consumer,South,Chennai,Office Supplies,Binders,Binders Model 20,50979.21,8,0,10477.28
+ORD-11193,20-08-2023,21-08-2023,Customer_80,Home Office,East,Bhubaneswar,Furniture,Bookcases,Bookcases Model 22,52089.64,2,0.15,-2693.56
+ORD-11194,20-07-2024,25-07-2024,Customer_123,Corporate,West,Pune,Furniture,Bookcases,Bookcases Model 13,55668.95,6,0.05,5089.44
+ORD-11195,07-04-2024,08-04-2024,Customer_47,Home Office,East,Kolkata,Technology,Accessories,Accessories Model 42,70909.92,10,0,18574.4
+ORD-11196,19-10-2023,24-10-2023,Customer_150,Home Office,West,Ahmedabad,Office Supplies,Binders,Binders Model 28,28614.88,3,0.15,2600.54
+ORD-11197,07-04-2024,11-04-2024,Customer_200,Corporate,West,Mumbai,Technology,Phones,Phones Model 32,49378.32,6,0.2,-1430.68
+ORD-11198,12-08-2023,13-08-2023,Customer_161,Home Office,North,Delhi,Furniture,Tables,Tables Model 4,89263.21,10,0.2,-9520.84
+ORD-11199,30-12-2024,31-12-2024,Customer_351,Corporate,North,Lucknow,Technology,Phones,Phones Model 48,35500.68,9,0,9085.92
+ORD-11200,07-11-2024,12-11-2024,Customer_96,Consumer,South,Hyderabad,Technology,Accessories,Accessories Model 46,70068.72,4,0,11512.88
+ORD-11201,18-10-2023,19-10-2023,Customer_106,Home Office,South,Chennai,Furniture,Bookcases,Bookcases Model 8,64221.9,1,0,18015.63
+ORD-11202,18-08-2023,19-08-2023,Customer_206,Consumer,South,Hyderabad,Technology,Phones,Phones Model 10,98715.01,4,0.1,17709.07
+ORD-11203,18-10-2022,23-10-2022,Customer_321,Corporate,South,Hyderabad,Office Supplies,Storage,Storage Model 14,88253.51,7,0.2,2430.78
+ORD-11204,13-07-2023,17-07-2023,Customer_6,Home Office,North,Lucknow,Technology,Laptops,Laptops Model 45,28169.63,4,0.15,-1032.24
+ORD-11205,20-03-2024,21-03-2024,Customer_251,Consumer,West,Mumbai,Office Supplies,Paper,Paper Model 12,22685.97,2,0,2035.63
+ORD-11206,02-11-2023,04-11-2023,Customer_292,Corporate,East,Bhubaneswar,Office Supplies,Paper,Paper Model 7,40121.35,9,0.1,849.62
+ORD-11207,02-09-2022,06-09-2022,Customer_56,Consumer,South,Bangalore,Office Supplies,Storage,Storage Model 15,20478.42,9,0,3424.8
+ORD-11208,19-03-2022,23-03-2022,Customer_74,Corporate,South,Bangalore,Office Supplies,Binders,Binders Model 39,24554.31,10,0.1,1461.65
+ORD-11209,26-03-2022,31-03-2022,Customer_129,Consumer,South,Bangalore,Office Supplies,Storage,Storage Model 23,4853.91,1,0.05,414.22
+ORD-11210,04-08-2024,06-08-2024,Customer_322,Consumer,North,Lucknow,Technology,Phones,Phones Model 22,94708.72,9,0,10068.38
+ORD-11211,17-06-2024,18-06-2024,Customer_163,Consumer,West,Mumbai,Furniture,Bookcases,Bookcases Model 8,53091.38,9,0.05,1902.84
+ORD-11212,14-05-2022,18-05-2022,Customer_54,Home Office,North,Chandigarh,Office Supplies,Binders,Binders Model 15,72545.9,6,0.1,-2930.31
+ORD-11213,13-01-2022,17-01-2022,Customer_19,Home Office,North,Chandigarh,Furniture,Tables,Tables Model 35,76985.2,2,0.05,14669.07
+ORD-11214,01-06-2022,02-06-2022,Customer_384,Consumer,West,Ahmedabad,Office Supplies,Storage,Storage Model 44,28605.61,10,0.15,355.22
+ORD-11215,01-10-2024,06-10-2024,Customer_185,Consumer,East,Patna,Office Supplies,Storage,Storage Model 10,48173.34,3,0.15,1643.37
+ORD-11216,11-08-2023,13-08-2023,Customer_236,Corporate,West,Pune,Furniture,Tables,Tables Model 46,74130.55,7,0.1,-1038.13
+ORD-11217,10-04-2023,14-04-2023,Customer_232,Corporate,South,Hyderabad,Technology,Phones,Phones Model 25,94217.17,7,0.15,1426.96
+ORD-11218,07-08-2024,10-08-2024,Customer_365,Consumer,East,Patna,Office Supplies,Storage,Storage Model 37,13744.91,9,0.05,845.34
+ORD-11219,03-02-2023,08-02-2023,Customer_241,Consumer,East,Patna,Office Supplies,Storage,Storage Model 35,37794.26,5,0.05,3711.68
+ORD-11220,15-07-2024,18-07-2024,Customer_222,Consumer,West,Mumbai,Furniture,Chairs,Chairs Model 29,34099.47,3,0.15,4578.89
+ORD-11221,18-02-2022,20-02-2022,Customer_295,Consumer,West,Ahmedabad,Office Supplies,Binders,Binders Model 10,27695.34,10,0.05,4439.83
+ORD-11222,22-04-2024,25-04-2024,Customer_391,Home Office,West,Mumbai,Office Supplies,Binders,Binders Model 34,76380.72,8,0.1,7835.86
+ORD-11223,14-03-2022,15-03-2022,Customer_161,Corporate,North,Delhi,Furniture,Chairs,Chairs Model 13,92057.09,1,0.1,15019.14
+ORD-11224,05-11-2022,07-11-2022,Customer_361,Consumer,East,Kolkata,Technology,Accessories,Accessories Model 19,90969.94,10,0.15,1707.67
+ORD-11225,14-09-2023,15-09-2023,Customer_283,Home Office,South,Bangalore,Furniture,Tables,Tables Model 31,12284.83,10,0.15,-742.37
+ORD-11226,30-07-2023,01-08-2023,Customer_243,Corporate,North,Chandigarh,Furniture,Tables,Tables Model 31,10158.36,1,0.05,2235.43
+ORD-11227,16-12-2022,17-12-2022,Customer_291,Corporate,East,Patna,Office Supplies,Paper,Paper Model 22,18592.45,1,0.15,2540.68
+ORD-11228,24-06-2022,27-06-2022,Customer_343,Consumer,North,Delhi,Furniture,Bookcases,Bookcases Model 41,30360.4,7,0.05,842.29
+ORD-11229,19-10-2023,22-10-2023,Customer_187,Corporate,North,Lucknow,Office Supplies,Storage,Storage Model 13,2087.58,10,0.15,308.81
+ORD-11230,17-11-2024,20-11-2024,Customer_222,Corporate,North,Lucknow,Technology,Phones,Phones Model 3,5675.1,4,0.1,89.54
+ORD-11231,13-07-2023,17-07-2023,Customer_10,Corporate,North,Lucknow,Office Supplies,Binders,Binders Model 25,13499.66,10,0,3154.33
+ORD-11232,13-02-2023,17-02-2023,Customer_263,Corporate,West,Pune,Furniture,Bookcases,Bookcases Model 27,67354.44,7,0.1,2808.58
+ORD-11233,02-12-2023,04-12-2023,Customer_231,Home Office,East,Bhubaneswar,Technology,Accessories,Accessories Model 6,19693.89,5,0.1,-574.54
+ORD-11234,15-10-2023,20-10-2023,Customer_293,Consumer,North,Delhi,Furniture,Chairs,Chairs Model 50,24674.62,3,0.1,-833.02
+ORD-11235,28-06-2022,29-06-2022,Customer_321,Corporate,North,Chandigarh,Furniture,Bookcases,Bookcases Model 41,80795.13,10,0,7195.69
+ORD-11236,09-11-2023,10-11-2023,Customer_47,Consumer,North,Delhi,Office Supplies,Binders,Binders Model 28,20352.37,2,0.05,466.6
+ORD-11237,23-04-2023,25-04-2023,Customer_102,Home Office,North,Chandigarh,Furniture,Tables,Tables Model 32,32380.29,9,0.05,3853.61
+ORD-11238,17-01-2023,21-01-2023,Customer_4,Consumer,East,Bhubaneswar,Office Supplies,Paper,Paper Model 12,86568.32,1,0.15,-4654.61
+ORD-11239,09-02-2023,12-02-2023,Customer_165,Consumer,South,Hyderabad,Office Supplies,Binders,Binders Model 11,70146.72,2,0.05,3280.2
+ORD-11240,19-03-2024,24-03-2024,Customer_177,Home Office,East,Bhubaneswar,Technology,Accessories,Accessories Model 16,64239.2,4,0.15,-2393.72
+ORD-11241,22-12-2024,23-12-2024,Customer_31,Home Office,East,Patna,Furniture,Chairs,Chairs Model 49,6631.15,8,0.1,1164.92
+ORD-11242,30-05-2024,31-05-2024,Customer_311,Home Office,West,Mumbai,Office Supplies,Paper,Paper Model 5,9279.05,10,0.1,1155.42
+ORD-11243,22-06-2023,25-06-2023,Customer_382,Consumer,West,Pune,Office Supplies,Storage,Storage Model 15,37359.12,5,0.15,-808.13
+ORD-11244,16-12-2022,17-12-2022,Customer_238,Corporate,East,Patna,Technology,Laptops,Laptops Model 10,32774.59,7,0.15,3840.22
+ORD-11245,18-10-2022,22-10-2022,Customer_223,Home Office,West,Mumbai,Furniture,Tables,Tables Model 12,38455.01,3,0.15,-329.66
+ORD-11246,06-11-2022,11-11-2022,Customer_12,Corporate,South,Bangalore,Furniture,Chairs,Chairs Model 26,39433.52,3,0.1,1353.71
+ORD-11247,21-11-2022,24-11-2022,Customer_82,Corporate,East,Kolkata,Furniture,Tables,Tables Model 43,60879.09,8,0.15,534.33
+ORD-11248,03-05-2022,06-05-2022,Customer_254,Consumer,North,Delhi,Technology,Accessories,Accessories Model 27,47931.67,5,0.05,2817.81
+ORD-11249,01-10-2024,02-10-2024,Customer_307,Consumer,East,Bhubaneswar,Furniture,Tables,Tables Model 34,63230.67,10,0.15,3345.33
+ORD-11250,01-08-2023,04-08-2023,Customer_190,Corporate,East,Bhubaneswar,Furniture,Tables,Tables Model 16,56750.11,8,0,3088.76
+ORD-11251,05-03-2023,08-03-2023,Customer_170,Home Office,South,Chennai,Office Supplies,Storage,Storage Model 13,78787.21,9,0.1,7430.02
+ORD-11252,18-09-2022,21-09-2022,Customer_10,Corporate,South,Hyderabad,Office Supplies,Paper,Paper Model 33,24083.28,4,0.15,983.19
+ORD-11253,15-07-2022,19-07-2022,Customer_373,Corporate,South,Hyderabad,Technology,Phones,Phones Model 5,53158.94,8,0.2,3992.64
+ORD-11254,09-07-2024,13-07-2024,Customer_325,Consumer,South,Chennai,Office Supplies,Binders,Binders Model 21,36696.35,1,0.15,-1407.44
+ORD-11255,31-12-2023,05-01-2024,Customer_275,Consumer,West,Ahmedabad,Furniture,Tables,Tables Model 42,95688.43,8,0.1,9682.98
+ORD-11256,21-01-2023,26-01-2023,Customer_145,Consumer,North,Lucknow,Office Supplies,Binders,Binders Model 25,73681.74,4,0.2,3662.88
+ORD-11257,16-05-2024,17-05-2024,Customer_239,Consumer,East,Patna,Furniture,Chairs,Chairs Model 29,29962.29,1,0.15,-2406.65
+ORD-11258,22-02-2024,27-02-2024,Customer_362,Home Office,South,Hyderabad,Technology,Laptops,Laptops Model 30,11220.61,5,0.15,-347.98
+ORD-11259,07-08-2023,09-08-2023,Customer_73,Corporate,South,Chennai,Furniture,Chairs,Chairs Model 47,5716.14,6,0.2,-175.63
+ORD-11260,08-02-2024,13-02-2024,Customer_390,Consumer,North,Chandigarh,Technology,Accessories,Accessories Model 42,32726.48,3,0.1,3379.68
+ORD-11261,03-08-2023,06-08-2023,Customer_35,Consumer,North,Chandigarh,Furniture,Bookcases,Bookcases Model 10,71868.39,3,0.15,-6039.14
+ORD-11262,29-07-2022,03-08-2022,Customer_176,Consumer,South,Hyderabad,Furniture,Chairs,Chairs Model 32,75588.63,6,0.1,-2245.76
+ORD-11263,31-03-2024,05-04-2024,Customer_107,Corporate,North,Chandigarh,Technology,Accessories,Accessories Model 11,79078.01,3,0.2,4405.55
+ORD-11264,25-08-2022,28-08-2022,Customer_358,Consumer,South,Bangalore,Furniture,Bookcases,Bookcases Model 31,68510.43,1,0,14436.9
+ORD-11265,28-03-2022,29-03-2022,Customer_344,Corporate,South,Bangalore,Furniture,Chairs,Chairs Model 2,50308.1,6,0.15,4476.96
+ORD-11266,10-11-2024,13-11-2024,Customer_302,Consumer,West,Mumbai,Office Supplies,Paper,Paper Model 14,69863.91,9,0,4194.11
+ORD-11267,16-04-2023,21-04-2023,Customer_85,Corporate,West,Mumbai,Technology,Accessories,Accessories Model 14,8522.43,6,0.2,636.15
+ORD-11268,08-11-2022,13-11-2022,Customer_82,Consumer,North,Chandigarh,Office Supplies,Paper,Paper Model 49,28501.01,9,0.1,2215.1
+ORD-11269,09-06-2023,12-06-2023,Customer_309,Home Office,South,Chennai,Technology,Laptops,Laptops Model 43,12357.18,5,0.15,-1146.69
+ORD-11270,14-11-2024,18-11-2024,Customer_292,Home Office,South,Bangalore,Furniture,Chairs,Chairs Model 48,39051.48,2,0.05,1953.97
+ORD-11271,04-09-2023,06-09-2023,Customer_130,Consumer,East,Patna,Technology,Phones,Phones Model 33,64959.09,4,0.2,4712.89
+ORD-11272,18-02-2022,21-02-2022,Customer_201,Home Office,North,Delhi,Furniture,Tables,Tables Model 49,21032.09,7,0.1,1355.96
+ORD-11273,05-12-2022,09-12-2022,Customer_1,Consumer,West,Ahmedabad,Office Supplies,Storage,Storage Model 40,79602.82,4,0,16246.34
+ORD-11274,13-04-2022,14-04-2022,Customer_189,Consumer,East,Kolkata,Technology,Laptops,Laptops Model 42,38451.38,10,0.05,934.68
+ORD-11275,26-01-2023,30-01-2023,Customer_155,Consumer,East,Kolkata,Technology,Laptops,Laptops Model 17,65535.78,5,0,17998.12
+ORD-11276,24-07-2024,26-07-2024,Customer_45,Home Office,North,Chandigarh,Office Supplies,Paper,Paper Model 16,79379.87,8,0.05,284.66
+ORD-11277,21-07-2024,26-07-2024,Customer_204,Home Office,East,Patna,Furniture,Bookcases,Bookcases Model 25,56541.45,2,0.05,3045.83
+ORD-11278,03-03-2022,04-03-2022,Customer_337,Consumer,West,Pune,Technology,Laptops,Laptops Model 50,17914.78,1,0.2,1332
+ORD-11279,30-07-2023,02-08-2023,Customer_1,Home Office,West,Mumbai,Technology,Phones,Phones Model 3,67288.63,4,0.05,11601.82
+ORD-11280,10-06-2024,15-06-2024,Customer_234,Corporate,West,Mumbai,Office Supplies,Paper,Paper Model 35,5205.81,6,0,1038.62
+ORD-11281,02-12-2022,05-12-2022,Customer_206,Corporate,East,Bhubaneswar,Office Supplies,Paper,Paper Model 30,14996.72,6,0.15,-847.45
+ORD-11282,13-12-2023,16-12-2023,Customer_130,Consumer,South,Hyderabad,Technology,Accessories,Accessories Model 22,54455.72,6,0.15,-4268.71
+ORD-11283,05-01-2024,09-01-2024,Customer_321,Consumer,West,Ahmedabad,Office Supplies,Binders,Binders Model 39,89029.22,6,0.2,7084.47
+ORD-11284,01-12-2023,06-12-2023,Customer_58,Home Office,South,Hyderabad,Furniture,Chairs,Chairs Model 35,82556.21,7,0,21122.9
+ORD-11285,27-03-2022,01-04-2022,Customer_172,Corporate,North,Chandigarh,Furniture,Tables,Tables Model 8,93483.27,3,0.05,15985.89
+ORD-11286,29-10-2023,01-11-2023,Customer_55,Consumer,West,Ahmedabad,Office Supplies,Storage,Storage Model 41,22297.61,6,0.15,1604.32
+ORD-11287,18-07-2024,20-07-2024,Customer_356,Corporate,South,Hyderabad,Furniture,Bookcases,Bookcases Model 16,80093.55,8,0.05,18338.29
+ORD-11288,11-04-2024,14-04-2024,Customer_152,Consumer,South,Hyderabad,Office Supplies,Binders,Binders Model 14,95179.28,4,0,5144.92
+ORD-11289,16-01-2023,17-01-2023,Customer_306,Corporate,North,Lucknow,Technology,Phones,Phones Model 22,42480.79,6,0.15,-4135.84
+ORD-11290,05-03-2024,08-03-2024,Customer_348,Corporate,South,Chennai,Technology,Accessories,Accessories Model 3,59174.23,8,0.2,-98.58
+ORD-11291,20-10-2024,23-10-2024,Customer_217,Home Office,East,Kolkata,Technology,Accessories,Accessories Model 38,47622.95,7,0.2,2021.44
+ORD-11292,20-12-2023,24-12-2023,Customer_48,Consumer,North,Lucknow,Furniture,Tables,Tables Model 16,76025.42,2,0.15,-2809.97
+ORD-11293,12-07-2022,16-07-2022,Customer_283,Home Office,West,Ahmedabad,Technology,Phones,Phones Model 29,60559.07,8,0,7916.17
+ORD-11294,20-03-2023,25-03-2023,Customer_258,Consumer,West,Mumbai,Furniture,Bookcases,Bookcases Model 30,13274.22,1,0.2,-516.27
+ORD-11295,17-07-2023,22-07-2023,Customer_252,Consumer,West,Ahmedabad,Office Supplies,Paper,Paper Model 29,5347.13,10,0,1200.72
+ORD-11296,24-08-2023,26-08-2023,Customer_249,Consumer,North,Lucknow,Office Supplies,Storage,Storage Model 1,42959.79,3,0,4286.56
+ORD-11297,04-03-2024,06-03-2024,Customer_228,Home Office,West,Mumbai,Technology,Phones,Phones Model 8,22730.55,10,0.15,-973.25
+ORD-11298,27-07-2022,29-07-2022,Customer_358,Corporate,South,Bangalore,Office Supplies,Paper,Paper Model 2,56495.69,8,0.15,-470.67
+ORD-11299,11-12-2024,14-12-2024,Customer_45,Corporate,North,Lucknow,Technology,Phones,Phones Model 43,28250.77,9,0.15,-2352.31
+ORD-11300,03-01-2024,07-01-2024,Customer_341,Consumer,West,Ahmedabad,Furniture,Chairs,Chairs Model 29,12540.58,3,0,2415.38
+ORD-11301,04-02-2024,09-02-2024,Customer_119,Consumer,East,Patna,Furniture,Bookcases,Bookcases Model 10,18958.26,7,0,3600.49
+ORD-11302,08-09-2023,10-09-2023,Customer_137,Home Office,West,Mumbai,Technology,Phones,Phones Model 34,51264.5,1,0,9286.09
+ORD-11303,19-01-2022,22-01-2022,Customer_110,Consumer,South,Chennai,Furniture,Tables,Tables Model 12,80221.92,4,0.15,1569.85
+ORD-11304,05-03-2024,10-03-2024,Customer_38,Home Office,North,Delhi,Office Supplies,Binders,Binders Model 11,85855.64,3,0,14545.84
+ORD-11305,21-05-2023,25-05-2023,Customer_400,Corporate,East,Kolkata,Technology,Laptops,Laptops Model 2,6437.47,7,0,1723.1
+ORD-11306,30-01-2023,02-02-2023,Customer_261,Corporate,West,Pune,Office Supplies,Binders,Binders Model 42,74986.55,3,0.15,4028.57
+ORD-11307,19-11-2022,21-11-2022,Customer_361,Consumer,East,Patna,Furniture,Tables,Tables Model 50,60182.27,7,0,11460.01
+ORD-11308,23-03-2022,26-03-2022,Customer_310,Corporate,East,Patna,Technology,Laptops,Laptops Model 20,65191.6,6,0.1,10370.75
+ORD-11309,20-08-2024,25-08-2024,Customer_294,Consumer,West,Pune,Office Supplies,Paper,Paper Model 31,69677.33,10,0.2,1062.73
+ORD-11310,22-11-2023,23-11-2023,Customer_139,Corporate,West,Pune,Office Supplies,Paper,Paper Model 39,61828.48,2,0.1,6632.98
+ORD-11311,17-11-2024,19-11-2024,Customer_266,Home Office,East,Patna,Furniture,Bookcases,Bookcases Model 27,19531.02,5,0.05,4031.86
+ORD-11312,25-07-2023,28-07-2023,Customer_352,Corporate,West,Ahmedabad,Office Supplies,Binders,Binders Model 46,76947.25,3,0.1,-193.02
+ORD-11313,20-10-2023,22-10-2023,Customer_325,Corporate,West,Ahmedabad,Office Supplies,Binders,Binders Model 12,12162.47,5,0.05,625.56
+ORD-11314,14-10-2024,17-10-2024,Customer_75,Corporate,South,Chennai,Technology,Accessories,Accessories Model 39,27438.68,10,0.15,942.58
+ORD-11315,28-05-2022,31-05-2022,Customer_233,Home Office,North,Lucknow,Office Supplies,Storage,Storage Model 38,825.07,4,0.1,150.12
+ORD-11316,22-07-2023,27-07-2023,Customer_224,Corporate,West,Mumbai,Technology,Phones,Phones Model 21,98166.97,8,0.2,-12072.59
+ORD-11317,02-09-2022,04-09-2022,Customer_275,Corporate,South,Bangalore,Technology,Phones,Phones Model 9,4582.94,2,0.1,-106.02
+ORD-11318,16-07-2022,20-07-2022,Customer_369,Corporate,South,Bangalore,Office Supplies,Paper,Paper Model 19,6458.05,2,0.1,1254.21
+ORD-11319,30-05-2024,01-06-2024,Customer_122,Consumer,South,Bangalore,Office Supplies,Paper,Paper Model 2,57276.4,5,0.2,-3528.92
+ORD-11320,11-10-2023,13-10-2023,Customer_315,Corporate,South,Chennai,Furniture,Bookcases,Bookcases Model 32,61821.52,3,0,11919.81
+ORD-11321,13-09-2022,14-09-2022,Customer_144,Consumer,South,Chennai,Furniture,Chairs,Chairs Model 1,46220.91,3,0.05,10603.37
+ORD-11322,05-05-2023,08-05-2023,Customer_210,Home Office,West,Ahmedabad,Office Supplies,Storage,Storage Model 29,44893.44,4,0,11754.03
+ORD-11323,25-06-2024,27-06-2024,Customer_252,Corporate,West,Ahmedabad,Technology,Phones,Phones Model 34,54355.83,5,0.05,11982.83
+ORD-11324,03-12-2023,06-12-2023,Customer_74,Home Office,North,Lucknow,Office Supplies,Paper,Paper Model 5,39096.12,8,0.2,-3856.15
+ORD-11325,13-02-2024,15-02-2024,Customer_119,Corporate,West,Mumbai,Furniture,Tables,Tables Model 39,35649.92,5,0.05,6371.83
+ORD-11326,19-08-2024,20-08-2024,Customer_185,Corporate,South,Hyderabad,Office Supplies,Binders,Binders Model 2,45498.46,1,0.15,1952.53
+ORD-11327,02-10-2024,06-10-2024,Customer_134,Corporate,West,Pune,Furniture,Tables,Tables Model 11,25865.11,4,0.1,1077.25
+ORD-11328,12-12-2022,14-12-2022,Customer_82,Consumer,South,Bangalore,Technology,Laptops,Laptops Model 40,5273.86,4,0,1195.99
+ORD-11329,13-04-2022,16-04-2022,Customer_96,Consumer,North,Chandigarh,Technology,Laptops,Laptops Model 27,15328.42,3,0.15,-465.55
+ORD-11330,01-10-2023,03-10-2023,Customer_217,Consumer,North,Delhi,Furniture,Bookcases,Bookcases Model 16,5688.58,3,0.1,494.82
+ORD-11331,05-02-2022,07-02-2022,Customer_237,Home Office,North,Delhi,Furniture,Tables,Tables Model 49,81820.33,3,0.2,-9733.81
+ORD-11332,26-01-2024,28-01-2024,Customer_263,Consumer,South,Hyderabad,Furniture,Chairs,Chairs Model 33,78797.38,6,0.05,15096.59
+ORD-11333,30-10-2024,31-10-2024,Customer_189,Home Office,West,Mumbai,Furniture,Chairs,Chairs Model 18,47172.16,3,0.05,10161.92
+ORD-11334,05-08-2024,07-08-2024,Customer_35,Corporate,West,Mumbai,Office Supplies,Binders,Binders Model 9,71486.25,3,0.2,2761.4
+ORD-11335,02-01-2022,05-01-2022,Customer_269,Corporate,West,Ahmedabad,Technology,Accessories,Accessories Model 42,75548.72,9,0.2,2384.22
+ORD-11336,30-11-2024,03-12-2024,Customer_106,Consumer,West,Pune,Office Supplies,Storage,Storage Model 39,17106.1,8,0.05,3441.91
+ORD-11337,23-01-2024,26-01-2024,Customer_102,Consumer,North,Chandigarh,Technology,Laptops,Laptops Model 14,37906.45,6,0,4876.15
+ORD-11338,10-06-2024,12-06-2024,Customer_9,Consumer,West,Ahmedabad,Office Supplies,Binders,Binders Model 29,65082.6,5,0.15,-2530.22
+ORD-11339,02-06-2023,06-06-2023,Customer_27,Consumer,West,Pune,Office Supplies,Storage,Storage Model 10,37470.93,4,0.15,-2525.41
+ORD-11340,27-07-2022,30-07-2022,Customer_182,Home Office,East,Kolkata,Technology,Laptops,Laptops Model 36,90984.51,7,0,18156.79
+ORD-11341,04-09-2024,05-09-2024,Customer_52,Consumer,West,Mumbai,Technology,Laptops,Laptops Model 48,19751.19,9,0.05,54.59
+ORD-11342,07-07-2023,08-07-2023,Customer_314,Corporate,North,Chandigarh,Furniture,Bookcases,Bookcases Model 23,52348.56,1,0.15,44.65
+ORD-11343,31-10-2023,03-11-2023,Customer_264,Consumer,East,Kolkata,Office Supplies,Paper,Paper Model 43,12768.13,8,0.15,106.64
+ORD-11344,02-11-2024,03-11-2024,Customer_101,Consumer,South,Chennai,Technology,Accessories,Accessories Model 40,71569.98,5,0.05,2544.51
+ORD-11345,26-02-2024,29-02-2024,Customer_100,Corporate,West,Mumbai,Furniture,Chairs,Chairs Model 10,30639.57,3,0.05,3204.71
+ORD-11346,24-05-2024,29-05-2024,Customer_34,Consumer,East,Kolkata,Furniture,Chairs,Chairs Model 30,16757.45,1,0.1,2208.79
+ORD-11347,06-12-2022,10-12-2022,Customer_191,Corporate,North,Delhi,Office Supplies,Storage,Storage Model 17,81263.13,6,0.2,2598.83
+ORD-11348,09-11-2023,12-11-2023,Customer_126,Consumer,South,Hyderabad,Office Supplies,Paper,Paper Model 2,59183.07,5,0.2,2638.03
+ORD-11349,07-06-2024,11-06-2024,Customer_154,Corporate,East,Patna,Office Supplies,Storage,Storage Model 7,50138,7,0,14441
+ORD-11350,31-10-2022,05-11-2022,Customer_212,Home Office,South,Bangalore,Furniture,Tables,Tables Model 26,90564.88,2,0.2,-2131.81
+ORD-11351,08-05-2024,13-05-2024,Customer_30,Corporate,East,Patna,Furniture,Chairs,Chairs Model 26,16663.32,8,0,4061.54
+ORD-11352,04-06-2024,06-06-2024,Customer_252,Corporate,West,Pune,Furniture,Tables,Tables Model 38,93790.61,2,0.1,836.67
+ORD-11353,15-03-2023,19-03-2023,Customer_168,Home Office,West,Mumbai,Technology,Phones,Phones Model 25,61251.99,3,0.1,-624.89
+ORD-11354,19-06-2022,20-06-2022,Customer_358,Home Office,North,Delhi,Office Supplies,Binders,Binders Model 10,15429.6,7,0.15,1915.51
+ORD-11355,16-04-2022,17-04-2022,Customer_45,Consumer,West,Mumbai,Furniture,Chairs,Chairs Model 11,29496.59,6,0.1,3436.78
+ORD-11356,27-09-2023,30-09-2023,Customer_99,Consumer,North,Delhi,Office Supplies,Binders,Binders Model 26,98824.37,10,0,25235.54
+ORD-11357,01-10-2024,02-10-2024,Customer_34,Corporate,East,Bhubaneswar,Technology,Accessories,Accessories Model 39,83766.56,2,0.2,-6608.24
+ORD-11358,17-06-2023,19-06-2023,Customer_341,Consumer,North,Lucknow,Office Supplies,Binders,Binders Model 45,69058.69,1,0.15,7806.33
+ORD-11359,26-08-2024,30-08-2024,Customer_121,Corporate,East,Bhubaneswar,Technology,Laptops,Laptops Model 43,65522.2,7,0.15,6666.32
+ORD-11360,31-10-2023,02-11-2023,Customer_61,Consumer,South,Chennai,Furniture,Bookcases,Bookcases Model 7,15944.3,2,0,3139.76
+ORD-11361,08-07-2024,10-07-2024,Customer_247,Corporate,South,Hyderabad,Furniture,Tables,Tables Model 27,77151.49,6,0.2,-6958.02
+ORD-11362,09-09-2022,14-09-2022,Customer_177,Consumer,East,Bhubaneswar,Furniture,Tables,Tables Model 4,65790.08,6,0.05,6427.6
+ORD-11363,06-03-2022,09-03-2022,Customer_168,Home Office,West,Mumbai,Technology,Laptops,Laptops Model 46,66003.78,7,0.1,4118.84
+ORD-11364,14-05-2024,17-05-2024,Customer_72,Consumer,South,Bangalore,Furniture,Tables,Tables Model 33,41872.2,8,0.1,-542.58
+ORD-11365,11-10-2024,14-10-2024,Customer_315,Corporate,South,Hyderabad,Furniture,Tables,Tables Model 22,4325.68,1,0.1,553
+ORD-11366,06-01-2022,07-01-2022,Customer_271,Home Office,West,Ahmedabad,Furniture,Chairs,Chairs Model 40,15206.68,9,0.1,1257.86
+ORD-11367,07-02-2023,11-02-2023,Customer_171,Consumer,North,Lucknow,Office Supplies,Paper,Paper Model 27,54938.76,9,0.15,-4882.49
+ORD-11368,09-05-2022,13-05-2022,Customer_136,Corporate,West,Pune,Office Supplies,Paper,Paper Model 42,23479.05,6,0.2,-2213.49
+ORD-11369,21-03-2022,23-03-2022,Customer_231,Consumer,East,Patna,Technology,Phones,Phones Model 26,53308.91,1,0.05,12687.64
+ORD-11370,05-01-2022,09-01-2022,Customer_376,Home Office,North,Delhi,Technology,Accessories,Accessories Model 20,81535.26,9,0.15,-7820.39
+ORD-11371,15-04-2022,19-04-2022,Customer_200,Home Office,South,Hyderabad,Office Supplies,Paper,Paper Model 47,29111.94,2,0.05,6736.72
+ORD-11372,04-11-2023,06-11-2023,Customer_67,Home Office,South,Bangalore,Office Supplies,Storage,Storage Model 47,8427.85,4,0.15,-799.19
+ORD-11373,13-06-2023,15-06-2023,Customer_186,Consumer,East,Bhubaneswar,Technology,Laptops,Laptops Model 49,16605.22,7,0.05,3026.97
+ORD-11374,15-08-2023,18-08-2023,Customer_395,Corporate,North,Delhi,Furniture,Chairs,Chairs Model 12,85376.51,1,0.05,1408.33
+ORD-11375,21-08-2022,25-08-2022,Customer_143,Consumer,East,Kolkata,Office Supplies,Paper,Paper Model 23,46797.07,2,0.15,3135.38
+ORD-11376,08-07-2022,11-07-2022,Customer_393,Consumer,South,Chennai,Furniture,Bookcases,Bookcases Model 5,94521.6,1,0.2,4829.47
+ORD-11377,29-11-2022,01-12-2022,Customer_200,Corporate,East,Kolkata,Office Supplies,Paper,Paper Model 7,53713.52,8,0.1,-2285.66
+ORD-11378,15-11-2024,19-11-2024,Customer_382,Consumer,South,Bangalore,Furniture,Bookcases,Bookcases Model 43,63930.18,10,0,18797.67
+ORD-11379,09-10-2024,14-10-2024,Customer_2,Home Office,West,Pune,Technology,Accessories,Accessories Model 23,37202.64,1,0,6072.49
+ORD-11380,05-02-2022,08-02-2022,Customer_50,Home Office,East,Patna,Office Supplies,Binders,Binders Model 34,96973.58,8,0,8099.22
+ORD-11381,27-08-2022,01-09-2022,Customer_17,Home Office,South,Chennai,Technology,Accessories,Accessories Model 21,99615.5,6,0,20544.37
+ORD-11382,19-05-2023,22-05-2023,Customer_195,Consumer,West,Pune,Furniture,Chairs,Chairs Model 18,5963.84,5,0.05,1037.57
+ORD-11383,28-11-2023,02-12-2023,Customer_146,Corporate,North,Chandigarh,Technology,Phones,Phones Model 12,50079.56,5,0.15,-4723.35
+ORD-11384,10-07-2022,12-07-2022,Customer_94,Home Office,North,Lucknow,Furniture,Chairs,Chairs Model 14,97476.59,6,0.1,16775.93
+ORD-11385,11-06-2022,13-06-2022,Customer_354,Home Office,North,Lucknow,Technology,Accessories,Accessories Model 20,75606.64,2,0.2,6336.01
+ORD-11386,02-09-2023,03-09-2023,Customer_71,Consumer,West,Mumbai,Technology,Laptops,Laptops Model 7,9750.26,6,0.1,1318.95
+ORD-11387,09-01-2022,10-01-2022,Customer_288,Consumer,West,Mumbai,Technology,Laptops,Laptops Model 6,40895.87,2,0.1,-421.16
+ORD-11388,16-11-2023,18-11-2023,Customer_363,Consumer,South,Hyderabad,Office Supplies,Paper,Paper Model 11,86735.87,1,0.15,-3937.42
+ORD-11389,09-11-2024,11-11-2024,Customer_122,Consumer,West,Mumbai,Office Supplies,Paper,Paper Model 28,87569.74,10,0.05,10785.37
+ORD-11390,09-03-2023,14-03-2023,Customer_297,Corporate,West,Mumbai,Office Supplies,Storage,Storage Model 18,34754.65,7,0.2,-1637.44
+ORD-11391,26-05-2023,31-05-2023,Customer_208,Home Office,North,Chandigarh,Technology,Laptops,Laptops Model 13,65009.59,8,0,19142.33
+ORD-11392,03-06-2023,05-06-2023,Customer_119,Consumer,South,Hyderabad,Office Supplies,Binders,Binders Model 48,96733.85,4,0.05,17196.09
+ORD-11393,06-04-2022,07-04-2022,Customer_368,Consumer,West,Mumbai,Furniture,Tables,Tables Model 45,95960.28,10,0,20436.01
+ORD-11394,29-01-2022,02-02-2022,Customer_211,Corporate,North,Lucknow,Furniture,Tables,Tables Model 43,14866.18,2,0.1,464.98
+ORD-11395,28-11-2024,01-12-2024,Customer_341,Home Office,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 16,15018.59,7,0.1,-45.05
+ORD-11396,30-09-2024,04-10-2024,Customer_31,Home Office,East,Patna,Furniture,Tables,Tables Model 30,804.21,8,0.05,12.35
+ORD-11397,09-12-2024,12-12-2024,Customer_8,Corporate,South,Chennai,Furniture,Tables,Tables Model 49,14499.44,5,0.05,1544.74
+ORD-11398,20-12-2024,21-12-2024,Customer_200,Corporate,West,Pune,Technology,Accessories,Accessories Model 11,22819.42,4,0.1,3648.07
+ORD-11399,10-09-2024,12-09-2024,Customer_283,Home Office,West,Mumbai,Furniture,Chairs,Chairs Model 42,64699.43,7,0.05,15956.39
+ORD-11400,24-10-2022,25-10-2022,Customer_265,Corporate,East,Bhubaneswar,Technology,Accessories,Accessories Model 48,25853.71,2,0.1,4278.8
+ORD-11401,06-04-2024,07-04-2024,Customer_343,Home Office,North,Chandigarh,Furniture,Chairs,Chairs Model 40,89928.18,5,0.05,17035.48
+ORD-11402,21-12-2024,23-12-2024,Customer_175,Consumer,West,Ahmedabad,Furniture,Chairs,Chairs Model 31,95882.84,6,0.2,-4321.29
+ORD-11403,01-02-2023,03-02-2023,Customer_322,Corporate,North,Chandigarh,Technology,Accessories,Accessories Model 43,76534.14,5,0.1,7389.22
+ORD-11404,01-01-2024,02-01-2024,Customer_183,Corporate,West,Pune,Office Supplies,Binders,Binders Model 49,89080.58,6,0,23557.28
+ORD-11405,09-05-2023,14-05-2023,Customer_71,Consumer,East,Patna,Furniture,Tables,Tables Model 27,95771.43,1,0,7259.29
+ORD-11406,31-03-2022,02-04-2022,Customer_114,Home Office,West,Pune,Office Supplies,Paper,Paper Model 14,7724.09,9,0.15,614.9
+ORD-11407,24-03-2023,27-03-2023,Customer_330,Home Office,North,Delhi,Technology,Phones,Phones Model 29,91861.24,7,0,27358.93
+ORD-11408,05-03-2023,06-03-2023,Customer_323,Consumer,East,Kolkata,Office Supplies,Binders,Binders Model 3,9804.26,5,0.2,-154.68
+ORD-11409,01-09-2024,04-09-2024,Customer_170,Consumer,South,Hyderabad,Office Supplies,Paper,Paper Model 6,1132.48,8,0.05,225.28
+ORD-11410,28-10-2024,02-11-2024,Customer_285,Home Office,South,Hyderabad,Technology,Phones,Phones Model 11,42997.02,6,0.1,5947.86
+ORD-11411,25-02-2022,26-02-2022,Customer_376,Consumer,North,Chandigarh,Technology,Phones,Phones Model 13,17620.79,3,0.05,3248.72
+ORD-11412,05-03-2023,07-03-2023,Customer_61,Home Office,South,Chennai,Technology,Phones,Phones Model 47,66335.3,4,0.2,-7719.52
+ORD-11413,23-02-2023,26-02-2023,Customer_88,Corporate,East,Bhubaneswar,Technology,Phones,Phones Model 3,68947.75,3,0.15,-377.73
+ORD-11414,27-12-2024,29-12-2024,Customer_118,Home Office,West,Mumbai,Furniture,Chairs,Chairs Model 11,21572.62,3,0.15,-1572.43
+ORD-11415,30-06-2023,05-07-2023,Customer_218,Consumer,East,Patna,Furniture,Bookcases,Bookcases Model 40,53518.35,10,0.05,12759.02
+ORD-11416,30-06-2024,03-07-2024,Customer_193,Home Office,East,Patna,Office Supplies,Binders,Binders Model 30,92658.2,1,0.05,9400.55
+ORD-11417,06-07-2022,11-07-2022,Customer_203,Home Office,North,Chandigarh,Furniture,Chairs,Chairs Model 38,23358.91,9,0,4438.57
+ORD-11418,04-10-2022,05-10-2022,Customer_279,Consumer,South,Hyderabad,Furniture,Chairs,Chairs Model 16,24428.05,1,0.2,1577.46
+ORD-11419,21-06-2022,24-06-2022,Customer_106,Consumer,North,Lucknow,Technology,Laptops,Laptops Model 15,55116.29,3,0,8649.41
+ORD-11420,03-07-2022,08-07-2022,Customer_165,Corporate,South,Hyderabad,Technology,Phones,Phones Model 11,42501.18,9,0,9963.78
+ORD-11421,20-07-2023,23-07-2023,Customer_85,Home Office,North,Delhi,Furniture,Chairs,Chairs Model 41,77642.77,1,0,5505.53
+ORD-11422,16-06-2022,17-06-2022,Customer_323,Home Office,South,Chennai,Furniture,Tables,Tables Model 39,78473.14,9,0.1,-2800.56
+ORD-11423,22-02-2022,24-02-2022,Customer_134,Consumer,East,Patna,Technology,Accessories,Accessories Model 6,11958.18,9,0.1,1651.81
+ORD-11424,30-10-2022,04-11-2022,Customer_391,Corporate,West,Pune,Technology,Accessories,Accessories Model 33,91070.23,2,0.05,4000.83
+ORD-11425,28-03-2022,31-03-2022,Customer_2,Home Office,West,Pune,Furniture,Bookcases,Bookcases Model 17,43751.65,1,0,8741.71
+ORD-11426,19-05-2023,23-05-2023,Customer_208,Corporate,East,Bhubaneswar,Technology,Phones,Phones Model 37,36465.94,9,0.1,3008.76
+ORD-11427,09-09-2022,11-09-2022,Customer_188,Corporate,West,Mumbai,Technology,Accessories,Accessories Model 11,23170.55,6,0.1,2672.28
+ORD-11428,08-02-2024,09-02-2024,Customer_315,Home Office,North,Chandigarh,Technology,Phones,Phones Model 30,40969.82,4,0.15,2070.03
+ORD-11429,29-12-2023,30-12-2023,Customer_130,Home Office,South,Bangalore,Furniture,Chairs,Chairs Model 8,27147.16,1,0,7229.64
+ORD-11430,19-12-2024,20-12-2024,Customer_256,Consumer,East,Bhubaneswar,Office Supplies,Storage,Storage Model 34,96234.13,3,0.2,8383.08
+ORD-11431,02-02-2023,06-02-2023,Customer_73,Home Office,South,Hyderabad,Office Supplies,Binders,Binders Model 26,40271.02,4,0.05,6775.6
+ORD-11432,28-08-2023,30-08-2023,Customer_372,Home Office,East,Patna,Technology,Phones,Phones Model 28,2560.58,7,0.05,235.74
+ORD-11433,15-03-2023,16-03-2023,Customer_324,Corporate,East,Patna,Furniture,Tables,Tables Model 11,87407.7,7,0.1,16289.58
+ORD-11434,28-12-2023,31-12-2023,Customer_96,Corporate,East,Kolkata,Furniture,Tables,Tables Model 13,78971.57,6,0.1,6781.08
+ORD-11435,17-02-2022,18-02-2022,Customer_272,Home Office,West,Pune,Technology,Laptops,Laptops Model 2,79313.33,5,0.2,-481.64
+ORD-11436,08-04-2023,09-04-2023,Customer_69,Corporate,East,Kolkata,Office Supplies,Paper,Paper Model 40,50346.5,3,0.1,1655.79
+ORD-11437,07-05-2022,10-05-2022,Customer_111,Consumer,North,Lucknow,Office Supplies,Paper,Paper Model 49,6223.58,5,0.05,318.4
+ORD-11438,29-12-2023,31-12-2023,Customer_47,Consumer,East,Bhubaneswar,Technology,Accessories,Accessories Model 46,12656.95,4,0.05,2550.21
+ORD-11439,20-07-2024,25-07-2024,Customer_324,Home Office,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 13,5308.87,4,0.05,787.46
+ORD-11440,05-10-2024,07-10-2024,Customer_371,Consumer,South,Chennai,Office Supplies,Storage,Storage Model 6,99944.64,1,0.15,11364.04
+ORD-11441,31-10-2024,04-11-2024,Customer_269,Consumer,East,Patna,Furniture,Tables,Tables Model 1,96093.62,7,0.2,2889.68
+ORD-11442,14-01-2023,16-01-2023,Customer_306,Home Office,North,Delhi,Office Supplies,Binders,Binders Model 1,33791.55,7,0,6333.72
+ORD-11443,16-05-2023,20-05-2023,Customer_372,Corporate,East,Patna,Office Supplies,Paper,Paper Model 1,49986.49,5,0.2,-6002.12
+ORD-11444,14-03-2023,18-03-2023,Customer_64,Home Office,East,Bhubaneswar,Technology,Phones,Phones Model 41,88645.45,2,0.1,8946.35
+ORD-11445,11-08-2023,12-08-2023,Customer_388,Corporate,East,Kolkata,Furniture,Tables,Tables Model 13,53223.91,6,0,10465.91
+ORD-11446,16-12-2022,18-12-2022,Customer_173,Corporate,South,Hyderabad,Office Supplies,Paper,Paper Model 5,15214.29,4,0.15,-475.37
+ORD-11447,08-07-2022,11-07-2022,Customer_383,Consumer,North,Chandigarh,Office Supplies,Paper,Paper Model 24,29747.86,9,0.2,-1433.49
+ORD-11448,13-02-2022,16-02-2022,Customer_60,Home Office,South,Chennai,Technology,Laptops,Laptops Model 9,43819.44,1,0.2,1026.32
+ORD-11449,23-05-2024,24-05-2024,Customer_312,Consumer,North,Delhi,Furniture,Bookcases,Bookcases Model 49,88551.26,6,0.15,-48.03
+ORD-11450,25-02-2022,01-03-2022,Customer_394,Consumer,South,Hyderabad,Technology,Phones,Phones Model 17,32377.63,4,0,9331.13
+ORD-11451,29-11-2023,02-12-2023,Customer_249,Corporate,North,Lucknow,Office Supplies,Paper,Paper Model 49,18748.69,10,0,3212.52
+ORD-11452,20-10-2022,25-10-2022,Customer_284,Consumer,South,Hyderabad,Technology,Laptops,Laptops Model 34,75091.5,1,0,8299.49
+ORD-11453,05-07-2024,07-07-2024,Customer_24,Consumer,East,Patna,Furniture,Tables,Tables Model 15,86351.95,9,0.2,-10006.13
+ORD-11454,06-02-2024,11-02-2024,Customer_260,Corporate,North,Delhi,Furniture,Bookcases,Bookcases Model 37,37371,1,0.2,2076.49
+ORD-11455,13-05-2022,16-05-2022,Customer_85,Corporate,East,Bhubaneswar,Furniture,Chairs,Chairs Model 49,71607.95,8,0.1,6854.66
+ORD-11456,11-05-2024,16-05-2024,Customer_268,Corporate,West,Ahmedabad,Technology,Accessories,Accessories Model 10,64354.06,10,0.15,-4993
+ORD-11457,20-01-2024,25-01-2024,Customer_396,Home Office,West,Ahmedabad,Office Supplies,Binders,Binders Model 20,15119.72,10,0,1868.83
+ORD-11458,03-02-2023,05-02-2023,Customer_287,Consumer,South,Bangalore,Furniture,Chairs,Chairs Model 27,29795.95,3,0.15,31.38
+ORD-11459,17-02-2022,22-02-2022,Customer_90,Home Office,West,Mumbai,Technology,Accessories,Accessories Model 14,12212.81,7,0,2570.6
+ORD-11460,26-09-2023,01-10-2023,Customer_267,Consumer,South,Hyderabad,Office Supplies,Binders,Binders Model 43,32914.92,10,0.1,3704.49
+ORD-11461,05-02-2022,08-02-2022,Customer_175,Consumer,North,Lucknow,Technology,Accessories,Accessories Model 36,12221.63,3,0.2,30.58
+ORD-11462,29-10-2022,02-11-2022,Customer_196,Home Office,East,Bhubaneswar,Office Supplies,Binders,Binders Model 25,43697.48,5,0,10745.22
+ORD-11463,07-12-2023,11-12-2023,Customer_352,Consumer,North,Delhi,Furniture,Bookcases,Bookcases Model 50,48451.94,7,0,10562.66
+ORD-11464,25-01-2023,30-01-2023,Customer_77,Consumer,East,Bhubaneswar,Technology,Phones,Phones Model 38,25567.09,4,0.1,1269.86
+ORD-11465,29-09-2023,04-10-2023,Customer_1,Consumer,East,Bhubaneswar,Furniture,Chairs,Chairs Model 43,83336.73,3,0.15,7340.57
+ORD-11466,18-11-2024,22-11-2024,Customer_42,Home Office,West,Pune,Furniture,Chairs,Chairs Model 13,12120,7,0.2,-1205.76
+ORD-11467,17-11-2023,18-11-2023,Customer_311,Consumer,North,Delhi,Technology,Accessories,Accessories Model 48,6070.63,5,0,748.26
+ORD-11468,21-10-2023,22-10-2023,Customer_322,Consumer,West,Pune,Furniture,Bookcases,Bookcases Model 4,52419.87,10,0.15,3172.36
+ORD-11469,25-01-2024,27-01-2024,Customer_30,Home Office,East,Patna,Furniture,Tables,Tables Model 29,44344.63,10,0.1,2114.55
+ORD-11470,14-10-2022,18-10-2022,Customer_382,Corporate,West,Ahmedabad,Furniture,Bookcases,Bookcases Model 47,14150.71,1,0.2,702.82
+ORD-11471,29-08-2024,02-09-2024,Customer_269,Home Office,North,Delhi,Office Supplies,Paper,Paper Model 35,93282.27,2,0.1,-4133.92
+ORD-11472,23-06-2023,24-06-2023,Customer_88,Consumer,South,Bangalore,Furniture,Tables,Tables Model 23,23595.25,3,0.1,931.3
+ORD-11473,01-04-2024,02-04-2024,Customer_84,Consumer,West,Ahmedabad,Furniture,Tables,Tables Model 25,1558.82,3,0,108.57
+ORD-11474,19-08-2022,21-08-2022,Customer_177,Corporate,West,Mumbai,Office Supplies,Paper,Paper Model 8,32116.72,8,0.15,1173.17
+ORD-11475,25-01-2023,27-01-2023,Customer_87,Home Office,West,Mumbai,Office Supplies,Paper,Paper Model 21,30024.45,5,0.2,-4134.49
+ORD-11476,08-04-2022,10-04-2022,Customer_28,Consumer,West,Pune,Office Supplies,Binders,Binders Model 29,97321.32,2,0.15,-3031.76
+ORD-11477,24-02-2023,27-02-2023,Customer_256,Home Office,North,Lucknow,Technology,Accessories,Accessories Model 33,11274.12,3,0.15,960.88
+ORD-11478,15-12-2022,17-12-2022,Customer_94,Consumer,North,Delhi,Furniture,Bookcases,Bookcases Model 41,9680.72,8,0.2,-154.3
+ORD-11479,01-02-2023,04-02-2023,Customer_389,Corporate,West,Mumbai,Office Supplies,Paper,Paper Model 15,34343.69,8,0.2,-1391.51
+ORD-11480,13-05-2023,14-05-2023,Customer_231,Home Office,South,Hyderabad,Office Supplies,Storage,Storage Model 2,41138.3,6,0.05,5887.15
+ORD-11481,06-10-2024,11-10-2024,Customer_255,Consumer,West,Pune,Office Supplies,Binders,Binders Model 26,45630.59,1,0.15,5257.83
+ORD-11482,27-11-2024,29-11-2024,Customer_323,Corporate,North,Lucknow,Furniture,Tables,Tables Model 21,54291.75,2,0.05,2449.22
+ORD-11483,23-11-2022,24-11-2022,Customer_54,Home Office,West,Ahmedabad,Office Supplies,Storage,Storage Model 17,1975.8,6,0.2,192.08
+ORD-11484,09-04-2024,14-04-2024,Customer_72,Corporate,South,Hyderabad,Furniture,Bookcases,Bookcases Model 37,65304.52,3,0,19292.62
+ORD-11485,25-03-2024,29-03-2024,Customer_312,Home Office,North,Chandigarh,Office Supplies,Paper,Paper Model 19,77370.8,5,0.05,8316.61
+ORD-11486,03-02-2022,05-02-2022,Customer_369,Home Office,South,Bangalore,Technology,Phones,Phones Model 46,95164.3,4,0.2,-3969.52
+ORD-11487,29-05-2023,03-06-2023,Customer_323,Consumer,East,Bhubaneswar,Furniture,Tables,Tables Model 42,88307.87,6,0.2,-1938.23
+ORD-11488,22-06-2022,25-06-2022,Customer_92,Consumer,East,Patna,Office Supplies,Paper,Paper Model 35,50999.72,1,0.15,-3931.24
+ORD-11489,02-04-2024,06-04-2024,Customer_232,Corporate,West,Pune,Furniture,Bookcases,Bookcases Model 25,77026.18,3,0,21835.08
+ORD-11490,09-06-2022,14-06-2022,Customer_197,Home Office,North,Chandigarh,Office Supplies,Paper,Paper Model 10,97349.06,8,0.2,-1650.13
+ORD-11491,12-06-2024,17-06-2024,Customer_384,Consumer,West,Ahmedabad,Furniture,Chairs,Chairs Model 42,32351.57,10,0.05,3994.67
+ORD-11492,25-12-2024,28-12-2024,Customer_138,Consumer,North,Lucknow,Office Supplies,Binders,Binders Model 43,68392.7,4,0.1,-2532.72
+ORD-11493,09-01-2024,13-01-2024,Customer_64,Consumer,West,Ahmedabad,Office Supplies,Storage,Storage Model 18,68718.44,10,0,3962.2
+ORD-11494,27-12-2022,30-12-2022,Customer_101,Consumer,East,Patna,Technology,Phones,Phones Model 23,93455.97,7,0.15,4523.15
+ORD-11495,26-08-2023,28-08-2023,Customer_114,Consumer,South,Hyderabad,Furniture,Bookcases,Bookcases Model 35,53503.96,10,0.1,7885.62
+ORD-11496,31-07-2022,03-08-2022,Customer_173,Home Office,West,Mumbai,Technology,Phones,Phones Model 31,68604.69,6,0.05,9142.27
+ORD-11497,31-12-2022,03-01-2023,Customer_114,Corporate,West,Mumbai,Office Supplies,Binders,Binders Model 34,40663.32,10,0.05,8827.34
+ORD-11498,28-01-2024,29-01-2024,Customer_331,Corporate,South,Hyderabad,Furniture,Bookcases,Bookcases Model 34,71206.22,6,0.1,-3103.54
+ORD-11499,23-06-2023,27-06-2023,Customer_100,Corporate,East,Kolkata,Office Supplies,Storage,Storage Model 41,75720.8,5,0.1,458.24
